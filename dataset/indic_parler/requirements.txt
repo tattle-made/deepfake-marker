@@ -1,0 +1,5 @@
+parler_tts==0.2.3
+tqdm==4.67.1
+transformers==4.47.0
+soundfile==0.12.1
+torch==2.5.1
