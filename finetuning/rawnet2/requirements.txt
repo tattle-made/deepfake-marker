@@ -1,0 +1,7 @@
+datasets==3.3.1
+pandas==2.2.3
+numpy==1.26.4
+torch==2.5.1
+librosa==0.10.2.post1
+tqdm==4.67.1
+jupyterlab==4.4.2
