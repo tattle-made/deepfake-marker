@@ -19,3 +19,36 @@ x = Dropout(0.5)(x)
 x = GlobalAveragePooling2D()(x)
 output = Dense(2, activation='sigmoid')(x)
 ```
+
+### Steps to run the model
+
+1. Install and Set Up uv
+```shell
+pip install uv
+```
+
+2. Create a Virtual Environment Using uv
+
+```shell
+uv venv
+```
+
+3. Activate Virtual Environment
+
+```shell
+source .venv/bin/activate
+```
+
+4. Install Packages from requirements.txt Using uv
+
+```shell
+uv pip install -r requirements.txt
+```
+
+5. Run Jupyter notebook 
+
+```shell
+jupyter lab
+```
+
+6. Run all the shells in the notebook to finetune the model.
