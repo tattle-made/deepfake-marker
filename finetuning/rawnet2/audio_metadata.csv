@@ -1,0 +1,1982 @@
+Filename,Date,Ground Truth,Public Comments,Finetuning Set
+-0ljEYr8ZyqCHRqy5Bx4f4J6YOg.mp3,2024-07-11,Real,Known case of Kansas attorney general trying to sue Pfizer,Test
+-3Ojtwbxwqcg3HSY6Z7sO3WlczI.mp3,2024-02-16,Real,original of zelensky dancing video,Train
+-3yrABevXoXoMUCu3VsqL4r6FRk.mp3,2024-09-19,Fake,,Test
+-4VoPC1LIL2SJFvY6Tf6Ygvw4vY.mp3,2024-11-04,Real,"Lips and mouth are crisp, clear, nuanced, and match sound perfectly.",Train
+-6auY0UxlBjGrftjaISr4gy0UyA.mp3,2024-09-27,Fake,https://chinafactcheck.com/?p=14503,Test
+-736-WBXiqzLdY1Aq1gogGFVCeA.mp3,2024-10-02,Real,https://www.bbc.co.uk/news/live/world-us-canada-68955286,Train
+-A-ue1LDLO3We2mIfyBiQcYLZDw.mp3,2024-09-17,Real,Mao did not use this phrase.,Train
+-AYzYzT6ZyOyIXAKjzXNJfNugu8.mp3,2024-06-18,Fake,,Test
+-DAnwLRZGcKNi9fasqaJTAga6sg.mp3,2024-10-30,Real,second 0:35 - https://x.com/KamalaHQ/status/1851417225405575553,Train
+-DwTYNAfpAmBdc0-uvy4C4sWjDI.m4a,2024-05-23,Real,,Test
+-E7Tz9-WBSRlRJjRhIXa-6DfsPc.mp3,2024-07-25,Real,,Train
+-FLA5eCXe3zSSPC6g5xf5OccOFE.mp3,2024-05-28,Fake,,Train
+-HVv3mQqeR3vTCEay0GlYBBL7Og.mp3,2024-10-25,Real,,Test
+-Jsgim-30QZECKyBUSQ833b5t88.mp3,2024-05-22,Real,,Test
+-MhXUcte6wYK67zEP2YFkRPe6UM.mp3,2024-10-18,Fake,lipsync video,Train
+-N8pLAcQZkz_AFyX2hBBuOyx-ok.mp3,2024-07-18,Fake,lip sync ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Test
+-Og0PClg-ZwSGymWAan_WduvM5g.mp3,2024-10-18,Fake,https://www.reuters.com/fact-check/video-ocasio-cortez-explaining-ceasefires-is-digitally-altered-2023-11-24/,Test
+-QC7KS0fwN3vhBj4iat98nktQTU.mp3,2024-05-22,Real,https://www.nytimes.com/2024/05/16/technology/ai-voice-clone-lawsuit.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb,Train
+-QEvlWg-UeJUmq2M3bKIoCr0FNo.mp3,2024-11-05,Real,,Test
+-QHyrD8mXVBct50FmylPA5IYNLI.mp3,2024-10-24,Real,,Train
+-S_7g-oH-l9Wy-G4wWHXc7Mzc4k.mp3,2024-03-01,Real,"Rally event was deemed real, ""bumble video"" is said to be a mash-up of real events",Train
+-UKZwLPOm_0d2-cpE9A31G7s75s.mp3,2024-04-23,Fake,ai impersonation,Test
+-UOS1SnHSN4RZ-n49BM7RR5Nv10.mp3,2024-10-22,Fake,lip sync off,Train
+-VOMj_bejYFl2P7LMn87HY112R8.mp3,2024-10-28,Fake,https://www.boomlive.in/law/delhi-high-court-rajat-sharma-deepfakes-ai-regulation-25606,Train
+-VdHYk4WRhiXEGLPY4oVyja1aWM.mp3,2024-11-11,Real,"around 11:15, https://fortune.com/well/2024/10/10/prince-harry-the-anxious-generation-conversation-social-media-mental-health-exclusive/?utm_source=search&utm_medium=suggested_search&utm_campaign=search_link_clicks",Train
+-Wbf5iKp0yqiTvm7uZX1b_PwrGI.mp3,2024-11-10,Real,,Test
+-XYWaTp6ZO4qrxzWusX7Iw_ywTQ.mp3,2024-10-25,Real,,Train
+-ZtM4yFmjWU9FOvSAl7Pr4jmuGs.mp3,2024-03-29,Real,source: https://www.youtube.com/watch?v=k2M2HURFSgg,Train
+-anpVMpQYu3enZIcfOuQgWfA80E.mp3,2024-09-30,Fake,self proclaimed,Test
+-huzU8hFvBkwV9n0Dj65LgLse5w.mp3,2024-04-22,Fake,,Train
+-iFzAnJoibc2plYhhADtGOeHS68.mp3,2024-03-19,Fake,Post indicates a series of deepfakes,Train
+-jbEjs8PuTg491fmbcoUIywJWkY.mp3,2024-09-30,Real,https://www.cnn.com/2024/09/16/style/dpharaoh-red-face-paint-emmys-intl-scli/index.html,Train
+-nNbXhTmRkzZe9ximAJAZ_CkwYs.mp3,2024-07-11,Real,real video but not of taylor swifts jet,Train
+-qTME-Njygg7HBYouqp6_zWCnpg.m4a,2024-04-10,Real,NBC News video of Obama at 2020 Democratic National Convention,Train
+-rSnaPGiJ19uYDEtWqAgubZgwRw.mp3,2024-06-14,Real,,Train
+-t-sWOekp7bmNH3md9-WU4uY1ng.mp3,2024-10-15,Fake,,Train
+-v14oeAnDghOAGm_1n10MzHCacY.wav,2024-06-29,Real,,Test
+-wHhS6r-xuXnfOId95KMz5YTuJ4.mp3,2024-03-22,Real,,Test
+-xH4tevqjWedJtwlkJVJ5sSQozg.mp3,2024-09-05,Real,https://www.nytimes.com/2024/09/01/us/politics/tim-walz-minnesota-state-fair.html,Train
+-yPwv-3gdEgmKql_wNyj9aa3KdY.mp3,2024-10-24,Real,,Test
+-ybG_Y89czUI1ykEXH9bOfUQal0.mp4,2024-06-10,Fake,self-evident,
+-znDVeDQLJ7C1dUIUl-YGoLtuG8.mp3,2024-06-20,Real,,Train
+01AVOk-vgLVyg3Zzltxu1Fz7ktY.mp3,2024-07-24,Fake,,Test
+01W7xPE98uDILZgJxW2v_b0gWi8.mp3,2024-10-26,Fake,self proclaimed - https://www.youtube.com/watch?v=C7vhXjAM0nQ,Test
+06RaB2So7SO5bTYevLlwGWSsXdA.wav,2024-02-23,Real,,Train
+0B7p6zwFlEwzLxSx77ziiGTdi1A.mp3,2024-07-13,Real,,Train
+0HBg6KF6KuSL7Gw9IdHZTrI105k.mp3,2024-09-18,Real,crisp lip movements,Train
+0IAFbh5JOGYgzgzyEMeYlaSJFpw.mp3,2024-08-17,Fake,Cartoonish mic and outfit combined with clear lipsyncing and animated background indicate AI generation,Train
+0IB5mUTfLylCpjP46KtSp2q2Zho.mp3,2024-09-06,Real,Full video - crisp mouth movements. https://www.youtube.com/watch?v=sYp8QmgZfww,Train
+0Ob8Fipv2yUxXvQnHGnLvBLmjro.mp3,2024-09-26,Real,https://abcnews.go.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542,Train
+0QvtWN3nPkNtkZ37yIWu0Yx2GnA.mp3,2024-10-16,Fake,lip sync is off,Test
+0SeSA9i0n1be_3ALYWnFkBGdwTs.mp3,2024-11-11,Fake,,Train
+0TBN5uej6HbBZtum-wahWU6Seys.m4a,2024-07-30,Fake,"Clearly fake vieo  ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam",Test
+0XNGODO3HoA-NWPOgiK85Zx22vY.mp3,2024-11-02,Fake,Lip sync is off,Train
+0_6lpSvfU7eTucJQW9ipXp3C6KA.mp3,2024-05-28,Fake,,Train
+0_nLf6J5SpyHweEWQjg8XRb0Hvc.mp3,2024-10-02,Real,self proclaimed using tool = Wave to Lip,Train
+0_uhjF8yNDfLPTO0U97QtbRQ56o.mp3,2024-10-23,Real,minute 24:40 https://www.youtube.com/watch?v=8qkd6wti4lo,Train
+0aPmKlzKgi7ycBliUO6iGukB9RI.mp3,2024-10-25,Real,,Train
+0gcVS0LQ4kaFoQLY7xaxM6Zp7d0.mp3,2024-09-09,Real,crisp mouth movements,Train
+0ke6YqRez7i8RIq8Ye6i37OmZ3U.m4a,2024-07-24,Real,spliced clip https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/22/remarks-by-president-biden-and-vice-president-harris-at-a-campaign-event-wilmington-de-2/,Test
+0l5Gq7-3lztdoF6Q_NMJlNXmLzw.mp3,2024-10-17,Real,,Test
+0mlf8Mtv0pexTxfASKGUlb-s7iY.mp3,2024-10-28,Real,Both videos are real but cut and edited together. https://www.state.gov/briefings/department-press-briefing-october-1-2024/  https://www.state.gov/briefings/department-press-briefing-september-30-2024/,Test
+0oLuzfUSf0l5UPqeDI3nX2T7vQM.mp3,2024-07-22,Fake,lip sync  ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Train
+0p7-HYwtpsE6ygRH6ELDnCPM7U4.mp3,2024-06-27,Fake,,Test
+0phbHdP35xI9OrDNLYHV5ENlJxE.mp3,2024-10-30,Real,"Lips and mouth are crisp, clear, nuanced, and match sound perfectly. https://news.sky.com/video/spain-weeps-with-all-of-you-pm-says-as-he-addresses-flood-disaster-13244614",Test
+0r-59s7NtoXgU8NgChwc4r46xH8.mp3,2024-06-11,Fake,,Train
+0s5LZ-48YTdNKniDudX_4FoQJ4Y.mp3,2024-10-25,Real,,Test
+0thp0AxSFAYj499VwtUb0-BKejQ.mp3,2024-11-05,Real,False claim on voting protocol https://www.yahoo.com/news/south-carolina-officials-refute-election-174440308.html,Train
+0thyfL-N7uHR6RAurQJUI1UCblQ.mp3,2024-07-27,Real,,Train
+0vDDfi-cPLeoCGexvZcIANEOLwo.mp3,2024-07-18,Real,,Test
+0vpZkDFRTWGKqz17yxL8iRCY5D0.m4a,2024-07-02,Real,"https://www.google.com/search?q=preseident+biden+talking+about+deepfakes+of+himself&rlz=1C5CHFA_enUS845US846&oq=preseident+biden+talking+about+deepfakes+of+himself&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDczNTRqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:fb5b7bc4,vid:9vxXf5LHi6I,st:0",Train
+0wZDhow_l52wYA8alog4gdy6xgw.mp3,2024-07-24,Fake,https://www.dailymail.co.uk/news/article-12864047/Stunned-Putin-double-takes-confronted-AI-deepfake.html,Train
+0zYuw2zdBJjjh7qdWR9EmmG5mpo.mp3,2024-10-11,Real,,Test
+1-q90cwQEaQm-SPVjyYjLMvP13k.mp3,2024-11-08,Fake,Lip sync is off,Train
+1-t32IyNA5y5lk1-z4YLNUX5NF0.mp3,2024-10-25,Real,,Test
+10S4w-2Nicy4gWcIzewGooLx_ks.mp3,2024-03-25,Fake,lip sync off https://lavocedinewyork.com/en/news/2024/03/11/fec-grapples-with-the-question-of-political-ai-deepfakes/,Train
+10okkdxRBbxf4hj_FczVj96B8rM.mp3,2024-10-25,Real,,Test
+14VpmeFxIDSk-2IqnWQStSt-eJ0.mp4,2024-09-23,Real,,
+14dQooGhBo_ja7tR5f0lc31TUn8.mp3,2024-10-07,Fake,Cartoon car in lower quadrant,Test
+16J52xl4jTKK_F9Zz178U8n0p60.mp3,2024-11-11,Real,https://www.donaldjtrump.com/agenda47/agenda47-president-trumps-ten-principles-for-great-schools-leading-to-great-jobs,Test
+16PZULexpBKUxlua9lKFPP555ks.mp3,2024-10-25,Real,,Train
+17aE_3T3YWfAK85MIqsCPKASU6U.mp3,2024-10-28,Real,https://www.c-span.org/video/?c5138670/harris-whitmer-sot-nsfw-podcast,Train
+18Tln4ejnup07ysYcyrTWSXEz4g.mp3,2024-06-03,Real,,Train
+19md3ktY6vHakTf17qd2ro05VYs.mp3,2024-10-24,Real,,Test
+1BMGMan-McXJopZvTdyyzn_Qh4w.mp3,2024-05-29,Real,from AOC's official x account,Test
+1BXZWiyX0X03CzyPayGpCu7YgtE.mp3,2024-10-04,Fake,Videos use AI to create 'deepfakes' in which Bonner asks for votes for city council candidate https://www.aosfatos.org/noticias/deepfakes-william-bonner-voto-candidatos-vereador/,Train
+1D9adDk6aTfscilpSjWz22oKDKk.mp3,2024-04-19,Fake,dupe - source confirmed ai,Test
+1E02Bgm1TXvRNgo2xV-4jcAA1WU.mp3,2024-05-23,Fake,lip sync,Test
+1E1oeU_fbnfWw4P9sDTOAwv4zEk.mp3,2024-10-17,Real,fireball is AI,
+1E85lzgTEaKQ3T6pWVmisZKc_6c.mp3,2024-10-21,Real,,Train
+1ECOwtD1MMZ8GWBIU2AfNaAU34c.wav,2024-06-29,Real,,Test
+1HP9zk9KCU0qee5vGssXYgYpWrs.mp3,2024-10-02,Fake,"obvious, lip sync is off. Musk not associated to cryptocurrency scam.",Train
+1J1YmTJcZKc28yzwJj-JxR-rfm0.mp3,2024-09-28,Real,,Test
+1LMb4aFFCL8DeQMh-DzqRrWhWrY.mp3,2024-05-21,Real,,Test
+1M6QPjAd34kCXnOuq90FMzT3hpw.mp3,2024-06-14,Real,,Train
+1OsoURFe-4pTFOFRnBGdWszP8GQ.mp4,2024-09-12,Real,https://www.youtube.com/watch?v=TP_0Vv5F29I,
+1PQyC4cmuHxAstcuj_7LawemKZw.mp3,2024-07-12,Fake,lip sync,Train
+1SfDt0zjmQmLuvoN0dVEuXwhyCw.m4a,2024-06-21,Fake,impossible for audio to be real,Train
+1WakKhz5AUPF4OmtN_RtP7lQlQQ.mp3,2024-06-03,Fake,lip sync,Test
+1XrGfPTRRH3DzTScEP6tE3UG7AE.mp3,2024-07-11,Real,Real but highly taken out of context,Test
+1Y-ySVdWt0LTYJ_lE3Gxj3CEKCU.mp3,2024-08-30,Real,https://www.msn.com/en-ca/lifestyle/whats-hot/vp-kamala-harris-ridiculed-for-saying-this-is-the-most-election-of-our-lifetime-during-live-interview/ar-AA1lO5Vw?ocid=AVRES000,Train
+1YGJwe_YtfLx2EAFgmm6njWqH8E.mp3,2024-07-12,Fake,Created by Runway AI https://www.anchorline.tv/2024/using-ai-to-generate-full-motion-video/,Test
+1ZjgolMoP_K_-0lWuBjT8m1HSjA.mp3,2024-10-17,Fake,,Train
+1avME-7eGRutLPuGyckUN_NTWTM.m4a,2024-10-17,Real,,Train
+1c4D1NkzDZGJl4di5JxndBOnZjo.mp3,2024-11-04,Fake,Self proclaimed AI generated content,Train
+1e35FB7U0fhureJ31AvBrRppZ28.mp3,2024-07-17,Fake,,Test
+1e6lZgoXmgwdnawx08ZPq3JwgWY.mp3,2024-10-12,Real,,Test
+1mefU7zClbyBjQpOR4NRHJZKFac.mp3,2024-10-24,Real,,Train
+1wvkPd4APw1957-tPIa2z2E1HG4.mp3,2024-10-17,Fake,self-proclaimed on video and: https://www.zaobao.com.sg/news/singapore/story20241015-5137916,Train
+20U26-4_vc-MOG7kUxVebbukvYE.mp3,2024-11-01,Real,"Response was to heckler saying Lies, lies, lies. Event transcript: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/17/remarks-by-vice-president-harris-at-a-campaign-event-la-crosse-wi/",Train
+20edDTYpfY4UGe6joK41KhdSCBA.mp3,2024-10-30,Real,https://edition.cnn.com/videos/politics/2021/08/09/alexandria-ocasio-cortez-insurrection-bash-newday-vpx.cnn,Test
+21Ents09XVihPm8phydICBmRuMs.mp3,2024-08-02,Fake,lip sync,Test
+21RXg717R-hs56V42PYWWJnnCOs.mp3,2024-10-02,Fake,,Train
+22qAAgPunfgo98K8b6CYdXpJi80.mp3,2024-07-16,Real,Leaked phone call RFK,Train
+2313rY7C3FDrdvgFuKYJY2-EtB4.mp3,2024-07-02,Fake,self proclaimed,Train
+23F9HMsEJqzJsjixUqYWWRwwoZc.mp3,2024-10-31,Real,lips are crisp and synched to audio,Train
+23_l3kA5NiYAOEZog7qLickAx8s.mp3,2024-10-24,Real,"staged fake evidence, but not AI",Train
+26cNA9k-aklsQHsIXEGLofU37-Y.mp3,2024-11-05,Real,,Test
+29OXkKTnEqIH_7RqMg62zswGf2w.mp3,2024-10-31,Real,https://www.skynews.com.au/opinion/rita-panahi/alex-stein-mocks-kamala-harris-over-bizarre-rant/video/e5550843413d5b2a247b861d2f6c63cf,Train
+2AqxqVcKS1UoUZNInWqyL27Yir0.mp3,2024-08-15,Real,Posted on Nikolas Ferreira's twitter site,Test
+2D6tVjHOkcpQdH_Sov4AtFXjAGk.mp3,2024-03-18,Real,,Train
+2Fad0BKAmyNX9rsal5IhHO8SicY.mp3,2024-02-22,Real,Campaign video - claims by conservatives this was 'highly edited' and fake since Biden isn't stumbling,Train
+2FldsojFSpcHG_XYtspyiBCSit8.mp3,2024-11-01,Fake,Lip sync is off. Digitally altered audio. Here is the real video clip - https://www.youtube.com/watch?v=8Jc-kL22fQU,Train
+2IAFvszAF-S49TpKBhtURqVPkmE.m4a,2024-03-28,Real,,Train
+2JMsEo5l-KMdtKf6uMTrZmYf2HI.mp3,2024-07-07,Real,https://www.youtube.com/watch?v=eANfPiAbWSM,Train
+2JaVNedBNmDys3Qv0WQ0JVcltbw.mp3,2024-03-04,Real,source: https://www.theguardian.com/us-news/2024/feb/26/ai-deepfake-quiz-spot-the-sham-audio-of-trump-and-biden,Train
+2LObdbKcjkbCmu7MGeXc7C6JqGk.mp3,2024-10-25,Real,,Train
+2O4ihTQzgWpcPwUfIFEhpYunnIw.mp3,2024-10-19,Real,https://www.youtube.com/watch?v=jKzo0hTJXB4,Test
+2OQJiTAi2JdrGwDJQ7dRyGVsfR4.mp3,2024-07-11,Real,music in background so audio is labeled as real. Unclear if video is real or not.,Train
+2OrV7lvQgKElEsSHHoXxPVU6LsQ.mp3,2024-06-03,Fake,lip sync is off,Test
+2Q6fU2lbobz91hqaH507Lj8TPcA.mp3,2024-05-23,Fake,lip sync,Test
+2Q7mVTXgZF3cxpu8zZIcc9kbKfM.m4a,2024-07-09,Real,posted by abc affiliate,Train
+2U0x2wplod6C9IuADN0T0MCgNJI.mp3,2024-04-03,Real,,Test
+2WycInxwlx0CBRHSgOLnCZXH7ZY.mp3,2024-05-07,Fake,,Train
+2XSlPfNvRw2-jyx1zP1jPgZQOiQ.mp3,2024-09-09,Fake,lip sync is off,Train
+2XwoKtwp5sJS7k2HRHDt7rxAVgw.mp3,2024-03-08,Real,Original media to Zelensky dancing video,Test
+2YygzA2EPC2q9VMJcr8x0hk7Eoc.mp3,2024-07-25,Real,,Train
+2a4zHZelCY8fLM2nuNw42W5fiT0.mp3,2024-06-26,Real,same fake as with Modi,Test
+2aJAimOHNIK-pCIXVTQm4DkvxIc.mp3,2024-07-22,Real,music in background so audio labeled as real.,Test
+2ePEsf1H_qsr6zNjfJtIz46d8Ts.mp3,2024-10-05,Fake,,Test
+2hg8MiVc60hmklMR1ithRTVK7fE.m4a,2024-10-17,Real,,Train
+2i_fgyAQWz3fG-PqOgPvaapWGFY.mp3,2024-11-11,Real,,Train
+2jutH3rYp6CzneNq3dBwEvTmjNk.mp3,2024-09-17,Real,https://ca.news.yahoo.com/morning-joe-rolls-bonkers-supercut-115611266.html,Train
+2lEoRQwKqs3KMr0V2cAGhFGTzi0.mp3,2024-03-19,Real,,Test
+2nyd7vAmeMmenQ1zJ-vLPeLgSLg.mp3,2024-11-07,Fake,Financial scam,Test
+2oaboTtHOEiS8OTWqewyUeahOb4.mp3,2024-03-20,Fake,,Train
+2qnbp9r-Q-RmhyizYf-aEw_hNJk.mp3,2024-06-14,Real,,Train
+2tzcDDUYRmkIu9uKsdgqZqC8QTE.mp3,2024-04-11,Fake,,Train
+2u-UPRafrMGF1WDVsYDKP7YV7bc.mp3,2024-11-02,Fake,,Test
+2vWQUSFdXwuv26Xh7RRm0co-Mzw.m4a,2024-04-25,Fake,created by D-Id; audio probably also synthetic,Test
+3-rwhnCTK2hbbto7Sj2vBfsZDx0.mp3,2024-10-02,Fake,AI generated news story,Train
+33NxyNe1S8_JLTi5_D39r3t5oGI.mp3,2024-10-17,Fake,lip sync is off,Train
+37xg68TQW25Qo-5MNLAw8Jxoko0.mp3,2024-10-23,Fake,,Train
+3AtkWCBolq2a7ppCTbLMtg-GK1c.mp3,2024-10-25,Real,,Test
+3BaBfh0IXOKajABfx9gXP9uOCqQ.mp3,2024-10-25,Real,"staged fake evidence, but not AI",Train
+3GpJ-5T0zGEhlM69NE-YDOhuddU.mp3,2024-08-13,Fake,lip sync is off,Test
+3JZwWlG-J_yvdZL1pt90L3eB7MI.mp3,2024-06-14,Real,,Train
+3M-rHKPyvorIWuXkLdvRD4Gzav8.mp3,2024-10-15,Real,,Train
+3NGrjZ6NEqqhN1LYbQ3VB51mr5E.mp3,2024-11-05,Real,,Train
+3QUSW0cN5fg-aX5r7ez-FAhn2Ds.mp3,2024-05-31,Real,Reuters,Train
+3Vncl-FFS5bJmWlv3qiCWYYLH7g.mp3,2024-10-03,Fake,lip sync is off,Test
+3XLgnlgIIkYpJNmQHdomc2Az3yw.mp3,2024-10-25,Real,,Test
+3XugQRGrQ0gh2uMym52aohXZ0-I.mp3,2024-11-05,Real,https://www.youtube.com/watch?v=0SuS1SMddOE,Test
+3Zd8hXY7sQj3wx6axIvXrhXAreo.mp3,2024-06-03,Fake,,Train
+3bVUgsBsbQf3TETXT_s6rKC44Q0.mp3,2024-04-19,Real,dupe,Train
+3cxbTyFc0KsDO5OQXVmcyf5uZik.mp3,2024-10-29,Real,auido is an impersonator https://www.cnn.com/2021/08/06/tech/tom-cruise-deepfake-tiktok-company/index.html,Train
+3dmWiP62qAMDgn8LQM0ZvHnCOlI.mp3,2024-10-11,Real,https://www.youtube.com/watch?v=iqbZ46GffOo,Test
+3eTX6AxYVxgTP0fWaX_ss3fL3Mg.m4a,2024-07-23,Real,msnbc segment https://www.youtube.com/watch?v=tVu6tERo7Fk,Test
+3mRAH7wzQuK3-mHj3C-tUnLPncA.mp3,2024-07-22,Real,Video is real. Context is incorrect. This appeared the day before the assasination attempt not following. Verified by leadstories,Test
+3mllksvgdjccoqgJ0VqgLM7k71A.mp3,2024-07-18,Fake,Joe Biden Donald Trump Elon Musk stock trading AI - satire,Test
+3nlDXWQxQy0sreULOnMBDrRdxAs.mp3,2024-06-03,Fake,,Test
+3rJ7gzHp6b40ObdejfwHzLanHTc.mp3,2024-10-16,Fake,,Test
+3w_ehaR1tt8uBOz1RUbJArNJb4A.mp3,2024-10-24,Real,,Test
+3yh4ejPv8AnX01qyQ7p4ItqqidI.mp3,2024-03-25,Fake,Video indicates AI debate video - parody,Test
+40Lgj5yXiuUnOziqeV0UAMAK3u0.mp3,2024-10-18,Fake,lip sync is off,Train
+4Dqbab6iqY65fauD8b9DeuYTHaI.mp3,2024-09-23,Fake,obvious. Watermark indicates AI generated.,Train
+4Fpqc8rm7raB-LBG_C0VDuhme4o.mp3,2024-03-05,Real,,Test
+4HWMFrkv7Nll1ZH03gZVdZ1GxFI.mp3,2024-07-22,Fake,https://www.newsweek.com/fact-check-kamala-harris-deep-fake-spreads-biden-drops-out-1928627. Harris clip AI generated,Train
+4Kv4Ff3zkimt3IJPTJJRaqYKvKE.mp3,2024-05-23,Real,https://www.techarp.com/articles/kate-middleton-ai-deepfake-video/#google_vignette,Train
+4KwRyfxVW6CtnkY5nFwB8Hd8uE0.mp3,2024-10-13,Fake,"The video comes from the game GTA V, with added chatter, screams and burning effects.",Test
+4M3oBDjMfGLFD7cuLLtb6k1bo7M.mp3,2024-05-28,Fake,"lip sync, image skip",Train
+4NIBYnScjg6zb7uf2GpOhJ_DGR8.m4a,2024-03-18,Real,,Train
+4OimJ5U0L1N36cSqTbpMAPy0lIY.mp3,2024-07-29,Fake,https://x.com/moms4rfkjr/status/1817186724356714857,Test
+4QIzXPKdj3HSXI21AFVrqoJqBh0.mp3,2024-10-25,Real,,Test
+4RjIUTIZ_db7ZL30PlVRho-0FnM.mp3,2024-10-12,Fake,lip sync is off,Train
+4T2oymEaXHTfKZ2PEvzR1FzGko0.mp3,2024-06-28,Real,interesting,Train
+4TsxRF-JgxiF9v9muWLVTkYzxac.mp3,2024-09-23,Real,,Test
+4VA_fyuQyiVYyHLjHjzm9EgXokg.mp3,2024-10-24,Real,,Test
+4VDyAp-x5XZWk1xg4FL_6SrewKQ.mp3,2024-07-05,Fake,,Test
+4XzHAfqrKw_m6OJWt_Bnp0kjYto.mp3,2024-10-16,Real,,Train
+4ZMBOJKFbZFJKLgrvgq0AC8CJOY.mp3,2024-10-21,Fake,,Test
+4aQxl5Mc4lJ5Q-oHxuYPsYfB0ps.mp3,2024-04-11,Real,,Train
+4ag-NRG1l-Z8mflyPWVzw3WxcC8.mp3,2024-10-25,Real,,Train
+4bKXuHga7HgLdeSXmHS8mqgui5g.mp3,2024-09-04,Fake,https://www.politifact.com/factchecks/2024/aug/15/facebook-posts/this-image-of-elon-musk-dining-with-a-robot-girlfr/,Test
+4c-TxbDzjyFpYKuaGRo0uDgyzhw.m4a,2024-03-29,Real,,Train
+4efY3LTdbePAYAaa57JjHF-cI10.mp3,2024-07-09,Real,https://www.thedailybeast.com/philosophy-chair-noelle-mcafee-among-protesters-arrested-at-atlantas-emory-university,Train
+4i-NGA-FODL3qVC5Mqwzw2pfdGA.m4a,2024-05-21,Fake,lip sync,Train
+4kbkJ7a5xmdAeGY73ZvtwEP_IA0.mp3,2024-11-01,Fake,Lip sync is off,Train
+4n8bnqGnw8TPzZPe0RcEGatGPgk.mp3,2024-05-06,Real,Known creator of Tom Cruise deepfakes,Train
+4qJpx3N60Nlu9U8pa2JzUtaCuR8.mp3,2024-11-05,Real,"Lips and mouth are crisp, clear, nuanced, and match sound perfectly. This issue does not affect vote tabulation.   https://www.michigan.gov/sos/resources/news/2024/10/25/department-of-state-issues-update-for-voters-using-dominion-voter-assist-terminals",Train
+4qf8DOjkAp-1FqpaR78Dp24tnok.mp3,2024-05-06,Fake,,Test
+4tnjvwaVHH6UEsRBHyafdakeQk8.mp3,2024-10-20,Real,https://www.youtube.com/watch?v=EHJfdkpsMeM,Train
+4vxAn7oIzWHjsRnKGrAZmyAPRJs.mp3,2024-10-25,Real,,Train
+4zxbviL68YTxf9Ex0gNQEJwv9BY.m4a,2024-03-19,Real,,Test
+52Ddr53XrbQ35TiRJqOhx2Eq3M0.m4a,2024-06-06,Fake,lip sync,Test
+5BZsiJmXGSLxl3-v1YvoS1uv6QU.mp3,2024-09-04,Real,,Train
+5D5oklrqG8gcM8mcaRHaYtmS_jA.mp3,2024-11-05,Real,,Train
+5FopJdwlC3qmLQMVWNE0gN_5y-8.mp3,2024-08-13,Fake,agril.ai,Train
+5Gbx8fydW3esdkBQbCTx3LkP1gg.mp3,2024-11-06,Real,,Train
+5JCwUp9EWt-_hLy45iLPzo9lRVQ.mp3,2024-10-25,Real,,Test
+5KEBP5m1_Q4B8y2rwu3jKsWRE6M.mp3,2024-09-27,Fake,https://www.perspectivemedia.com/dirty-tricks-highlight-ai-dangers/,Test
+5L26tXmyJtyRSUm3IyGmrpzKZ1U.mp3,2024-10-24,Real,https://www.youtube.com/watch?v=L87I-iyon0A,Train
+5NHqdy427-wNfwACt4RyW5P44rk.mp3,2024-11-06,Fake,Known fake crypto scam. https://www.bitdefender.com/en-us/blog/hotforsecurity/beware-of-scams-elon-musk-is-not-giving-away-bitcoin-on-twitter,Test
+5PnOuL2BipwCqyR9QQV0ZiP7USg.mp3,2024-05-28,Fake,https://7dejunio.com/utilizan-inteligencia-artificial-para-que-pena-nieto-decline-por-morena/,Test
+5R0hTlUhj4eeXONkMDenccBSneM.mp3,2024-10-15,Real,,Train
+5RDSVIi9h8pG38vN5ephhVdWdBs.mp3,2024-06-03,Fake,,Test
+5SUyQkeYHPl1vNSoo432PSGTCDY.mp3,2024-06-19,Real,Published by account with stated goal of deepfakes.,Train
+5Sa-oNpKhL8mfOzKHvTHrlauBzg.mp3,2024-08-25,Real,,Train
+5XUFkJEwOxfRnllJ6lvUEfkr8y4.mp3,2024-10-30,Fake,This is an altered video for an insurance commercial - https://www.youtube.com/watch?v=5KhmBPaXbyg,Test
+5_sVFeQ4JyHtu2bIysyApXAtDyI.mp3,2024-05-26,Real,,Test
+5bokRGcHMavJ2cX1mijRqVZY1GQ.mp3,2024-08-29,Fake,lip sync is off self=proclaimed,Train
+5bvhj-ZYIiNsfxT6Td-weDJAoII.mp3,2024-09-12,Fake,,Train
+5dZIm6QPcNkHSADtMd2L1WXKtoU.mp3,2024-08-01,Real,https://www.nbcnews.com/politics/2024-election/trump-claims-elected-vladimir-putin-will-release-jailed-us-reporter-ev-rcna153747,Train
+5ewF2kJgweh1ZlGkcmGinPJbwps.mp3,2024-11-06,Fake,Lip sync is off,Train
+5gLRfizpxTdUdvqKbSEzx61DKgE.mp3,2024-05-28,Fake,lip sync,Train
+5h4UmxKQsQ2Q922ZLRphoqaNz6U.mp3,2024-11-07,Real,https://catalog.archives.gov/id/75502666,Train
+5hGgU5xrQKyyKhvjaxekXNX-xcM.mp3,2024-11-11,Real,,Train
+5hjKKRlptrV0PPcCGNeGduwjbPQ.mp3,2024-10-29,Fake,https://www.boomlive.in/law/delhi-high-court-rajat-sharma-deepfakes-ai-regulation-25606,Test
+5hmZ32BIMblSklLbJgtH4TTkC6c.mp3,2024-10-25,Real,,Test
+5lFghVsgAMh2mS_6lW4dNxa3Ma0.mp3,2024-07-31,Real,MIT Labs lips are detailed and nuanced,Train
+5uMBTc7P1-IxMLVXW57MX0SRJF0.mp3,2024-07-22,Fake,lip sync is off   ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Train
+5v6DnbBeJP8KbH0KZHrkMyWXO0g.mp3,2024-10-15,Fake,,Test
+5vO88-NKEPNx15a4j2EGhE9-qHs.mp3,2024-06-12,Fake,,Train
+5y4uaj363cKi9YSduOnfLlH-ITQ.mp3,2024-09-30,Fake,,Train
+6-Ml-WNCXjXjvE7H-eeW76YUJ4Q.m4a,2024-07-01,Real,,Train
+61UJid7r-hc7pbWmydoRQW0dZ0o.mp3,2024-05-24,Fake,lip sync and heavy edited,Test
+6BGZr-ilgka2WrWEa4WJ6TZuopI.mp3,2024-10-27,Real,the shout to Kamala is not present in the original video: https://www.youtube.com/watch?v=BUVoy8K1_Wk&t=4s,Train
+6BP-EyCeOuD_IpyTtaX-EJgEzVI.mp3,2024-10-17,Real,pence,Train
+6C_akc4FEqEFS6K1EPYmXnMstk4.mp3,2024-07-30,Real,Account which uploads lots of interviews and other random videos. No history of uploading ai-manipulated content and no evidence of lip syncing in video/other manipulation,Train
+6Cz_kEEC1TGtio8FCbDzTnenLmM.mp3,2024-10-14,Real,,Test
+6DvB3Vw5N7YPWPAG5Iv61pLwLCw.mp3,2024-09-29,Real,,Train
+6Dxn42SHaKquWNM9I81AnTjuDSg.mp3,2024-07-05,Fake,,Test
+6FuNHysiMDRm4zUQLcCIOQlTZus.mp3,2024-10-25,Real,,Test
+6GeGTBLofRxqZI-czEK2y_ckevc.mp3,2024-07-09,Fake,,Train
+6LlWPoTOOP2Qj66qUiwfsmCIsDo.mp3,2024-05-23,Fake,https://www.nytimes.com/2023/03/12/technology/deepfakes-cheapfakes-videos-ai.html?smid=nytcore-ios-share&referringSource=articleShare,Train
+6M2pCx0RvE3aR_5LSiwJzJo3yDc.mp3,2024-04-17,Real,Known Tom Cruise impersonator.,Train
+6Mq21iGILG86MqIZxkBAOYVsnuo.mp3,2024-10-17,Real,,Test
+6ORuobhfZ7S9RZtcrgSK-IUtbIQ.mp3,2024-09-23,Fake,,Test
+6OollQ8a-ZYubNfQBI3xUetI0ag.mp3,2024-10-03,Real,around minute 25 https://www.c-span.org/video/?517301-1/israeli-prime-minister-remarks-world-economic-forum,Train
+6SQfq-mKenNvVO9xnWe13AljhH0.mp3,2024-11-05,Real,,Train
+6VZJmzA-mym3v3NymKIA29PUPjw.mp3,2024-06-03,Fake,highly edited and misleading,Train
+6YCaSAYZAFxx8u4hApLjLhna7Gk.mp3,2024-07-30,Fake,https://factly.in/this-viral-video-of-bill-gatess-interview-is-fake-and-was-created-using-deepfake-technology/,Test
+6Z2sz5DsbcS47LWDOmIjZNKsPnY.mp3,2024-08-13,Real,,Test
+6ZMTGgevp_lBaDgJW9oFOzSXA3k.mp3,2024-09-16,Fake,,Train
+6aPx95XFlVqlJbo_wGGzdAdbU9s.mp3,2024-04-03,Fake,source: https://leadstories.com/hoax-alert/2024/04/fact-check-donald-trump-did-not-talk-about-144000-black-people-with-superpower-godlike-abilities-who-are-the-chosen-ones.html,Train
+6g4iQKBjdeK8jgRPhZUHAaSN1rc.mp3,2024-07-27,Real,clearly real,Train
+6jVS13Ieb843X_52YUih9tSOf44.mp3,2024-11-07,Fake,lip sync is off,Train
+6kp4oTSCWeeuFnZ9tVixTzA4ogo.mp3,2024-09-30,Fake,lip sync is off,Test
+6mGn2ZyF5SP66CDMNoiWymcEehE.mp3,2024-10-29,Real,Post miscaptioned Reuters fact check https://www.reuters.com/fact-check/video-shows-kamala-harris-with-in-ear-monitor-not-audio-earrings-2024-10-04/,Train
+6msz-AxUmPAl5gW_UEN5fJ0PE94.mp3,2024-10-25,Real,,Train
+6oxfZ9Yb3NfNs1_EcGZJKLop0HM.mp3,2024-04-03,Real,,Test
+6xTqLCmgrzOHLClws6WvvSOaqOw.mp3,2024-06-03,Fake,lip sync,Test
+6yjmMPQ9z7l70uahiGmqfkpC45Y.mp3,2024-07-03,Fake,self proclaimed,Train
+7-8lpQifA4Vim3sC6L9qxgaMpTM.mp3,2024-08-09,Real,multiple video frames match with authenticated photos online and no evidence of ai manipulation,Train
+7AUKvpYYxEU1UUwJH6wDIHMH-_Q.mp3,2024-11-13,Fake,lip sync is off,Test
+7AiqY2ntXt8OhaOacLlHxnYowvw.mp3,2024-09-10,Fake,lip sync is off,Train
+7AqAhXE_zb4w-X0KQdWT_DvPv4g.mp3,2024-10-26,Real,https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/13/remarks-by-vice-president-harris-in-a-meeting-on-climate-at-the-u-s-asean-special-summit/,Train
+7Fk5fTPep_wwpXLkhzMTx7jBCvE.mp3,2024-10-17,Fake,Created by AKOOOK and Synthesia,Test
+7K7D_zdrZ-zn_8mBUWno6Yg6b4A.mp3,2024-07-24,Fake,,Train
+7MeyAb4Yyvaan0VK2u7uo1y_YNs.mp3,2024-06-17,Fake,,Test
+7NLwxNAIl3c-9JtAysf5_l2QYLI.mp3,2024-06-30,Real,https://www.aljazeera.com/news/2024/6/18/white-house-says-joe-biden-is-a-victim-of-cheap-fakes-what-are-they,Test
+7NveRbv4rKqnb6MqDXvXbj0mTrE.mp3,2024-11-06,Real,,Train
+7QkcRIbGeqPx-3lRLNVEoF3Z9MM.mp3,2024-10-01,Real,Digitally altered video based on Community Notes in the X post. Content deleted.,Train
+7QrCBPIpVLOQ8nJ7laRktVXBqjU.mp3,2024-07-03,Fake,,Test
+7T5zZHYsapSO7_oWwSbFK7_QvQ0.mp3,2024-07-01,Real,https://commons.wikimedia.org/wiki/File:Photoreal-train.webm,Train
+7UyCT9YkgKonKfHWrskWi5K_xwo.mp3,2024-09-27,Fake,obvious,Test
+7ZHnax6rK2PE83RomJbSfQs_ec8.mp3,2024-10-28,Fake,crypto scam,Test
+7aC1URgpyJ7uqAPHj2CB_DfMSx0.mp3,2024-09-21,Real,,Train
+7h7KKXmoYnfoAnjZO5sGcf_MxtE.mp3,2024-02-14,Real,,Train
+7iL6psHyCpj0hpt0aw9ZO8PCbA0.mp3,2024-04-11,Fake,,Train
+7njxcGlHI7X8mYRxtPYmbjaieRA.mp3,2024-09-26,Fake,,Train
+7vGGpytd20U6KoREnnUz40GlRXw.mp3,2024-06-05,Fake,lip sync,Train
+7xndjYNAilxU6EQHmIs5XIUrBrY.wav,2024-06-29,Real,,Test
+7ytLv1uRWtxXTaZW1Z-tc1x1MOU.mp3,2024-08-13,Fake,self proclaimed generated by Argil.ai,Test
+8-DdOmO_PogqI0TzR6ezNWrET5o.mp3,2024-07-04,Fake,obvious,Train
+8-swJLTY4GSDNjK-QyDw2_z5Yro.mp3,2024-08-15,Real,can't verify verity of video but normal video,Test
+83qr-w9ePT5Pfba0Xa826FKl4Rk.mp3,2024-11-13,Fake,,Train
+84_2l1dppAX_qjuGX-br2DqFf68.mp3,2024-06-27,Fake,Robotic voice,Test
+86du1Uxo6MN84ZMT1OrdS1vAHK0.mp3,2024-10-23,Fake,,Train
+8B1L97w_i-sm9r8X93-ZKFqiFwQ.mp3,2024-10-22,Fake,self proclaimed,Test
+8BHh9NoQ0stBaXzdmHNE6vi9WK4.m4a,2024-05-21,Real,,Train
+8CNUFx5b1BgGD0thZQXGg6Dv3Pg.mp3,2024-05-06,Fake,,Test
+8DdFBErX5zRNJPtwlwDuHzNV6FE.mp3,2024-10-24,Real,,Test
+8DevNi0unt-y6wlTMA42qnjjakI.mp3,2024-06-12,Fake,,Train
+8GQvn9JSU5JBrY8Zw_IoVbI092o.mp3,2024-07-05,Fake,https://factcheck.afp.com/doc.afp.com.34V36KW,Train
+8GlPgH9eNekzO3L5eKulbO0R4ZE.mp3,2024-10-25,Real,,Train
+8JD-fHrvAFKYxuQOletM_TQ2j-0.mp3,2024-10-02,Real,Various clips of celebrities participating in ice bucket challenge.,Test
+8KkAKX74XP2oJQkieIYsyNb7FQM.mp3,2024-10-09,Real,Verfied by CNN news https://www.youtube.com/watch?v=WbW2UgmjJUA,Test
+8L0ob5-RF9OLa8gcFgDiDRSlGIk.mp3,2024-10-24,Real,,Train
+8MQB8CC0fquHh6bzP5U4-WtlPG0.mp3,2024-11-08,Fake,Lip sync is off,Train
+8MhzbABriSly-5uOv7GCVfKMdlY.m4a,2024-05-21,Real,,Train
+8OXuuOCWcPGKMT7F-qXu8Dl8Z4M.mp3,2024-06-28,Fake,,Train
+8OuHDZMCm7UsZilSOx5QoALDX6Q.mp3,2024-10-31,Real,"Lips and mouth are crisp, clear, nuanced, and match sound perfectly. But, misleading based on FB fact checker - False information. Reviewed by third-party fact checkers.",Test
+8Pv_zQmEOMnwGtYDA-vjIMHTBL4.mp3,2024-07-03,Fake,,Train
+8YCKTyxFP4qnI6o_ABQhaf7R0og.mp3,2024-09-28,Fake,https://www.vishvasnews.com/sports/fact-check-virat-kohli-did-not-criticize-ramgiri-maharaj-viral-audio-is-ai-generated/,Train
+8_42kby_7scHclxQVLQ7wOGID1U.wav,2024-06-29,Real,,Train
+8kANg-Jh-7Zu_wNAq3hPIc2-xpY.mp3,2024-09-16,Real,The animal being roasted on a spit in this video is not a dog. It is a lamb.,Test
+8pktjplSraNFdnFQhL4y4XrD1fI.mp3,2024-09-25,Fake,lip sync is off,Test
+8u9HTeqRiDx6YG7mttoXuscuyr8.mp3,2024-03-18,Fake,,Train
+8x6u6AyrsphD1lINP8URYCl--vk.mp3,2024-11-03,Fake,Fake from https://humanaigc.github.io/emote-portrait-alive/,Test
+8xBAWcgRItCc2zJ3y1Cx4H6eZiM.mp3,2024-07-18,Fake,,Train
+8y4CG2F6l8op42uAv7ioWMWTyUE.mp3,2024-09-20,Fake,,Train
+9-l_DhLZm6RX2qEQesrADdMLbD8.mp3,2024-10-25,Real,,Test
+950rJSy_8RFXZ_LbPF0KdCC39HI.mp3,2024-10-24,Real,"Reuters fact check: Altered clip, Harris was responded to question about Trump not biden https://www.reuters.com/fact-check/video-kamala-harris-calling-joe-biden-unstable-is-altered-2024-10-23/",Train
+95iug1HqaBEnpkI7Gu4mXWNAoRc.mp3,2024-06-27,Fake,fake at 0:49,Train
+9B73TgeZF3lsM7mW2YVF0D4r7nM.mp3,2024-09-02,Fake,,Train
+9EAkpmYhUN2iHc1ve7QfHkfO6P8.mp3,2024-07-10,Real,https://x.com/JoeBiden/status/1811018855147331714,Test
+9EuKl7YZK4h922HmxEGA0z1BibU.mp3,2024-08-05,Fake,lip sync,Test
+9Ew6FX0EMdPoH345_-F6fgs1Ts0.mp3,2024-10-23,Fake,,Train
+9GpxW4hIPofRY2-oHTL9fc4NCHM.mp3,2024-06-03,Fake,lip sync is off,Test
+9HDS1KHJSVhXdFUBuuHT8WHvkKw.mp3,2024-05-21,Real,Is a shortened clip from https://www.youtube.com/watch?v=OSn9reIg9Lc (13:20).,Test
+9Jycy38df2vwYwCXiL0-vbsZrsM.m4a,2024-04-23,Fake,satire,Test
+9Mayd3Y5PcE8KcDpVJXYp1TZ8Qk.mp3,2024-08-01,Real,,Train
+9Q0cBOBSh2cwOisQaJ4FBUULQaY.mp3,2024-04-23,Real,openly fake,Train
+9R1OpaDmZGGNL6QuihBv6mv-6_I.mp3,2024-06-27,Fake,,Train
+9RxMzInQ03ALyp4Eq5JhLZrH54g.mp3,2024-09-12,Real,https://www.tmz.com/2024/09/12/president-joe-biden-wears-trump-hat-video/,Train
+9U0MiIIFX_oW4vrKa93QsyZ_EIc.mp3,2024-05-25,Real,seems real https://sg.news.yahoo.com/elon-musk-says-jobs-optional-150901688.html..generated background might be throwing off the models https://www.youtube.com/watch?v=rfEbmfdwPgE,Train
+9V_B4e-bNIukb4YUZXmQ9vXoagw.mp3,2024-10-16,Real,,Test
+9X0UA9ra4spTzwlGoxpWl23YaFw.mp3,2024-06-03,Fake,manipulated voice,Test
+9bSzvxBaLINyJqNXwqZojENybXQ.mp3,2024-05-07,Fake,audio is obviously computer generated. https://www.google.com/search?q=100+year+old+woman+arrested+on+her+birthday&rlz=1C1UEAD_enUS967US967&oq=100+year+old+woman+arrested+on+her+bir&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTINCAIQABiGAxiABBiKBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBKgCALACAA&sourceid=chrome&ie=UTF-8,Train
+9kjAbPu2MM4lY4VVK07Z72lo4h0.mp3,2024-03-20,Real,,Test
+9knZMyyZjeQTemP01Y_IXK4uDKc.mp3,2024-10-24,Real,,Train
+9lmqdH2acvrWk1bY8pQr1ykrG6c.m4a,2024-06-20,Real,,Train
+9mjrCTt3iwGbhCynDmPCAJzI_lU.mp3,2024-09-29,Fake,Lip sync is off,Test
+9mw32-5DpwuMY5tfYb5fO2zPDqU.mp3,2024-07-09,Real,obvious known fake,Train
+9q3kKTR6ZeRP5eYhxKr2g67QOdw.mp3,2024-08-15,Fake,known fake https://apnews.com/article/parody-ad-ai-harris-musk-x-misleading-3a5df582f911a808d34f68b766aa3b8e,Train
+9rpHK5gHaK-ADL2ztxwSJYcZlpw.mp3,2024-06-28,Real,https://thehill.com/homenews/media/4516444-wh-press-secretary-laughs-morning-joe-praise-biden/,Train
+9suI0BbBcXpLbGrvBVs60tqZRTs.mp3,2024-02-11,Real,context: https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town,Train
+9uKQM4hh-Ndy5Ym7yzJkeN8uglc.mp3,2024-02-16,Real,voice is narrator speaking to creation of ai person,Train
+9uRK4RolDkadatTvXBj2DV-6U4E.mp3,2024-11-01,Real,"Obvious because the lip sync is off. Also the eyes and eyebrows have the distinct movement of AI generated videos.  https://factcheck.afp.com/doc.afp.com.36KE2QZ individual impersonating someone else, use of AI inconclusive.",Test
+A175_IqifUPpJAvU2WFKF5qZzRc.mp3,2024-03-01,Fake,self proclaimed deepfake. original https://www.reuters.com/fact-check/video-joe-biden-calling-military-draft-was-created-with-ai-2023-10-19/,Test
+A1ReqWJwH4IsCYOaLdS3Ne_zm5s.m4a,2024-05-30,Fake,https://www.youtube.com/@reidhoffman,Test
+A21kZVbcDtvpiOx_6cUk6e8wFoM.mp3,2024-10-29,Real,Post miscaptioned Reuters fact check https://www.reuters.com/fact-check/video-shows-kamala-harris-with-in-ear-monitor-not-audio-earrings-2024-10-04/,Test
+A4NDCosXPG4fZxYoKXB4Dn-dAwY.mp3,2024-10-25,Real,,Train
+A5CJHkqtN2c8cjsKFDNY9dngXx8.mp3,2024-09-30,Real,https://www.cnn.com/2024/05/22/politics/joe-biden-donald-trump-unified-reich/index.html,Train
+AC9qln4mRxjcrC-ZB7RS0ubsPuU.mp3,2024-07-02,Fake,https://fullfact.org/online/keir-starmer-liverpool-hate/,Train
+AFgC9NIb0RR_BdrwpY4muQZuvoo.m4a,2024-04-25,Fake,,Train
+AGHgAg4Fek--YGcv14BX6ie_9zE.mp3,2024-06-14,Real,,Train
+AG_Brdd1-9oS5am4h7MZex3LsAs.mp3,2024-10-11,Fake,lip sync is off,Train
+AHBRGSDZKgMgSSKKVCdTMeg6SPw.mp3,2024-03-20,Fake,Creator indicates deepfake in post,Train
+AKgM0TbnhVeZsxwAwVNXMIBI_Zg.mp3,2024-09-23,Real,full interview: https://www.youtube.com/watch?v=bZasBoVhuUA,Test
+ARZwhUeN-WLf3lRRdRDZWH-kfLE.mp3,2024-09-25,Fake,original video interview: https://www.facebook.com/watch/?v=1286523641389817,Test
+ARocInJFjkbkjwZgWZFyI64nqDQ.mp3,2024-08-15,Fake,https://factual.afp.com/AFP-Espana,Train
+ATgTpWT_8_6m_LCSgvAiejABWiA.mp3,2024-10-30,Real,https://elon-musk-interviews.com/2021/01/13/lex-fridmans-artificial-intelligence-podcast-ii/,Train
+AVXdCbpx-wUfLxDeJAUluXB86z8.mp3,2024-10-17,Fake,video: https://www.youtube.com/watch?v=DaDUBhgCfQQ,Train
+AWloPbVA6KG32P_giGer2L9YVOY.wav,2024-06-29,Real,,Train
+AZ9U3-xDF1gHaS_LHJaikaUPmhM.mp3,2024-07-11,Fake,known fake of ronaldo. Audio has been altered to include the word gaza. Actually in reference to Syria. lip sync,Test
+AhlXgoQWjar2m3gYk-PCl54IJSg.mp3,2024-10-15,Fake,obvious,Test
+AvIMjaluCITS_z41VEph2fLFmcM.mp3,2024-11-05,Real,https://www.msn.com/en-za/news/other/donald-trump-bizarrely-claims-democrats-want-to-ban-cows/ar-AA1sbAzG,Train
+AyhvVIWfNx5eOitMgxReShqqJsw.mp3,2024-05-21,Real,,Test
+AyxaxMvs6xLFnwfhM1wNvwa05AI.mp3,2024-05-20,Real,,Test
+B2vzm-FRUtRIGFVAlbrnfLTe7tU.mp3,2024-05-19,Real,Posted from his own account. https://www.thenewstribune.com/news/politics-government/national-politics/article288581036.html,Train
+B4dZxYbLZ-cdBlgj8qwbhH3ttnk.mp3,2024-06-11,Fake,,Train
+BAouT5ahBfDzM_Z2r-wbQ1ysw_4.mp3,2024-10-25,Real,cartoon,Train
+BEwXqqExt4FBkAFKdW6oskeCO-4.mp3,2024-02-27,Real,,Test
+BFB1PgNCo10pkSRy-2lOeTZTu7M.mp3,2024-10-18,Real,out of context: https://www.verifythis.com/article/news/verify/donald-trump/no-trump-hasnt-called-for-a-ban-on-video-games/536-939a9cdb-3d54-4215-bc58-d0963c27d8ab,Train
+BFdm_AUuW3IsK3Caj2VF5hUJQYw.mp3,2024-06-16,Real,No audio.,Test
+BJEiMEOSMJaJDjBfbNHbt7W4G1E.mp3,2024-06-28,Fake,,Train
+BOeRJw4ovFyyCaRAH0ALeo--Nv0.mp3,2024-07-02,Fake,,Train
+BPdT1-GyI1k8udv6bE7DA6crLYA.mp3,2024-10-31,Real,"Lip sync is off. https://factcheck.afp.com/doc.afp.com.36KE2QZ individual impersonating someone else, use of AI inconclusive.",Train
+BQrqWlc_uZxVqjQia1MOIhIL6Cg.mp3,2024-09-03,Fake,,Train
+BSIpZF4Ct3rp5v3BXVQG9aCw228.mp3,2024-10-11,Real,https://x.com/WorldviewTube/status/1841924841630532017,Test
+BUltyRJulK2TsgMISLWS4uh50Ss.mp3,2024-09-24,Real,https://fr.news.yahoo.com/mise-garde-marine-pen-pense-112646068.html,Test
+BWWgD1dORbNU97pPDDOzmUI11G8.mp3,2024-10-02,Fake,Self proclaimed. Created by Meta Human Creator,Train
+BXyBJwWhrtKRYdJj8xnYuuhMAic.mp3,2024-10-19,Fake,,Test
+Bc_gqE0xLD3SWetAXgukIByyM8k.mp3,2024-10-03,Fake,lip sync is off 3rd party fact check confirms deepfake https://www.instagram.com/p/C37cnODtT38/?img_index=2,Train
+BdPtiHnPn5bz_y5nvmGW4GAJtEM.m4a,2024-03-26,Real,,Train
+Bear2C-luP-5walclY-5-vCgxOQ.mp3,2024-09-04,Fake,https://www.snopes.com/news/2024/09/03/harris-hit-and-run/,Train
+BehoQrICYcQjBcpcRrvIFargrhs.mp3,2024-05-23,Fake,lip sync,Test
+BfvhzfdOZGD1r61kczGHyMXWrAo.mp3,2024-07-02,Real,Verified by The Quint not a deepfake https://www.thequint.com/news/webqoof/two-women-playing-colours-inside-metro-viral-video-deepfake-technology-fact-check#read-more,Train
+BgI-O48focrlYunGBR9NOljeM-8.mp3,2024-07-22,Fake,lip sync is off . Known financial scam.  ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Train
+Bh9tcNep-ue_6DhSXG0CCD0AXIM.mp3,2024-09-18,Real,,Train
+Ble13EEVoPViXtuSG5Kc545gucE.mp3,2024-08-09,Real,https://www.politifact.com/factchecks/2023/sep/11/viral-image/did-pope-francis-swat-then-president-donald-trumps/,Test
+BlmMJDgx7uG7tWrulvhuzbSwOlg.mp3,2024-02-27,Real,,Train
+BlmRouhyCo61wCyiRUeYCTMe4gM.mp3,2024-09-03,Fake,https://timesofindia.indiatimes.com/entertainment/deepfakes-how-they-are-made-and-ways-to-combat-them/articleshow/109837338.cms,Test
+Bn0m9Fa1yQGuZ2PW3PQMMf0JHUo.mp3,2024-10-11,Real,https://x.com/WorldviewTube/status/1844787924811837650 https://worldviewtube.com/news/article/helicopter-responsible-disturbing-hurricane-relief-station-has-been-identified,Test
+BnkFQJmb-J9THmqMDf6dosRRkUg.mp3,2024-10-20,Real,https://www.youtube.com/watch?v=ktFF2dSH3oU,Train
+BqpGOsznEVLmjA5Nx-Y8T3mf7rE.mp3,2024-07-22,Fake,lip sync is off  ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Train
+C0mc5x-YpzmxtAbvt1j6ybnCBz0.mp3,2024-10-14,Real,Clip from speech delivered at National Congress of American Indians https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/12/remarks-by-vice-president-harris-at-the-national-congress-of-american-indians-78th-annual-convention/,Train
+C1q4KF1zRf3U6Khp5SgSmoYDp_A.mp3,2024-10-25,Real,,Train
+C2itTABNRmzZt3NMWX5xtgV2E-g.mp3,2024-07-04,Real,self proclaimed,Test
+C5LzDjOwrJ10vQP37u-KiU4xqG8.mp3,2024-06-14,Real,,Test
+C6H_8fmdeu-_DWqoIQuLPPy2tso.mp3,2024-06-29,Fake,Snopes verified fake https://www.snopes.com/fact-check/trump-make-antisemitism-great-again/,Train
+CB7W_p7pGIkBz9e1QEqmZkMCd3I.mp3,2024-08-23,Fake,Newschecker confirms as deepfake. Altered audio over 2020 commencement speech.,Train
+CD8PpqearTphSt-ZsqEBITlO1sI.mp3,2024-05-01,Fake,,Train
+CDVC17CJyg-P0-RM36PBm8ylaP0.mp3,2024-06-28,Real,https://www.c-span.org/video/?c5122188/user-clip-jill-biden-celebrates-joe-biden-answered-question-party-speech,Train
+CEtslqLTvk5Z8gPDutCEjRU5ScA.m4a,2024-03-20,Real,Biden campaign ad.,Test
+CH59_F69a-79qlX3xsVg1SPzlG0.mp3,2024-05-07,Fake,content fake,Train
+CHbWyC76WtP4ivNtVIOJIwwP7qs.mp3,2024-09-16,Fake,,Test
+CJwVb8fq0EQiVXFdbiBpLCIap9c.mp3,2024-05-27,Fake,,Train
+CLJFeWsMIlstK-M-SKAmQ08Erog.mp3,2024-09-25,Real,https://timesofindia.indiatimes.com/technology/social/bill-gates-viral-video-enjoying-a-hot-dog-in-times-square-watch-here/articleshow/113644440.cms,Train
+CMoS40qXsUA_VRSUSmoLy6vsRtA.mp3,2024-10-21,Real,Snopes debunked this assertion: https://www.snopes.com/fact-check/harris-grandparents-candace-owens/,Train
+CNqgNv-7LyZo3dpFIPL6OlSRcNU.mp3,2024-11-12,Real,,Test
+CRJeoUvV_EWUTvitjj1DZpgLCCU.mp3,2024-09-27,Fake,lip sync is off. Original video https://www.channelnewsasia.com/watch/pap-must-improve-how-it-communicates-highlight-differences-between-its-policies-and-oppositions-lawrence-wong-video-3898836,Train
+CRRGNqd7OCYiF_LQBUI-Qrs3OL0.mp3,2024-06-11,Fake,,Train
+CRuorgKKPVRwYU4QheLsl_15-JA.mp3,2024-07-02,Fake,https://x.com/jonsarlin/status/1804172061113487606,Test
+CT-zzfW1laePIRzUiS4u4Mbrgzg.mp3,2024-03-29,Real,source: https://securingdemocracy.gmfus.org/hamilton-dashboard/,Train
+CTB-F5s_ne-ZMaFiJDHZjotd5t4.mp3,2024-07-01,Real,,Train
+CTUyyPwoUJuY2wWSCjHRn4CtZxE.mp3,2024-06-11,Fake,,Train
+CUM66zkPCpJFmhbPW9ao8WQi-qQ.mp3,2024-10-29,Fake,self-proclaimed,Train
+CV8UPfKVejNrpp5mgEcJQibabCw.mp3,2024-04-05,Real,source: https://www.reuters.com/fact-check/biden-did-not-say-thousands-were-killed-by-illegals-state-union-2024-03-14/,Train
+CVDkv0MvHKS3RANnkgNvwwsIiYU.mp3,2024-06-27,Real,https://www.bbc.com/news/videos/cv2grqz2vgro,Train
+CZTRRGrg66ycsGoPfUJh6rAoM8c.mp3,2024-03-26,Fake,https://www.reddit.com/r/Scams/comments/1b8bf4x/weight_loss_gummies_scam_using_ai_or_deep_fake/?rdt=33079,Train
+CZWHORGxhWf3qFFLgcJ49Z3UdFk.mp3,2024-10-05,Real,lip movement is crisp and nuanced.,Train
+CdsZtIj2MNMSVjGrTnG-LycP4eI.mp3,2024-04-16,Fake,,Train
+CeFZCJiCLZrZcrWT5h0P4BzLds8.m4a,2024-11-04,Real,https://www.thedailybeast.com/listen-to-the-jeffrey-epstein-tapes-i-was-donald-trumps-closest-friend/,Train
+CeSUrG4gGWe2BA13Czq4OV_AcFM.mp3,2024-06-03,Real,,Train
+CjkNtoCT5H9ge4XdNoG5sOUjfq8.mp3,2024-08-13,Fake,self proclaimed Argil.ai,Test
+CsCRFoTYS_L-6N8w85i9PMpTOGw.mp3,2024-09-23,Real,,Test
+Csq3db13Xad30G0mb-zKQDv-Yfc.mp3,2024-11-10,Real,https://www.surfertoday.com/surfing/prince-harry-goes-surfing-at-the-surf-ranch-wave-pool,Train
+CtPjqtCQp8gz09VpaKWrd5h1Z58.mp3,2024-06-03,Fake,,Test
+CvluU-jhjnBhfU6lXP6I2v_pbQI.mp3,2024-05-23,Fake,https://www.nytimes.com/2024/05/20/world/asia/china-russia-deepfake.html?smid=nytcore-ios-share&referringSource=articleShare,Train
+D-y2EHE2k5BouywUFUm0cw6O4Ak.mp3,2024-03-07,Real,,Test
+D0faJPzd22hKv3dvKFFkBOva5bk.mp3,2024-07-11,Real,minute 40:31 https://www.youtube.com/watch?v=uwW7GAWVyRc,Train
+D1TI2XPE-y3985DRodqA-M4FV0o.mp3,2024-05-23,Fake,lip sync,Test
+D3zI65AqeSZMxKdim-h0Q6B-7FA.mp3,2024-10-08,Real,,Test
+D4Ug52-CuZVbZ2MOtqaO_y9cobE.wav,2024-06-29,Real,,Test
+D4it-X0Pn8sjXyQq1dK_XKhLvNE.mp3,2024-06-14,Real,,Test
+D6QzkSZPva2z8r7HAYoPH_YjUaI.mp3,2024-03-12,Real,,Test
+D86tNzqhmBr-9qyHrPDDW8mMZ9I.mp3,2024-06-10,Real,fart sound inserted into audio track.,Train
+D9xqlx96jdMMvDdy-_s8ZJesXow.wav,2024-06-29,Real,,Train
+DDkRL11wgrEslj8QIVRndLR781w.mp3,2024-03-07,Real,,Test
+DI0weIwn1TLp9kjufu5gBvZ-jas.mp3,2024-10-25,Real,,Train
+DIb1nAWfsOkcFhfZOL7uJRVnbZ4.mp3,2024-10-25,Real,,Train
+DIcwYuvVcQtQ7FUmWzpbpo9LK_E.mp3,2024-08-09,Fake,self proclaimed,Train
+DJ7Ku_VI5Sj4i7kqqFqH44dsnuE.mp3,2024-07-09,Fake,Russian AI Bot. Real video footage. Twitter account suspended.,Train
+DTZFvMWUNwWX2QRi5urlKYYKxs0.mp3,2024-06-19,Real,Published by account with stated goal of deepfakes.,Test
+DTsRuxek8seFwTx_mkSywLFz4hM.mp3,2024-07-22,Fake,lip sync,Train
+DWRM04gwhcqEluypXLr-BHNDQWQ.mp3,2024-10-08,Fake,lip sync is off,Train
+DZ0uF7tQf78Zm5Bq_FnsqdM5dho.mp3,2024-10-25,Real,"staged fake evidence, but not AI",Train
+DbK76bjz_fbNVlSfFAxb2HcFENg.mp3,2024-06-28,Real,,Train
+DbMXCCSpTV0EukTJ1xxq91vOFxQ.mp3,2024-10-24,Real,https://www.theguardian.com/us-news/2024/oct/23/donald-trump-accuser-stacey-williams-jeffrey-epstein?CMP=share_btn_url,Train
+Dh-5t042FsNbxI87E28llwBZgco.mp3,2024-07-07,Real,Gaza Nytimes,Test
+DhM1wVqN1gn8yID9iCaurj7sP00.mp3,2024-09-12,Fake,https://www.youtube.com/watch?v=48MpTHK7B78,Test
+DiFc2gOFISiuOqmcvpBYLxBWc-o.mp3,2024-10-24,Real,,Test
+DjG9y4PI4964EMKPcfkOgb-Yo7A.mp3,2024-07-03,Fake,obvious,Test
+DjXCAxHqTJQEurdY8DLJccQhlmw.mp3,2024-10-24,Real,,Train
+Dk291DeZudiBHxCa2OTH0Mz0y9s.mp3,2024-10-13,Real,,Test
+Dk90y1j6FFBLy916hJs6R45KzJA.mp3,2024-07-11,Real,https://www.youtube.com/watch?v=oMlhvnMpRU0,Train
+DmxxdY1GYXIwwG0vEQ8kNyu6agY.mp3,2024-10-02,Fake,Created by wombo.ai,Train
+Dnw26qz_cTwjBjX-hO01jHLrCso.mp3,2024-04-09,Real,,Test
+DqGycGE3uN9NdgvpjQC_Z0WP2ao.mp3,2024-10-18,Fake,Lip sync video,Train
+DtE_ZtU_z3fU4DSIvU4h9COtvno.mp3,2024-05-26,Real,"audio was edited to remove ""in"" Everybody in Hamas",Train
+DuzGXEPCNPjKtE1hYQM5dwRilFY.mp3,2024-07-04,Real,"https://en.wikipedia.org/wiki/Weapon_of_Choice_(song)#:~:text=Directed%20by%20Spike%20Jonze%2C%20it,he%20participate%20in%20the%20video.",Train
+Dw_SsznJ5kNtsWmAzGWSzl08Ji8.m4a,2024-07-18,Real,,Test
+DzsZxc2sidXngrc19UqHeVS8gjU.mp3,2024-04-10,Real,https://www.tiktok.com/tag/tomcruisedeepfake?lang=en,Train
+E-hEl7AfCdVcOUUCfEgBGzPZD3s.mp3,2024-08-15,Real,posted by harris campaign,Test
+E4uxbQG41iX4KUtaNpia5EAG_N8.mp3,2024-10-13,Real,,Train
+EAzii8gJZhelmMNkt-W5SJfXSkQ.mp3,2024-08-26,Fake,https://www.resemble.ai/lebron-james-olympic-team-usa-criticism/,Test
+EBgVazzH7s0OtZ3PQRGMn_NfAGw.m4a,2024-10-16,Real,Real clip of Harris speaking in first campaign ad. Verified Washington Post.,Train
+EDUCJGmthgZyoij6yHKMJT3P6pc.mp3,2024-11-05,Real,,Test
+EDw2Hog_YK0dL2aCgtu7kQR3d2A.mp3,2024-03-19,Real,Words over image - not audio or live video,Test
+EFanbrgS3y4bgkJU81VDTfPAbOk.mp3,2024-03-05,Real,,Train
+EJlx9_x2RZkwLvJo2yW1dxAAwqU.mp3,2024-09-16,Fake,animation,Train
+EKUkdWZLt7q1jdIOjWE5bEHeQZo.mp3,2024-10-27,Fake,https://factly.in/this-video-reporting-the-death-of-cardiologist-dr-bimal-chhajed-in-a-car-explosion-is-fake-and-created-using-ai/,Test
+ELXgHjqDgBu1cCwiy6g6s-vuy2c.mp3,2024-10-25,Real,,Train
+EM4qlf2zXuFOqZlT7xI0oTm7axw.mp3,2024-09-04,Fake,,Train
+EMXYomsvAeCO4Rq4FI4_AcuZ0as.mp3,2024-10-17,Real,,Train
+ENEe2vUFvV46ckTrRjieWGcs8W8.mp3,2024-08-07,Fake,,Train
+EOh_S04P_MRnAAgWw0roUUUFYVQ.mp3,2024-05-06,Fake,,Test
+EQd0qHhFyFJ4uJI5hfFNhHRQVEQ.mp3,2024-10-21,Real,,Train
+ERXX1orF2yD8iVrVIDv2O2-sVG0.mp3,2024-10-03,Fake,,Test
+ETsWQfwyECLb7LrKh7-oonqujig.mp3,2024-11-05,Real,,Train
+EUOTxNRAB_oi_Pkm688wBoN_PCA.mp3,2024-05-30,Fake,content seems to be true,Test
+EVl6ArPlZI--c-jrg4HwBTFmDv4.mp3,2024-09-17,Real,,Train
+EWnF5_GUKEqk4j0PVo6Y2EGLb4k.mp3,2024-05-06,Fake,,Test
+EX-Jw1LEwnh7KCgFhTpXK-HtnxI.mp3,2024-09-30,Fake,,Train
+EZoFMgB5AblUQ8iKUlg_kWDe1D8.mp3,2024-10-18,Fake,lip sync video,Test
+EamugCTiI8facl5Jql8sEe1h0pY.mp3,2024-10-21,Real,https://www.youtube.com/watch?v=nJZ-7aDu3QU,Train
+EedgB7IjSBhEokb0NERRqYuW45w.mp3,2024-10-17,Real,,Test
+EgaS9uReu0eKWfjpRsoFyYfkRkw.mp3,2024-09-23,Fake,,Test
+Ej-TFdNUG7TXGDzZ9uxAjWHGu6g.mp3,2024-05-24,Fake,lip sync,Train
+EnwVLgfvr7fE6ZawmIcrpt8NqMM.mp3,2024-11-06,Real,charred explosion is from Virginia: https://x.com/NickWTOP/status/1732077165733171305 post no longer available. Lips are clear and nuanced,Train
+EpqSLrnFoLtuk5fVLBdvHmTPb-A.mp3,2024-08-15,Real,marketing video so can't tell if everything is real,Train
+EqJQOqG-qL6G4XP12OWPotc6fSg.mp3,2024-10-25,Real,,Train
+EqqQ9B_HsC8c9jJX3VqACIKClWQ.mp3,2024-05-10,Real,https://www.pbs.org/newshour/politics/watch-star-wars-star-mark-hamill-joins-white-house-briefing-after-meeting-biden,Train
+ErKppd7_0aenbB11FIGtjElF0Yc.wav,2024-06-29,Real,,Train
+ErMe7-gIpnEfcaqkVKIkLjGBZV0.mp3,2024-09-25,Fake,https://www.thequint.com/news/webqoof/sudha-murthy-promoting-investing-app-deepfake-video-fact-check,Test
+F-sJWBC8JfduO9QcZmbdPLXfEOI.mp3,2024-08-18,Real,,Train
+F108gfBs5RxBWqWxWtwxhL97GyU.mp3,2024-10-30,Fake,"original: https://wiadomosci.gazeta.pl/wiadomosci/7,114884,30312302,donald-tusk-zaapelowal-do-andrzeja-dudy-panie-prezydencie.html",Test
+F2Jiu8fFZEKxtXJDMsSeuiuuM_M.mp3,2024-05-06,Fake,,Test
+F6OWcRyUKkxchPgX3znImsKXCHg.mp3,2024-10-10,Real,,Train
+F7kOPUcsFfE0R3ABoFfia6UdBHg.mp3,2024-05-25,Fake,quality too low to see mouth movements,Train
+F95Gxr7IqwYEDXiqdhfoSxUN7kU.mp3,2024-10-02,Real,Known impersonator,Train
+F9DKQeqV-H_MArHzNU6mMjR4OOw.mp3,2024-11-06,Real,https://economictimes.indiatimes.com/news/international/global-trends/literally-nothing-did-kamala-harris-fail-to-outperform-joe-bidens-2020-us-election-performance-country-wise-cnn-anchor-says-/articleshow/115022687.cms?from=mdr,Train
+FBZZDJRoaBj_-9glC_kFCM6pNqY.m4a,2024-06-06,Real,,Train
+FCtiEz1Onl7bWMwNkJAFj-HClac.mp3,2024-10-02,Real,CNN compilation. RIchard Roth reporting. https://www.cnn.com/videos/world/2014/09/23/un-general-assembly-craziest-moments-orig-mg.cnn,Train
+FE80maruq4Vkrkk4M3HggOPQvw8.mp3,2024-06-17,Fake,,Train
+FFBKsb-A2b4LPxvybNZPRf72DTA.wav,2024-05-06,Real,false positive. confirmed by reality defender staff,Train
+FFyyMVZFCTVf4ZvtLKLnByDF4Ps.mp3,2024-11-05,Real,,Test
+FIUcFWY9RMOUr5zy07xJi7yG1dM.mp3,2024-10-03,Fake,,Train
+FLPd_0LNUc-wKVgv946dZQ9NBfo.mp3,2024-02-20,Fake,,Train
+FN8gRTm6iEbw_5hVefg6-Sxh-_A.m4a,2024-07-24,Real,https://thehill.com/homenews/campaign/4786977-biden-calls-harris-campaign/,Test
+FPnxbYcIrIfbCFqcOfd1pgMkX3g.mp3,2024-09-24,Real,,Train
+FQ3QOZR0CQNSY0WyVZn3MVCqYyg.mp3,2024-07-12,Real,https://x.com/JesseBWatters/status/1800697022577598619,Train
+FWg2n2BZRSwEnDEe9jC0wbhD1vY.mp3,2024-10-18,Real,https://www.foxnews.com/politics/critics-drag-harris-cringe-pre-recorded-video-aired-during-catholic-charity-dinner,Train
+FX7829UM1oyotKTch0fdVEP9Wso.mp3,2024-10-11,Real,,Train
+FeKo7JEEyvSR6JKYtmVCw19wVa4.mp3,2024-05-07,Fake,claim not accurate,Train
+FfHDSZLY_xmeru7Y_JuSyxx1pgs.mp3,2024-11-03,Real,https://www.cnn.com/2024/10/29/politics/video/driver-finds-ballots-on-road-digvid,Test
+Fg86cTmQeKl3sz7CsNnFih1JMBk.mp3,2024-06-03,Fake,lip sync,Test
+FhP8ZT5Oh8O_VmhLsgF3mi6mBI8.mp3,2024-08-09,Real,person turns into dog,Test
+Fhrqsl0zwX_sHtXNJwGe4OhrEo4.mp3,2024-11-01,Real,"This video has been cut to remove context, and conflate not having a lead with losing. David Plouffe explains why the sun-belt pathway is still within reach for the Harris campaign | CNN Politics",Test
+FkitTCgRlMIp3G1aCdlDsbbEWY0.mp3,2024-06-05,Real,,Train
+FlHJsLr5DjCHX-PLYaU1RaeWcYo.mp3,2024-09-16,Real,43:17 - https://rumble.com/v11w4eo-donald-j.-trump-at-the-heritage-foundation-annual-leadership-conference-421.html.  https://www.snopes.com/fact-check/trump-video-project-2025-colossal-mandate/,Test
+FnnHRsTMI4BWwj9TRikDZcSbwAc.mp3,2024-09-20,Real,Clip confirmed on  AP and CNN,Train
+Fp_-mfOTO4GtG8v-4PtkDAaiX2o.mp3,2024-09-25,Fake,Deep State Leaks is a Russian backed website spreading fake news: https://www.yahoo.com/news/pro-russian-fake-sites-spread-131322977.html and,Train
+FrksSp44l7NabjUtevbqqvmkfK4.mp3,2024-10-19,Real,https://www.state.gov/briefings/department-press-briefing-june-06-2024/,Test
+FsjS9Iqfm-8LM2O8wUUVprBOqG8.mp3,2024-10-31,Real,https://triblive.com/news/politics-election/allegheny-county-debunks-social-media-video-about-bhutanese-american-voters-in-south-park/,Test
+FuvM3PQwfUV63g-UVmv6bj1nv2I.mp3,2024-10-17,Real,,Train
+FxouQMyBHL3omRb7mtRTAsDPsfo.mp3,2024-05-06,Fake,voice is manipulated,Train
+FyFJv5sc2_4iOeP9S3THcUe-D2U.mp3,2024-10-17,Real,,Train
+FyR5zF8KcK_GQoMGlLez6HKExcE.wav,2024-06-29,Real,,Train
+FyWwFL_EUW_B5qRQPJRneIS_HFo.mp3,2024-10-24,Real,,Train
+Fyd8mn0q9mOSRDykif9aaw1k2ys.mp3,2024-10-25,Real,,Train
+FzS5AghLbJxZfAxns2DY6AcDrY0.mp3,2024-09-21,Real,,Train
+G1S_50cQr53jeTzBJexKxT_-lzk.mp3,2024-10-07,Fake,,Test
+G1cUW7ro2be0NUkGmsBQtfOgSts.mp3,2024-10-22,Fake,AI generated video.,Train
+G1kLOeJmXvERDPIZzDrNroeVqos.mp3,2024-08-05,Real,Song,Train
+G1rdBX8LWeMrAKc05apOiT7-Apc.mp3,2024-06-17,Fake,lip sync,Train
+G3R3nUznCxp2_BftAUp-heyInds.mp3,2024-11-05,Real,,Train
+G5_FeGV7L8pRYBAcHtHLagY8WSI.mp3,2024-10-25,Real,,Train
+G92NuwOs76jRw4ptbgHR06VOR7U.mp3,2024-06-11,Fake,,Train
+GCWnEBg3_6TWEnllNmeTYYaufu0.mp3,2024-08-28,Real,,Test
+GFGbI_9YQkAJ8D4Q0lfs4-Qz-2o.mp3,2024-11-12,Fake,"Donald Trump has not praised Lula as of this date, the voice sounds fake and there are fake elements in the video itself including the ipad image",Test
+GIKyw797YvgoZKddQCgsgwHp3GM.mp3,2024-05-18,Fake,lip sync,Train
+GKOMth6TseSGDaOo3tMFQLnO39g.mp3,2024-10-23,Fake,,Train
+GL5xW7j4glCavV0iBSYL5U65ayc.mp3,2024-11-11,Fake,,Train
+GNeMmm3W7_gYcvm5-4NfFjl6dw4.wav,2024-06-29,Real,,Test
+GQzp59sEuZRGIH9EY5ogpdxUYa4.mp3,2024-06-03,Real,,Train
+GS6fOJmxrWNn7qK-cUpnHkvM0XY.mp3,2024-08-28,Fake,lip sync is off.,Train
+GZhpy-OCfUAn4h-3sAAehijsQio.mp3,2024-11-05,Real,,Test
+Gb0LwVNHgajJiCTkQuvLjiax8bs.mp3,2024-07-31,Real,Excerpt from Ingraham Angle Interview on Fox News,Train
+GgsLlQf9YirxynOc3w-UX8deYLs.mp3,2024-07-11,Fake,https://www.yahoo.com/news/old-clip-misrepresented-showing-vladimir-190435212.html,Train
+Gi_7SFDUrduDEJ8D1FqEZVcZPVY.mp3,2024-10-02,Real,https://www.christianpost.com/news/evangelicals-for-harris-spends-over-1m-on-billy-graham-ad.html.  https://www.independent.co.uk/news/world/americas/us-politics/evangelicals-for-harris-trump-ad-b2596304.html,Train
+Gif7NqriIKTiuILDujY-4kctNB0.mp3,2024-06-12,Real,video was created by Hoodem deep fake generator,Test
+Gmp0TAHTloITd6Y-7iJ2NzQFa34.mp3,2024-11-01,Real,Edited interview from 2016. Not current endorsement https://www.usatoday.com/story/news/factcheck/2024/10/07/bill-murray-video-trump-endorsement-fact-check/75516926007/,Test
+Gmtc5qG8jYYRdSqoUaTmrCb6BWk.mp3,2024-11-09,Real,https://www.donaldjtrump.com/agenda47/agenda47-ending-the-nightmare-of-the-homeless-drug-addicts-and-dangerously-deranged,Train
+Gnw25hZTCkMkCsRzD5ZK9pJ9zJ4.m4a,2024-06-20,Real,,Train
+GoeC5m4Jqvbvb7iV69xMCxAsFrY.mp3,2024-06-03,Fake,,Train
+GqprP8rhkjxjkCOgWq1bYxqgcQA.wav,2024-06-29,Real,,Train
+Gsyn64h0eAVG8qcQqqzVdbQ6S8w.mp3,2024-11-05,Real,,Train
+GuViBXesuzrHuSc_n_IJEPs4dnA.mp3,2024-05-11,Fake,lips out of sync; why didn't system catch this?,Train
+GvWAM_h5TdDO9CD5Q9teK_-8vbU.mp3,2024-06-12,Fake,later half is fake voice,Test
+GwEjQG36vSnG9iueaxLIBLevwss.mp3,2024-06-14,Real,,Test
+H-WJjCUemqyptq6XM-qJcM0bhQs.mp3,2024-10-31,Real,lips are crisp and synced to audio,Train
+H1GvmjolkJUymAZZpV2Hu6vJ5l0.mp3,2024-07-11,Real,audio marked as real because it is entirely music. Video appears legit too,Train
+H3GKlbqUMAku90KM6bYzr0yauLU.mp3,2024-08-07,Real,"snopes - real. Widely shared, purported to include Donald Trump but is just a lookalike",Train
+H3PHAfxZts7H0b5oWuPZ-lCFK6Q.mp3,2024-03-01,Real,,Train
+H462GW5eoTsmQB2rf2za7C_lXOM.mp3,2024-11-13,Fake,Musk has not dated nor wants to marry a robot,Train
+H6DE87sgJfFgXDiTEQkINAFszaQ.m4a,2024-05-21,Real,,Test
+HAGtfnyOK_Vk0CquvGZeFdaGoNk.mp3,2024-03-05,Real,,Train
+HAxnvbWGWsQbITmKtT5IZHk2weQ.mp3,2024-02-23,Fake,Putin has conversation with AI body double,Test
+HBF50BQ4glgJI5pTehUipuIqxys.mp3,2024-10-18,Fake,Lip sync video,Train
+HDFyR_QQOoJM_HuCN5PMPH8ibDI.mp3,2024-09-04,Fake,obvious https://news.bitcoin.com/michael-saylor-warns-of-deepfake-bitcoin-giveaway-scams-featuring-him-and-microstrategy/,Train
+HDJyKdrzWTczGOxFAPPcf398_Co.m4a,2024-05-22,Real,,Train
+HF8xfmIJmJ59aLdnQfrufuToD3g.mp3,2024-11-06,Fake,,Train
+HFCKYQbDEVCwsoR6nI3-PUOroJk.mp3,2024-10-25,Fake,,Train
+HICemuEclIn-ZDbqZVUULNCfNMI.mp3,2024-11-11,Real,,Train
+HLyeO2TOE7IeNzwU32gPIHPGWfM.m4a,2024-03-28,Real,,Test
+HNqsAykfMP57Wwu4P-nkWBFSISU.mp3,2024-06-12,Fake,"Clip made with Tryparrotai.com, lip sync",Train
+HOFiKYHoL7kVCwW_NsuItFYnfIc.mp3,2024-10-22,Real,https://www.bbc.com/ws/av-embeds/articles/c5y5d33dmepo/p0jxlgz0/en-GB,Test
+HP_nyT8rI-us0cMUBOoyT8NYoZo.mp3,2024-06-12,Fake,later half is fake,Train
+HSo4OM0wFntHEt-6kX5zkYGQpCY.mp3,2024-03-18,Real,video is real news clip,Train
+HSqAK__edwxG4HJRFGIbhox9fGE.mp3,2024-07-05,Real,Fake Tom Cruise impersonator https://www.youtube.com/watch?v=jnNQEiPs5r0,Test
+HTUSyio3mj3jpBQqnWITLpkLjME.mp3,2024-10-24,Fake,debunked: https://www.bbc.com/news/articles/cy4ye15le8xo,Train
+HUoYssZgGj6-VIg4oA_qhTNyB6g.mp3,2024-06-28,Real,,Test
+HUtxLjQ8HIQBtUSMdyzyHih55qo.mp3,2024-05-06,Fake,,Test
+HZav9vgS1REFBSNh4cUNBTEfiqc.mp3,2024-08-13,Fake,,Test
+HcTlMTQlcbJ7hWyWpAXn9Nyh6_I.mp3,2024-06-30,Real,https://www.youtube.com/watch?v=8jYbQvYdhac,Train
+HcUrGRPBKgYwKDBhyYt2lh9OxEk.mp3,2024-11-01,Real,https://www.rsbnetwork.com/news/massive-full-display-of-new-yorkers-gathering-for-historic-madison-square-garden-trump-rally/,Test
+Hcohqaq5_akjZPhps287YqkaZaE.mp3,2024-11-02,Fake,Self proclaimed AI-generated video is from the TikTok account @9thdiocese.,Train
+HdcEeAPOv8WOrqUQpzEyXIqKjro.mp3,2024-10-24,Real,,Train
+HjaGVMob3cwV8_Zaco8N6Z9Vp_8.mp3,2024-04-17,Fake,,Train
+HlakJsG3q3zaLZvDnyRYX1k4z3Y.mp3,2024-06-05,Real,,Test
+HnnxgCst4tkDO18QXcYGuA72Puo.mp3,2024-10-19,Fake,https://www.tecmundo.com.br/internet/222368-deepfake-silvio-santos-william-bonner-viraliza-web-veja.htm,Train
+HpXXcx-NvJDY9AJKulWXTe7lfWE.m4a,2024-06-25,Fake,https://redmas.com.co/tecnologia/No-caiga-inteligencia-artificial-perfecciona-voz-de-Petro-para-estafar-a-los-colombianos-20240517-0038.html,Test
+Hqx8aym--_P3sXAlx-2cSknL6Ng.mp3,2024-03-18,Fake,Narrative indicates he is a deepfake clone created by argill.ai,Test
+HvFnY9BkIboR3fp2NcrLCGhPTlc.mp3,2024-10-30,Real,this link verifies the claim and contains a link to the original video: https://www.thedailybeast.com/biden-seemingly-calls-trump-supporters-garbage-during-cnn-interview/,Train
+Hvdlw9nhTY9hi18CmrOsU3i35Os.mp3,2024-10-24,Real,,Train
+I-z9-YfgXq-3raAxuV8cmGaivLM.mp3,2024-09-11,Real,https://www.nytimes.com/2024/09/11/us/politics/trump-harris-debate-analysis.html,Test
+I07LWhksIJ5Dgesm8qwrwLlXHqQ.mp3,2024-07-25,Real,clearly real,Train
+I2BYRlRnYsL--YaRL5DTWVAD9uk.mp3,2024-11-05,Real,,Test
+I3ECxOmYz1paHiAlp5bmSaLX6qA.mp3,2024-10-25,Real,,Train
+I9s9Hv6zDRsxjPRbILqthiKiLvg.mp3,2024-06-20,Real,,Train
+IBtGd7NAQ0-xdxzqZ5Ytk_sjMZM.mp3,2024-06-28,Real,,Test
+IC8vfc9E71tq_KQr6-MFpUn_qBE.mp3,2024-11-08,Real,,Train
+IDvrZTtkBDmm1WfGt0ldpgr7Fs4.mp3,2024-11-07,Fake,lip sync off. Created with Parrot.ai,Test
+IEcT2800FyMnPX2X7E_vevKV0qo.mp3,2024-10-25,Real,,Train
+IJhtPv-DTc2IQ_TT4iOYrjm7MX8.mp3,2024-10-25,Real,,Train
+IKQNKNesVqM2sEKEdWQZx4V7L0g.wav,2024-06-29,Real,,Test
+IL3CxpfXJjgq9CuVncfIK6WUqZ0.mp3,2024-05-31,Fake,,Test
+ILTCJxLOXosydmQe3ukgBG9Rf4g.mp3,2024-03-04,Real,source: https://www.theguardian.com/us-news/2024/feb/26/ai-deepfake-quiz-spot-the-sham-audio-of-trump-and-biden,Train
+IM2G972PZEeKwFQqBEB6CaEh2Fo.mp3,2024-04-25,Real,,Train
+IPsvO_hAbGQZCVMxZkMHpTqlGOs.mp3,2024-11-09,Real,https://www.the-independent.com/tv/lifestyle/meghan-markle-ted-talk-prince-harry-b2326301.html,Test
+IWXTyVTujn-1iloRezw_d0nETmQ.mp3,2024-10-25,Real,Oprah Winfrey,Test
+IXb9eDrjLXVUgQnylB8Aq77uSsM.mp3,2024-10-25,Real,,Test
+IYcwv5AgGTD4qkYNpDzCGY-qgm4.mp3,2024-10-10,Real,,Train
+IZJA_k8H830Sc5A285LnpcD8q8U.mp3,2024-05-21,Real,,Train
+Ibgt9pn31zweJyV8v3f0A1z3_Tc.mp3,2024-08-13,Fake,,Test
+IbuXLlvBGDqrHXI2OnuVrRBI6js.mp3,2024-03-05,Real,,Train
+IhahnTnKi_8I30fonYD2KRC0oeY.mp3,2024-02-29,Fake,no evidence bragg resigned from position https://www.reuters.com/article/factcheck-bragg-trump-resigned/fact-check-march-2023-posts-saying-manhattan-da-has-resigned-and-dropped-trump-investigation-stem-from-edited-video-idUSL1N3601MO/,Test
+IhuMvIiP2InFcTr1lNBLHnm7UzQ.mp3,2024-06-07,Real,It looks real. Translation in the lower third is correct.,Train
+Ij-BzEIDz9dgL-rAz_2bCvulbO0.mp3,2024-10-08,Fake,lips sync off and robotic sounding,Test
+Ik24t57uWjoAfmUGSPcJqJ-445A.mp3,2024-08-30,Fake,,Train
+IkaOirK73KnXri539Cq66pzKl4A.m4a,2024-03-18,Real,,Test
+IkldWVCMk5MXaYEJZcIVpeMaygQ.mp3,2024-10-25,Real,,Train
+IlIjY7lsoMWPRHxrmhkxPU2QyYQ.mp3,2024-02-23,Real,,Train
+IlsBw6boOwcTpYDRXnYt0TMiZJY.mp3,2024-10-17,Real,,Test
+IogynNkj8LzRaCa6aE2QVsyxjjY.mp3,2024-06-28,Real,https://www.youtube.com/watch?v=v2Vky6wOd6k,Train
+IqHY6lOBCY_7jdG0fd96836QIoY.wav,2024-08-28,Real,,Test
+ItWRNjfpa3k2M2tpQYtRDKzHLrg.mp3,2024-11-01,Real,https://t.co/dwN3iXE6O3,Train
+IuvbclkQWI8OJpcpXrnsnSN8_AM.mp3,2024-10-07,Real,,Test
+IvxD8cgFymH_0ZXpa-7bVDzc9KM.mp3,2024-05-20,Fake,,Train
+IxUS-jzu9RSEBLyPMxdeNVc0POs.mp3,2024-03-07,Real,,Train
+Iz267h122Zb0SEOu1WxvvYB-_x0.m4a,2024-10-16,Real,Clip from 2018 news interview,Test
+J-OMUBQtoZ9IxYHcmlzVKIwzobE.mp3,2024-07-18,Real,,Test
+J-ffICajgZad4fQhIddwMdCYqsE.mp3,2024-07-12,Fake,lip sync is off created by Runway AI,Train
+J1oI-05VrTID2CDLwTyWdybEhaY.mp3,2024-09-24,Real,https://www.nytimes.com/video/us/politics/100000009686815/harris-and-trumps-campaign-speaking-styles-compared.html?playlistId=video/politics,Train
+J8kW1cOiOovdIQfdWAmBEZrRkSg.m4a,2024-07-16,Real,The video content is confrimed by Reuters - first image might be throwing off results?,Test
+JHG1EP_in5rvFjTPaxfR4aN5K88.mp3,2024-08-15,Real,https://www.youtube.com/watch?v=yt4_CdS3Kgs&t=841s,Train
+JHm_wEDpEYVTyyFi9TaqIjEpOEs.mp3,2024-09-13,Real,"Hour 1:10 https://www.google.com/search?sca_esv=371673003b9a266f&rlz=1C5CHFA_enUS845US846&q=springfield+city+commission+meeting+august+27+2024&tbm=vid&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWfbQph1uib-VfD_izZO2Y5pt2wBeNNRFhtfGNWgf58ywMiScniLl3mToAITtgR4Pa2a9yGr9n_s8fSUn7zvjVnVQ7xspgpZd4BMvVLPCbg60hrJNX85-wip8aW-I4UVLUj7qfM6QEgo1UHz9HlLruZfX232YhwAloWcYmHorS3hK5CpnCCwmArZZP3Sph_Dij8aOeYQ&sa=X&ved=2ahUKEwiAo_KI18CIAxWbMTQIHTOwOTsQ0pQJegQIFBAB&biw=1468&bih=824&dpr=2#fpstate=ive&vld=cid:b0866ba2,vid:VL4JXoFcJQI,st:0",Test
+JRIWCECl1K-o6S7IC40a2vd0iiw.mp3,2024-10-17,Real,,Test
+JUXpEsNo4gXmP_jaGAU2j303-TQ.mp3,2024-07-11,Real,"https://www.google.com/search?q=biden+wanders+off+g7&oq=biden+wanders+off+g7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEIMzg1MmowajSoAgCwAgE&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:b974bc66,vid:pKtudwc9Y-0,st:0",Train
+JUpSvGWpA-Xg2aEVGR5ZoOcRw5g.mp3,2024-08-12,Fake,,Train
+JYNXivB8ivylFqKKuj3qo6gNy9g.m4a,2024-03-19,Real,When i first entered came back as no manipulation. Re-entered to add metadata and it's showing manipulation.,Train
+J_ljrqM3jjLvszPDXLsAwh9CKTw.mp3,2024-06-17,Fake,,Test
+J_r01Mlx_bW4cVt6Ug1H_eh9d9A.mp3,2024-09-23,Real,,Test
+JaXJleBaUwtX3rv9tlWW3WCGG00.mp3,2024-05-08,Fake,obvious low quality fake,Train
+JcazzdNzkDMktnDR6iORAoJzRNs.mp3,2024-06-30,Real,https://www.facebook.com/TheMaineWire/videos/notorious-elder-abuser-dr-jill-says-bidens-strength-is-unshakeable-while-he-aiml/837273464497100/.,Train
+JdyxvFqQAm4slSoK_5gKAQH3l6w.mp3,2024-09-05,Real,,Test
+JeD3U1C-grx9JLCyBwbIZu7YGB4.mp3,2024-05-07,Real,"AV appears to be real (FOX News), graphic overlays appear to be fake",Test
+JgzcnbjpdEWPdNPBII2PZZvfSEE.mp3,2024-08-23,Fake,,Test
+Jj8l4wlx_htrPLe2QFhIVLyJ2xc.mp3,2024-07-11,Real,no evidence of doctoring,Test
+JpUwpwjHVjhdIt9Fzc5smTscPu4.mp3,2024-10-17,Real,,Test
+JrZsg7KR-to3PbOo9Fh0sk3Dse0.mp3,2024-07-03,Real,https://au.news.yahoo.com/molly-the-magpie-four-new-conditions-for-family-as-famous-bird-returns-home-004906720.html,Train
+K0tMBpFFKPaKkOV8hqpic7JrqH8.mp3,2024-10-15,Real,,Train
+K1ClvEswgnAQKYn9b5douYGAu2I.mp3,2024-05-21,Real,,Test
+K1JQ3Dft6OAZAoJUHIELOEi3RKE.mp3,2024-02-13,Real,,Test
+K6EQSZNtw5WvHfTL0vL3hjW-8Ko.mp3,2024-09-20,Real,each clip is real - crisp clear lip movements,Train
+K6k4H5S5nfrKCzYmX8PvDHQGkn8.mp3,2024-05-07,Fake,,Train
+K773a507UwaeR92YJPDddgsN0Jc.mp3,2024-03-23,Real,,Test
+K7xk-DWvzKYlq-2m67ismximLNc.mp3,2024-09-19,Fake,ronaldo doesn't speak arabic fluently,Test
+K9isaESH3vfLAq_Na5IPp0oz8mg.mp3,2024-06-26,Fake,lip sync,Test
+KK5QCBH_JIv4V6p8xpAAaUPzvzs.mp3,2024-05-25,Real,https://t.co/lxOo5Mj5Vj,Train
+KLjEJfmleGXw2WPtn7thviV5rP4.mp3,2024-05-06,Fake,,Test
+KMMYy-zxtuQpcpvOKtsltcDPUWY.mp3,2024-09-18,Fake,https://x.com/thebabylonbee/status/1836518555648692570?t=jCp1IHgRo7p9IvgSILepng,Train
+KNELA3g3FdCcFWEyyA8x4gDxYDg.mp3,2024-06-03,Fake,,Test
+KNUmILt-iTqn3JyD699jvkNlePQ.mp3,2024-04-24,Fake,AI voice,Test
+KPjnkT3DYsJcHsOw0fVTMQBMBsk.mp3,2024-04-23,Real,,Train
+KSMlDfzDwsFyWF7EOsLTMZFPDac.mp3,2024-06-11,Fake,,Test
+KT625os_CQhavym0BXlVJBNif6U.mp4,2024-05-15,Fake,Side by side interview with ai self,
+KTVyWpPBaXox5QutIM4ihFHwGmo.mp3,2024-03-05,Real,,Test
+KTl0MPF6xKCdi8jj3ta5vH2RqJk.mp3,2024-10-25,Real,,Train
+KW0iBJWLVKnoGVFmbaw0a9MjmzI.mp3,2024-10-24,Real,Israel Defense Forces official account,Train
+KYU8oJMxf94iLoK1vKuuwA5AutE.mp3,2024-10-04,Real,https://www.idf.il/en/mini-sites/israel-at-war/briefings-by-idf-spokesperson-rear-admiral-daniel-hagari/september-24-press-briefings/special-press-conference-by-idf-spokesperson-radm-daniel-hagari-september-28-2024?trk=public_post_comment-text,Train
+KYx2V-mTyvNYElwJzyB7jZo9RW4.mp3,2024-05-28,Real,clip from tv show/film,Train
+KZK_BSDGTiFgWhLm3VUIk6OL_S4.mp3,2024-10-17,Fake,self proclaimed,Train
+KZvYtzFjZ16_kLTjAlbfMCu6akM.mp3,2024-11-06,Fake,Lip sync off. Watermark indicates made with TryParrotAI.com,Test
+KbELXR_qpnG0-KuqzA_Tkm-XYKg.mp3,2024-07-24,Real,mouth is nuanced and musk did apparently say these things,Test
+KdEnXG7V3hO4chutKReE217oNT8.mp3,2024-10-17,Real,,Train
+KeXNB-iOKPrHw72OYoeFJ4rKxGo.mp3,2024-06-03,Fake,lip sync,Train
+Kf1ca3a6oAibEF4TOlks3TZCj6g.mp3,2024-06-03,Real,the original: https://www.youtube.com/watch?v=m6wVw4Fnpd8,Train
+KfMyCE4S3_kkfjE28G7zvs3cffc.mp3,2024-07-26,Real,confirmed real by multiple news sources,Test
+KgpTfCpZCwhrzAgzY-WB98JiHPQ.mp3,2024-11-08,Real,Around second 0:57 https://www.youtube.com/watch?v=EFhjhgf0vn0&t=7s,Train
+KhBEhIfYZwWMgOZJ0lb5DscTgYc.mp3,2024-04-03,Real,,Train
+KiayHucPq8yzd5JPxWQwXYwig5o.mp3,2024-10-12,Fake,https://apnews.com/article/parody-ad-ai-harris-musk-x-misleading-3a5df582f911a808d34f68b766aa3b8e,Train
+KjgmCsoFyn-5bXp3mxr-Ase9080.mp3,2024-08-09,Real,https://www.france24.com/en/video/20220225-putin-calls-on-ukrainian-army-to-take-power-into-own-hands,Train
+Km1tUSJZ0jKVu_KLXA9TpJXFWbY.mp3,2024-11-09,Real,https://www.nbcnews.com/politics/2024-election/trump-vows-stop-gender-affirming-care-minors-re-elected-president-rcna68461,Test
+Krs3b75fF2HA6yvbcPdCM8Gry4k.mp3,2024-11-05,Real,,Test
+KsViKZ_iqeEZptJScQ0QFq5DNHQ.mp3,2024-06-25,Real,,Test
+KvGwMvhknNk_6_XRtoLxUMKLMhk.mp3,2024-03-01,Fake,Manipulated audio,Test
+Kx2MeytcknCWv_jqbnw9QbW88f4.mp3,2024-03-28,Real,,Train
+Kxz-tj-KtK1xIG__UWIiqVkvpXE.mp3,2024-09-11,Fake,lip sync is off,Train
+Kz-XXD-pblZUuJtSlC_h12u7h_4.mp3,2024-10-28,Real,https://www.boomlive.in/fact-check/fake-news-uddhav-thackeray-says-he-eats-beef-viral-video-cropped-fact-check-26838,Test
+L2kSEG7zxyOk-tFZihXqde7nPvA.mp3,2024-06-03,Fake,,Train
+L3ENEQ9uKOaOsw6x42d5MnraXmE.mp3,2024-11-14,Fake,Lips do not look real,Train
+L44I1zf4W-_BGxTzo94hi9gt-ho.mp3,2024-07-09,Fake,Russian AI Bot. Post from suspended account,Train
+LARoL7SLLezkLrCj23GRVH7Mw5E.mp3,2024-09-10,Real,,Test
+LBJV6k7-xCDLUfeefJXj_uJSa6c.mp3,2024-06-14,Real,,Train
+LBeCnxH4xUWuatiRQ75yFiMLf2g.mp3,2024-11-13,Fake,There is no record of Trump having said those words,Train
+LFz66nckhdx0Ugg3E56sZ2MINK4.mp3,2024-11-01,Real,"Video deceptively edited to make it appear Michael Moore expressed support for Trump | AP News, https://apnews.com/article/fact-check-michael-moore-donald-trump-support-834932400088?utm_source=chatgpt.com",Train
+LGbnvdy8Hu50NQI6OFOO2l2jhwU.mp3,2024-05-28,Fake,,Test
+LOVAgpsiXm9r2qUfFei9eC8T2fo.mp3,2024-07-27,Real,real footage maybe out of context,Test
+LOZ8d6xy-f_gMGiedUaKJvD_f-k.mp3,2024-06-14,Real,,Train
+LQiGwATkZw-8Wq-2y8kxK5UzYl8.mp3,2024-08-07,Real,snopes - real. perhaps taken out of context but not enough to be misleading,Train
+LTOeis_PLMqwNr95NADxT6tSpmM.mp3,2024-10-21,Real,https://www.youtube.com/watch?v=Vo20AyWKR68,Train
+LU3iHS4uqemaSh-C3Bq4VT969iY.mp3,2024-03-29,Real,source: https://www.youtube.com/watch?v=jhkRvCSm4tk,Test
+LdY8Uc5Ej7bgCyovqOORvDUlwzs.mp3,2024-07-24,Fake,Scam video,Train
+Lf-REZ6TpkGrUF1gRRNlFKte31E.mp3,2024-05-19,Real,,Train
+LftA7GhEK962RmQXZ6KZ3ZMpDbs.mp3,2024-04-30,Fake,,Test
+Lh7sfRYVjSz_nmkAVsz1UByGYfo.mp3,2024-11-11,Fake,,Test
+LnKWBpXx9YsL78l2nxCIMdAzCdQ.mp3,2024-07-09,Fake,Russian AI Bot,Train
+LvF8m9bqoE6X489daXE6qZgadhQ.mp3,2024-07-25,Real,https://timesofindia.indiatimes.com/india/why-rahul-gandhi-is-happy-to-be-in-opposition/articleshow/111401782.cms,Test
+LwNrDlgjpZxESJHAqL_HhHNHi2E.mp3,2024-07-08,Fake,obvious watermark indicates created by AI video lab,Train
+Lyv5Xm8LOoNDDEi-jh00tgwPJZ0.mp3,2024-11-11,Fake,Original interview https://x.com/TuckerCarlson/status/1843375397024485778,Test
+LzKWYWX0HDpEDdXuy06xPj_MdRI.mp3,2024-08-18,Fake,"Clear evidence of lipsyncing indicates this is a deepfake. The speech itself appears to be mistranslated at this least, as the views prescribed aren't consistent with this leader's typical rhetoric",Test
+M0McpDZgmDSm3E5IBYQG1CBDK8M.mp3,2024-10-25,Real,,Test
+M2AcvN6KUopwoBRTeOwnUO3bJ-Q.m4a,2024-06-30,Real,Multiple sources claim this video is not a deepfake,Test
+M418bkv_Uur1kYSKjaBsKmeNe9A.mp3,2024-05-20,Fake,,Train
+M50FHh52E7E2PPxi9N2dg5G1PbU.mp3,2024-10-25,Real,,Train
+M9WWnSoqjxceRPNK9M6b-u9HT00.mp3,2024-05-29,Real,https://www.facebook.com/watch/?v=418679024469601,Train
+MAfXU7ItfAgtbklrl7uMNY69FiE.mp4,2024-11-04,Real,https://www.foxnews.com/politics/iowa-poll-shows-democrats-position-flip-2-gop-house-seats?intcmp=fb_fnc&intcmp=fb_fnc&fbclid=IwZXh0bgNhZW0CMTAAAR1Rpofhq4Q3gGmNh5hA3qXFlLYnhK8fVeWomK4kkdZ6_bIy8BKlDpI1xoI_aem_wzhSmQiCClOCC1eFwtgz6A,
+MC5XdmyLugvc6qMGwh9p1fj9tZM.mp3,2024-10-25,Real,,Train
+MF5lw6I7YJdwARi3EE2ZqllMlXc.mp3,2024-08-27,Real,https://www.facebook.com/cnn/videos/jeffries-likens-trump-to-an-old-boyfriend-in-dnc-speech/1538744593737925/,Test
+MFjr0yLe5mUWUOJCnC_ag57xm5M.mp3,2024-06-27,Fake,,Train
+MML5_mFzzPuzHhdcmorwqGM5u84.mp3,2024-05-31,Real,self proclaimed,Train
+MPt-vhKosgz_7hyupEJNKSsv68c.mp3,2024-05-21,Real,,Train
+MQ1TxdOQsK7i5MKFywMMzeNzoAo.mp3,2024-06-14,Fake,,Train
+MV5fUr93zG-PfCzdI9svqKMVCrg.mp3,2024-03-05,Real,source: https://nymag.com/intelligencer/article/protesters-at-movie-theater-demand-aoc-call-gaza-a-genocide.html,Train
+MgIJ-07A_ZoZv3VGwv4BGzNad1c.wav,2024-06-29,Real,,Test
+Mj_6UyLgau3_8QMTLqYZ4jwI0_E.mp3,2024-10-17,Real,https://www.nytimes.com/2024/10/16/us/politics/trump-univision-hispanic-voters.html,Train
+MlghABkRtebtN3Sv-m0pIaXqeGQ.mp3,2024-10-01,Real,https://www.foxnews.com/tech/deepfake-video-bill-hader-tom-cruise,Test
+MoCpv94-ZTFCUH5nSX_41fMwQnI.mp3,2024-06-26,Fake,lip sync,Train
+MpJFjrF2q_KL7oJKlsNwMnSTPBw.mp3,2024-07-31,Fake,Known scam. Lip sync off,Train
+MpfwlyuwUXpbQOt9CkoSDIZNB4g.mp3,2024-10-01,Fake,Reuters fact check. Original clip altered removing portion stating Vance has had dog since he was a puppy. https://www.reuters.com/fact-check/jd-vance-did-not-admit-tucker-carlson-that-his-dog-was-rented-2024-09-27/,Train
+Mu4SN81nTgtBuFk1bM-ZhIq_M1w.mp3,2024-09-08,Fake,,Train
+MyPpuAtNdIq23OgVEm8MIXrWnnU.mp3,2024-11-06,Fake,AI generated - https://factcheck.afp.com/doc.afp.com.34NA77K,Test
+N-_2ZpWrI3sHMJvzGmTKqLB4iYU.mp3,2024-10-07,Real,https://www.abc.es/espana/donald-trump-deja-mensaje-tumba-rabino-schneerson-20241007232117-vi.html,Test
+N-k07DbF0MLANwyAPvxWwB55Hak.mp3,2024-07-24,Real,lips sync is very nuanced,Test
+N0qYObMd9nNZ020fJ6Gbb9-E-7Y.wav,2024-06-29,Real,,Train
+N3RMXKdkqnkPGk-rmautCPnI3aw.mp3,2024-08-09,Real,from official kamalaharris campaign twitter,Train
+N4RXJJqpTJZzBLy1ZomZQ4aUo2o.mp3,2024-10-17,Real,,Test
+N5Hoa5ykrtvMf4t7wLmZUkadf8I.mp3,2024-06-05,Real,,Test
+NA4wTTwJ9c_wJzyX1lvN_gNV2ng.mp3,2024-10-18,Fake,self proclaimed,Train
+NCQtI8_0mteCpjdOjmTHwUAVMLM.mp3,2024-05-26,Fake,,Train
+NEE68Cck69B99vqtpz71Y32Zf9A.mp3,2024-06-28,Real,,Train
+NI7nf_CU5e5qklk7EW6RLvOFeJc.mp3,2024-09-23,Real,media is too long for models to fully analyze,Train
+NLYgdLzbhccPscY8qLogGlz2WEg.mp3,2024-10-23,Fake,lip sync is off,Test
+NLpt1SQFPR7fTMpt_aY0Ld9LNPY.mp3,2024-11-04,Real,Lip sync is off. source says it's a deepfake: https://x.com/MikaelThalen/status/1090349932266094593,Train
+NNJ3vgZDNPTK3RbXqcQl17m3F1o.wav,2024-06-29,Real,,Train
+NSVAB5mkUH4jD1F79wRjUYcYgO0.mp3,2024-07-18,Real,https://www.youtube.com/watch?v=Tzb_CSRO-0g,Train
+NSZrN6UrB1PTKTaYVHUzCL-XCeQ.mp3,2024-08-15,Real,commentator note - video of a balloon not ufo,Test
+NTiVwFw5P_AJP1dugrpgo_TamOw.m4a,2024-03-18,Real,,Test
+NX6uCDY2zlZxwvYH3xQTel5Bvow.mp3,2024-11-01,Fake,https://www.newsmobile.in/nm-fact-checker/fact-check-this-video-of-an-anchor-offering-diabetes-remedies-is-a-deepfake/,Test
+NZLSEBFd01b1rzHgne4QNfnkAQs.mp3,2024-10-25,Real,,Train
+N_EXp8NeKLFjYHz54bn2KjFI0EA.mp3,2024-07-03,Fake,,Test
+Nb6e1T95mcAzKvmxQLJmWmQuY-M.mp3,2024-07-17,Real,Found real source video,Test
+NdAMWdwo2pUS17UVCuXzM436O0A.mp3,2024-11-05,Real,https://www.youtube.com/watch?v=6MXKKraE3IU,Train
+NdH1SISX8_uQg955YwGpTYTFTeg.mp3,2024-05-06,Fake,,Train
+Neg58Yp8N1f4huh2V5Xp8gKgwao.mp3,2024-08-09,Fake,clear deepfake,Test
+NkPYbuByEgSNnta86KT-Bq33bic.mp3,2024-07-05,Fake,,Train
+NmVoxk255QTTSeS0tyIhHiRUSnk.mp3,2024-09-26,Fake,Self-proclaimed,Train
+NrfewQ-fc9lScBUTW0GWS10z0c4.mp3,2024-07-04,Real,https://www.timesofisrael.com/trump-calls-biden-an-old-broken-down-pile-of-crap-says-vp-harris-so-fing-bad/,Train
+Nu4KFKt7bxraSkahPJfMTCCUnwg.mp3,2024-07-12,Fake,Created by Runway AI,Test
+NufXgBN7kCPSvmMta1O880ua4X0.mp3,2024-02-27,Real,,Test
+Nv7qPxddewLkgcHt5vDqwQl8aN8.dat,2024-06-03,Fake,known fake,Test
+Nw4e3OnFPSfD0fHhmWtzq4zNn54.mp3,2024-03-22,Real,,Train
+NwvEbmlWjoKTLT0yThDrF1fFN1g.m4a,2024-03-26,Real,,Train
+NyYuTv9qwLivxaFIgOxpWK6nTxA.mp3,2024-11-11,Real,Original video is higher quality and lip sync is matched: https://www.youtube.com/watch?v=k1GOkRieUW8,Train
+O0o7O1sYUhUTsvCZSy_ehqLGL3c.m4a,2024-10-22,Fake,lip sync is off,Test
+O1dSizSUBsxj3L-r2OR2sO-vq4E.mp3,2024-09-04,Fake,https://pesacheck.org/fake-these-images-of-elon-musk-with-robot-wives-are-ai-generated-6e182fe88089,Test
+O2LSpaKrXG3b5eQ4ZOcewszslto.mp3,2024-09-24,Fake,"obvious, only the lips move, lip sync is off",Test
+O3JyTOuvK59v6WiL0-EeWVZU6bQ.mp3,2024-09-03,Fake,https://www.forbes.com/sites/petersuciu/2023/09/02/there-is-now-a-deep-fake-video-of-ron-desantis-dropping-out-of-the-2024-race/?sh=7f5978d17bf9,Train
+O7AQ6xwGe2Uss0SDWyvgYtPgn4U.mp3,2024-10-25,Real,,Train
+OACIjMqXbU6ZEAP4s9w0BrFTyfQ.m4a,2024-05-28,Real,post by Time mag,Train
+OBr4-4KssjfPwRmyiv2lrjo3BtI.mp3,2024-07-12,Fake,lip sync,Train
+OBvMpFvtEc5oQFpMUf0J7beg89E.mp4,2024-08-26,Real,excerpt from longer video interview,
+ODQvhQXFYtxBUdEvG46rdtMtZ9s.mp3,2024-10-25,Real,,Train
+OEgieXwi5cE0Ad9mn71PzU2RoDw.mp3,2024-11-07,Real,https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-christmas-video-teleconference-members-military/,Train
+OHswsWqnZqgCuiJuQKWLL-Eg7SA.mp3,2024-06-06,Real,https://www.youtube.com/watch?v=c3b-JASoPi0&t=970s,Train
+OHySv9kzzaJ1tigsxeD9bXl2qqw.mp3,2024-05-06,Fake,,Train
+OLTiq5UOq1aJntOnM0OWcZh4cac.m4a,2024-05-21,Real,,Test
+OMW0Z56Io5iENJvb8upXZcb6ulU.mp3,2024-11-14,Real,https://www.aosfatos.org/noticias/posts-noticia-antiga-governo-lula-desviar-bolsa-familia/,Test
+ONpnJOz1HxLX5HpnAVOM4hGbk_A.mp3,2024-10-14,Real,https://abcnews.go.com/Politics/vance-stands-trumps-false-claims-venezuelan-gangs-aurora/story?id=114751512,Train
+OPZ3X2U6dmNYTRHccIA0GB574Xg.mp3,2024-09-20,Fake,,Train
+ORSQ35DMH8Q_vXyCRE0cbJs-m4k.mp3,2024-06-11,Fake,,Train
+OWOv7A7Ga8Kq2_XHZT-j_eVk8Rw.mp3,2024-11-12,Real,around minute 7:https://www.youtube.com/watch?v=KLODGhEyLvk&t=473s,Train
+OXKd_79sZDTfvQx_d_7M5Htpk9E.mp3,2024-08-09,Real,,Test
+OY4zpr6dlq8W6klYT2LXejd3PsU.mp3,2024-10-31,Real,"miselading: votes do not change, you get an error message and is it only on ADA machines. Watch video here for misleading info: https://www.yahoo.com/news/benson-addresses-dominion-ballot-machine-193418402.html Video truth:https://www.youtube.com/watch?v=p0mmBrrZLvw",Train
+OYHyox8p9HiPkw_Lqs-BBYOBQjw.wav,2024-06-29,Real,,Train
+OZ2Fb_iXewuW2KvM2lQh2rJkfmQ.wav,2024-06-29,Real,,Test
+OaWocNFTwLT3kE_n0TsSBwOghMM.mp3,2024-10-25,Real,,Train
+ObxvnpHCrgAigI2uArLPwOZrf8Y.mp3,2024-03-01,Real,,Train
+OcBX463AzNLdjQRow8Hp4ipJYd4.mp3,2024-06-14,Real,,Train
+OdqCIs3SpC8kfgs6HLBcIKlXtQ8.mp3,2024-10-25,Real,,Test
+OiEXG3MxCs26Lnw41689KwgdtfI.mp3,2024-05-24,Fake,"in real video, he spoke English https://www.parliament.mn/en/nn/14976/",Train
+Oj8axxMTF5PbA9sqKyEV0lqWJmk.mp3,2024-09-27,Fake,lip sync is off,Train
+OjH23N72GkWHBZqRPDww3vj4EKs.mp3,2024-10-08,Fake,obvious,Test
+Ok-KxleTOlNXcucslVSGdnefIuw.wav,2024-06-29,Real,,Train
+OlpEkIVlS-ZczI20nQ6RBI7D0Ws.mp3,2024-07-22,Fake,https://africacheck.org/fact-checks/meta-programme-fact-checks/no-south-african-billionaire-johann-rupert-not-touting,Train
+OnmCH5iTWUaEYGKr6ybNjUtF-TI.m4a,2024-06-02,Real,,Train
+Oo-WGIrkG6L2ZW3nRk2a2LFYjDk.mp3,2024-07-11,Real,audio is entirely music so labeled as real. Unclear if video is real or not.,Train
+OqCKeeVnVWykpiJxurPfb4YehGM.mp3,2024-07-24,Real,lips are nuanced,Test
+Ox0n1-O-GBuD72HUnJnut-dSQJ0.mp3,2024-07-18,Fake,ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Test
+OzCxcbHEZof9z78nfWhvPnD43WU.mp3,2024-05-22,Fake,obviously looks fake,Test
+P-K74VlITIbQqnqo4zqjHTwIT40.mp3,2024-08-09,Real,official biden campaign ad,Test
+P-nGnO9oGMWEmY7vzTNeDDGTBy0.mp3,2024-07-04,Real,Leaked video of Trump,Test
+P2CukEUNPPodx8tiAIlby3lS6P4.mp3,2024-06-28,Real,,Test
+P2ibcPWoPsynRpkzRYWIY9Za7ZU.mp3,2024-06-05,Real,,Train
+P6ATD9V5mgUzSZJg6N6JBPaLjcY.mp3,2024-11-14,Fake,lip sync is off,Train
+P8itSwcDhQ_2wwOc7EUoGf1RzYA.mp3,2024-09-04,Real,https://pesacheck.org/fake-these-images-of-elon-musk-with-robot-wives-are-ai-generated-6e182fe88089,Test
+PApQmB3ldXdtD477B5_J0o8x-CA.mp3,2024-10-25,Real,,Train
+PCFrjETFR3x4DFBbKxglrhJbr1Q.mp3,2024-11-05,Fake,Lip sync is off,Train
+PCWzjWuiTBWe5awqK7Ib23TunKc.mp3,2024-10-11,Real,https://www.youtube.com/watch?v=iqbZ46GffOo,Train
+PCcj2wDTMd81IlH42tS_8-LJLXg.mp3,2024-05-06,Real,#deeptomcruise,Train
+PCrb3sJCR3QRM8i4sMD9LV_8vDA.mp3,2024-07-23,Real,https://www.youtube.com/watch?v=Dxb-eXwcsEI,Train
+PG1AzUq5wpwX4pGgQcJXljd57yQ.mp3,2024-09-20,Real,Comment out of context: https://meidasnews.com/news/fact-check-trump-falsely-claims-kamala-harris-fighting-for-no-merry-christmas,Test
+PHqn5Q_TWkDnKWOFIagidBASojY.mp3,2024-05-06,Fake,,Test
+PIwuc5XBJDhbmx7KXHF6jREwDpw.mp3,2024-10-11,Real,,Test
+PKh2LPPY4FpWpMr8gYTTc-OzBU0.mp3,2024-04-26,Fake,,Train
+PL38Z6rpmg9iyHEto0wfQ7Vpi2o.mp3,2024-06-06,Fake,lip sync,Train
+PLS7G5DYW5p8Sl7wA6BXpnyKY6g.mp3,2024-10-17,Real,https://edition.cnn.com/2024/10/16/world/video/the-lead-israel-iran-middle-east-gop-trump-2024-election-jake-tapper,Test
+POYzKKKHPhWBas7MdDH90D6wQvk.mp3,2024-10-25,Real,,Test
+PPC5wt9rkSi1p1FgtSpVBtOlr2g.mp3,2024-06-27,Fake,,Test
+PRc0N7CqN1BwI65yiJnSpvqwq_Q.mp3,2024-09-09,Fake,,Test
+PS_GUPOIskOjlQvztJrcG85wK8E.mp3,2024-07-25,Real,audio is entirely music - video is obviously fake,Train
+PT40lpvvuf_QVsN0NncrwsCYk5k.mp3,2024-10-31,Real,"lip sync is off  https://factcheck.afp.com/doc.afp.com.36KE2QZ individual impersonating someone else, use of AI inconclusive.",Train
+PUSHUYtjWUW9xuJFxuLuVfjsITU.mp3,2024-07-25,Real,other than obvious GIF seems real,Train
+PVbU8wFPJFyop2ydkmyTfqYpJKA.m4a,2024-06-07,Fake,obvious because Hitler didn't speak English,Test
+PYPZcWRERdFdP8F2LhY-731d9Fc.mp3,2024-11-06,Fake,AI generated https://www.politifact.com/factchecks/2023/jun/01/instagram-posts/these-photos-of-elon-musk-kissing-a-robot-wife-are/,Test
+PhgXyd6ZBIqoG1VxmX5jsg0_iLc.mp3,2024-09-30,Fake,self proclaim,Train
+PhyZn3NZnmj_FT1K5Y_1Jonnjvc.m4a,2024-06-20,Real,,Train
+PiwfVSYcGL0_SXd_IIqduGiMRY0.wav,2024-06-29,Real,,Train
+PjFGvrX_Np1-eyDX2bh2Fd9zufM.mp3,2024-11-05,Real,Unmanipulated clips with commentary. Low resolution video and picture-in-picture effects incorrectly triggered some detectors.,Test
+PpRFLvV3_d2q8PSZzTyat1o2INk.mp3,2024-10-07,Fake,lip sync,Test
+Pr1r3MXxncgJ3dUDTAKJuDxdl4A.mp3,2024-11-03,Real,,Test
+PsaSFHs4Sf5hINuI7mMTUoDxp3g.mp3,2024-10-08,Real,https://www.washingtonpost.com/elections/2024/10/08/kamala-harris-60-minutes-interview-recap/,Train
+Psq9TAdfU7cG4Htlw0vntmIy5ss.mp3,2024-05-22,Fake,https://leadstories.com/hoax-alert/2024/05/fact-check-image-of-dr-sebis-cousin-in-court-for-revealing-health-secrets-is-likely-ai-creation.html,Train
+PvUvY3egxpBrGTXPwKNw6eyN_J4.m4a,2024-03-29,Real,,Train
+Py-DKe5bjJqO4lIJxdpNXV40sYo.mp3,2024-10-30,Real,Comment taken out of context: https://www.politifact.com/article/2021/dec/23/enduring-tradition-false-claims-about-attacks-chri/,Train
+Py45LKN-Xh0JR7hcMBp7nh-oI1g.mp3,2024-10-10,Real,https://www.c-span.org/video/?539061-1/president-trump-campaigns-reading-pennsylvania,Test
+PzurCs-Ndi5E-NLb7BciQRThEWM.mp3,2024-09-30,Real,Sikkim today is a trusted local media outlet - https://www.facebook.com/thesikkimtoday/reels/,Test
+Q-9iUvTP0nIS4ChCgWUm_bF6aoY.mp3,2024-07-09,Fake,Russian AI Bot,Train
+Q-gloY7C7N-cvnAErdCegewP86c.mp3,2024-09-30,Real,https://www.newsweek.com/donald-trump-call-really-violent-day-compared-purge-1961090,Test
+Q-goEmMe3WbYZKnaFekIVF3Q7Rw.mp3,2024-10-17,Real,,Test
+Q1kJdvJpp8EsT9hBqFmSTxtn6as.mp3,2024-03-04,Real,source: https://www.theguardian.com/us-news/2024/feb/26/ai-deepfake-quiz-spot-the-sham-audio-of-trump-and-biden,Test
+Q8B9hSoOUxYm452je9gSv_M_K1A.mp3,2024-10-25,Real,,Train
+QAgWiw9Xu8sKtb469Oy4wfG80Z4.mp3,2024-10-18,Fake,lip sync video,Test
+QJYxE0LGb8siWEd1MUNXNWXt17A.mp3,2024-05-13,Fake,lip sync,Test
+QKxTLoGJo-rk_wbIP3KBQWAG9UU.mp3,2024-03-29,Real,source: https://www.youtube.com/watch?v=u_wJF-EV9JQ,Train
+QMYQIKzAQH2UnDjqy-ldqpwYl_M.mp3,2024-09-25,Real,https://newschannel9.com/news/nation-world/kate-middleton-royal-family-princess-of-wales-announces-cancer-diagnosis-undergoing-chemotherapy-abdominal-surgery-london-clinic,Train
+QMvbSZ4n35P2vaf14KS1AyziGGQ.mp3,2024-09-30,Fake,Self proclaimed. AI synthesized video persona.,Test
+QPQvVx4RtQnAPh-CXWlPmlj6caY.mp3,2024-09-27,Fake,lip sync is off,Train
+QXS5RrhEL3mZmzjeJTpRJxLnHCs.mp3,2024-05-23,Fake,lip sync,Train
+Qa07aJ43SVy-vJhH81CuhaCG81E.mp3,2024-10-28,Real,Minute 9:42 https://www.youtube.com/watch?v=WjCHjwlSMFI,Test
+QaBUCGkmsgEohro8JauuheCM5Lo.mp3,2024-05-08,Real,https://www.youtube.com/watch?v=OKM0cERkXJQ,Train
+QfD_IlWROLDyNdmHRLwtRt6Yl34.mp3,2024-10-25,Real,,Train
+QfK-tPM4RG4xj-hR_pCz1-v0yag.mp3,2024-10-03,Real,https://x.com/NORADCommand,Test
+QhEbz9whfVBvqlvZwezO3zlgOWU.mp3,2024-05-21,Fake,,Test
+QhyIjrroiZ383f7ymwE34cZyADE.mp3,2024-09-27,Real,Excerpt from 2024 debate https://www.politico.com/video/2024/09/11/trump-claims-immigrants-are-eating-cats-and-dogs-during-abc-debate-1428367,Train
+QlRhSxTXGXPoEX1aVWY6C2IeY4M.mp3,2024-11-05,Real,,Test
+Qlnm7yATiE3fQRmulXuSjSpc-Xc.mp3,2024-05-21,Real,,Test
+QnrA2WDza3eq7s-vG4lfv59M1is.m4a,2024-03-12,Real,,Train
+Qulr0SY-us3kxB4oPwTyxT_v7pU.mp3,2024-08-13,Real,,Test
+Qw2QKsiBZCWgpt4-HtsMhaO2qzs.mp3,2024-03-07,Real,,Test
+R-vc2VW-Cbfui93guFAkFuMLFUA.mp3,2024-10-25,Real,https://www.youtube.com/watch?v=mb5zZAI38T4,Test
+R0kuSkAOg90xavKAqHX_kScBdJ8.mp3,2024-10-25,Real,,Train
+R34l7GZTl-kWbhXtVDU7X1QTxd0.mp3,2024-10-19,Real,https://www.nytimes.com/2024/10/20/us/politics/trump-meandering-remarks.html,Train
+R3Fhar5LpnNGlqEXb84Zerp3G7s.m4a,2024-03-13,Real,,Train
+R6Cjah9W2ZV2do86JZrB2NK9t30.mp3,2024-06-06,Fake,from a film,Train
+RDxdNwzdJqL5lQ1wbVMX82BNfbc.mp3,2024-11-06,Fake,,Test
+RGYi3hKOA-2Nms576oYa32bJ0K8.mp3,2024-09-23,Real,,Test
+RH-fRHqtEUaEyLCZCh3ZXn-meII.mp3,2024-03-01,Real,,Train
+RH80lSlqgFT6BKb9y-bU5AQ9IdI.mp3,2024-07-06,Fake,lip sync. Post indicates videos are AI generated,Test
+RHbVHLtK-navepzhfl9v_ZMV99I.mp3,2024-11-06,Real,https://www.nbcphiladelphia.com/news/local/f-around-and-find-out-philly-da-election-day-concerns/4017882/?_osource=SocialFlowTwt_PHBrand,Test
+RKVk1fC4vDJi1yJKavfN3rLkRus.mp3,2024-11-11,Fake,lip sync is off and voice sounds fake,Train
+RPAF9sUd9YDV7v9D5n5kUaMhNnU.mp3,2024-10-25,Real,,Test
+RQ4AEGuzjkfOyyKxFw1VcP7sPW8.mp3,2024-09-09,Fake,lip sync is off,Train
+RRaUNrrBV8HiJhUVvEtXDsSsBL4.wav,2024-06-29,Real,,Test
+RTCdK9CXGFz6dLWm8OZ2TPD30gE.mp3,2024-09-24,Real,minute 11:32 - https://www.c-span.org/video/?537504-1/johnny-cash-statue-dedication-us-capitol,Train
+RVjcvziLOMuDnfi5b3EZoNa9Svw.mp3,2024-10-30,Fake,self proclaimed,Test
+RVkBn-n9H1p_Osp3TL5sfGS1O68.mp3,2024-11-02,Real,https://www.youtube.com/watch?v=yeZKRoJqkDA,Train
+RXNZj-3EF2aJwjA6DOHcW1kZ-6U.mp3,2024-04-25,Real,,Test
+RZyjhSr6cQFsW4RST4HQII5PaRg.mp3,2024-09-05,Real,original video here: https://www.youtube.com/watch?v=Q9v-l4m-HEE,Train
+R_Hn-6Yp4sSXs4dH_Gyth-jvMi4.mp3,2024-05-22,Fake,https://leadstories.com/hoax-alert/2024/05/fact-check-fake-image-of-barbara-o-neills-cousin-on-trial-is-ai-generated-no-such-trial.html,Train
+RawoJJvllZYi505WftWvN1fnd8E.mp3,2024-09-10,Fake,lip sync is off https://www.amarujala.com/uttar-pradesh/kanpur/woman-ips-becomes-victim-of-ai-shown-in-video-advising-to-earn-money-by-packing-pens-pencils-report-filed-2024-08-13,Test
+Rh6vv03a9s-CfD5UBgzjNtwG56w.m4a,2024-06-20,Fake,,Train
+RiWF1OFlGBp68xkyQLFY398QAOg.mp3,2024-09-17,Real,,Test
+Rifk6LcrH1M3N23pMCznKtut3Hk.mp3,2024-06-19,Fake,Published by account with stated goal of deepfakes. lip sync Satire,Test
+RjY6yg9VJsrAphVBvy9gGwH6rUA.mp3,2024-11-04,Fake,Self-proclaimed,Test
+Rjsbb22ICoXA-fKn6L2MKctn5Uc.mp3,2024-11-10,Real,https://www.youtube.com/watch?v=8cvD8CWLWgU,Train
+RlNIyOPKfxcdSuH9Ce1REjnhx_Q.m4a,2024-07-18,Fake,buzzfeed deepfake,Train
+Rpm_WeOT4m30UUphetTLMRH6GsU.mp3,2024-11-05,Real,,Test
+Rq0E22EKXDZ5-FwMa-jq56aCD54.mp3,2024-10-01,Fake,lip sync is off. https://demagog.cz/diskuze/babis-zneuzit-v-dalsim-deepfake-videu?fbclid=IwY2xjawGuAzxleHRuA2FlbQIxMAABHXBbTAWidUup-dVc6A90A8G2TJHyUxG78ad0JvBuWmEZV6bSdYK2ErAC1Q_aem_K8BbLjiKC2IzFYsdG86ixw,Test
+RqRhZEyKy61OERpW4jiS67FmYNU.mp3,2024-10-10,Real,,Train
+Rv3AGVhfaCZCS6raW9hgz26VNkA.mp3,2024-11-09,Real,https://www.donaldjtrump.com/agenda47/president-donald-j-trump-declares-war-on-cartels,Test
+RymXOBdVUAQFq6tExbScHPxBfiw.mp3,2024-10-17,Real,,Test
+Rz5XxWpkyGaa_EkicSg9_UaQrwg.mp3,2024-08-29,Real,,Train
+RzeEeDBi7HfCYKyOSaxXO3SiO7U.mp3,2024-07-12,Real,,Test
+RzxalzJetwf_jdZRVt99dl3QE04.mp3,2024-10-01,Fake,Digitally altered video based on Community Notes in the X post. Original video: https://www.youtube.com/watch?v=TiHEAqRF0Rg,Test
+S-M6eZeqaT8FOPEgHpUeboW4DIc.mp3,2024-05-26,Real,,Train
+S1iifwNTQkuiPOfzdniENEanB4g.m4a,2024-06-20,Fake,,Train
+S5e-gJqO5IoKAIE6jBKYcE2zeb4.mp3,2024-07-02,Real,https://www.forbes.com/sites/nadjasayej/2022/11/22/the-story-behind-paris-hiltons-viral-tiktok-with-deeptomcruise/,Train
+S81HEV0025_HUOvXDzS3ohg4uqM.mp3,2024-10-29,Real,,Train
+SGPwpuC3Pv7Lg198Y8WYfsuVYQs.mp3,2024-10-30,Real,,Train
+SH9hPrdMU1ldKaCaQOH5tJizbpM.mp3,2024-10-01,Fake,Lip sync off. Satire.,Test
+SJ4Rw0yEaMnDcm_qvQEq2xUkbv0.mp3,2024-07-16,Fake,Verified fake - page not found,Test
+SJXLcxk8VTksqDSDPV2tWTZUX5U.mp3,2024-10-30,Real,fake due to art,Train
+SKDNSkBAe7_RhdZCDM33ZfDU1R8.mp3,2024-10-11,Fake,,Train
+SLSCN_YV1qROZmFRuUxkNs3nRKo.mp3,2024-02-29,Fake,https://www.france24.com/en/tv-shows/truth-or-fake/20240215-france-24-journalist-impersonated-in-new-deepfake-video,Train
+SNlnaewrBw2du8lOnDtCNUQPbJo.mp3,2024-04-22,Fake,,Test
+SPLgt1oa9mHYXmFGaQn_ykth4k4.mp3,2024-10-25,Real,,Train
+SQmCRSEWYSbCGBv7oIipGcz-wKE.mp3,2024-06-03,Fake,,Train
+SSZUsPEBHa-H2kyynxguEtqyak4.mp3,2024-09-26,Real,https://www.youtube.com/watch?v=MJlDjahnHWE,Test
+STaCCJylYdDTijqqxIEFOybeUSo.mp3,2024-07-09,Fake,Russian AI Bot,Test
+SXm239s91sDxBhfi_JUT5Nm8X4s.mp3,2024-02-23,Fake,Twitter comments report as deepfake lip sync off,Train
+SYop-b2fvdusu8VI55fQesqEJaE.mp3,2024-11-11,Real,,Train
+S_WZ-dqdAtwD_mPbe40J3XQXTqU.mp3,2024-11-05,Real,,Test
+SitoCzWaph6iho0TDbA2QhbtyBs.mp3,2024-10-16,Fake,The image of the girl raising her hand in class is AI,Train
+SkGnUW42IYb4qoe3BnWUE_4Rwqk.mp3,2024-10-03,Real,,Test
+Skgu_geQdGKi4opM8rkvCfLrajY.mp3,2024-03-20,Real,,Test
+Sl2wqAT7VluWMUVveatTc7hm09Q.mp3,2024-11-06,Real,https://www.usatoday.com/story/news/factcheck/2024/10/30/elon-musk-pregnant-robots-fact-check/75937428007/,Train
+SlXyEM1Om-XUbOFZrSYiZ9cKn5s.mp3,2024-10-07,Fake,Lip sync,Train
+Sm61sJ8OgHanP0CFg_oqS5Te1PY.mp3,2024-08-15,Real,https://www.cnn.com/politics/live-news/trump-harris-election-08-15-24/index.html,Test
+SpRZTr2c3h3jsqX0EgHPP_ZlHdI.mp3,2024-07-08,Fake,Quantum AI scam,Test
+SqbG4eQ9dFdLXS4FlXC3-z27RNc.mp3,2024-06-03,Fake,,Test
+SrSr6jUyUOiOd6J5zxLEZHek-Qk.mp3,2024-06-19,Fake,collage of real and fake images and audio is not in original video from white house https://thehill.com/homenews/administration/4726190-white-house-videos-biden-confused/,Train
+SruVCr2F1J74pvp8A9Voa3oKtlQ.mp3,2024-11-07,Real,https://www.npr.org/2024/10/29/nx-s1-5169978/poop-desk-statue-tiki-torch-national-mall,Train
+SsvvOssf0xfX7Bps2x78idBQ9is.wav,2024-06-29,Real,,Train
+StUt0znKKmc5_iNjv48RuZ2vEbc.mp3,2024-10-17,Real,,Train
+SxPtk6z9Y4Y5y0Yy6Md0CHcje9Y.mp3,2024-10-01,Fake,self proclaimed,Test
+SymP5Uq4ZWVBRItZ1598m9tjJ5w.mp3,2024-10-28,Real,https://katu.com/news/local/vancouver-ballot-box-seen-smoking-same-morning-as-portland-ballot-box-arson,Train
+T2mn6ErfV8YK0UasSR-8gYE5H4I.mp3,2024-08-11,Real,https://www.theguardian.com/us-news/article/2024/jul/04/trump-golf-cart-video-biden-kamala-harris,Train
+T586gnPoUb95zcYFvP6abGZt-Jk.mp3,2024-09-27,Real,IFCN verified news source - https://www.rappler.com/philippines/house-detains-raided-pogo-worker-cassandra-ong-august-2024/?fbclid=IwY2xjawFjzc5leHRuA2FlbQIxMAABHW8yTYBvTTC_MjPqywJMLPuuwRGb6tAQiiHBL2XQArPnY82VKUuU_M7wpw_aem_N2UD7-DlsNhsY2V9rLbnSA,Test
+T7jBI5I9mrbkGcesTbK8N4az-EM.mp3,2024-06-27,Fake,,Train
+TA2rKpRVz6K8OM1brvR7gzDM_Hw.mp3,2024-11-05,Real,"Lips and mouth are crisp, clear, nuanced, and match sound perfectly.",Train
+TAV4UnaWhDAc0fbX2MEuO91N6KU.mp3,2024-07-11,Real,hard to translate but video is real. Audio appears legitimate as well - no evidence of lip syncing,Train
+TAdd22lk2Qf8D9ubKzzNy4wP83w.mp3,2024-11-12,Fake,"Lips move in weird and jumpy ways, video is fake",Train
+TBRyTFN9okuDVVTYl-l-91vX9bQ.mp3,2024-09-12,Real,https://x.com/robert1lefty/status/1833909501872820679,Test
+TEGW8oJHT4Bn9O8QqpqAwIcmZ_4.mp3,2024-09-23,Fake,,Train
+THO_7cyjq53kwzWelifuXoizulk.mp3,2024-06-20,Fake,he didn't say this AI creator @plattepus https://www.reuters.com/article/fact-check/video-shows-deepfake-of-elon-musk-idUSL1N33P28O/,Test
+TIvedSOg0fB8T_TqVrnf9jhdzxo.mp3,2024-04-11,Fake,,Train
+TNYzSGL7py3hTdlhVQZvY4FwXmQ.mp3,2024-06-18,Fake,,Test
+TTF79zOvXN6H81zT1PUT7uD6Gdc.mp3,2024-09-03,Real,crisp clear mouth movements,Test
+TVPSrhfYU9_VIS47bAehJggz83c.mp3,2024-11-09,Real,https://www.usmagazine.com/celebrity-news/news/prince-harry-meghan-markle-on-protecting-kids-from-online-harms-video/,Test
+TVZL8inNFptcvaTuFjLFl_NZb9M.mp3,2024-02-16,Fake,"post has been deleted. lip sync off, altered audio",Train
+TZcYFvVUE7py_2SGBIQAVijY5w4.m4a,2024-07-24,Fake,Musk clip AI generated,Train
+TZozoAdxxxja3d_5a0n1kHulDO4.mp3,2024-08-15,Fake,https://www.reuters.com/article/fact-check/video-of-kamala-harris-rambling-her-speech-at-howard-university-is-digitally-cre-idUSL1N3712OM/,Train
+TdSyXA44j0XUUajUusnMHoadcOA.mp3,2024-07-26,Fake,,Train
+TiI4CzYX-F_QNSsSy4STHscOde8.mp3,2024-10-29,Fake,Obvious because lip sync is off and video clips are edited together,Train
+TjJd-vEh0xpQb-PK4JMhPi2qzo8.mp3,2024-10-25,Real,,Train
+TjgIhTHO1DuwjWnixtdBA9okWV8.mp3,2024-10-09,Fake,,Train
+Tl_X2p86ToCQYIk0v4QtcQBQl5s.mp3,2024-03-22,Real,,Test
+TmtR2tZ07l7XDvP1yeZTlsmF1uQ.wav,2024-08-28,Real,,Train
+TnbTVJ2ypOzueSVvTl1JpZtEkXQ.mp3,2024-05-27,Fake,"animations; inaccurate info https://www.aclu.org/news/criminal-law-reform/the-supreme-court-declined-a-protestors-rights-case-heres-what-you-need-to-know#:~:text=In%20her%20statement%2C%20Justice%20Sotomayor,on%20political%20expression%20and%20association.",Test
+Tp6B4RRVKNdjevJm1VoXAOA5bLg.mp3,2024-07-09,Fake,lip sync,Test
+Tqw-SFVIFrJxmxOnhZJD420leR4.mp3,2024-08-06,Fake,,Train
+TtEaLCUkgrY9HzcZqGtiLyHJ1tA.mp3,2024-09-26,Real,see https://www.washingtonpost.com/video/national/valedictorians-graduation-speech-cut-off-after-he-criticizes-schools-administration/2017/06/20/ffad354c-55c9-11e7-840b-512026319da7_video.html,Train
+TtZB_OvTXQjnNfy40XPDzs4shjY.mp3,2024-06-11,Fake,,Train
+TtyP174To3-T-9FzoWnjf6qvTFs.mp3,2024-06-19,Real,https://www.youtube.com/watch?v=uKvQvWTZFWg,Test
+Twq3Gn4NDTmJVrofSz00O1ZDI08.mp3,2024-05-07,Fake,No proof of sentencing claim,Train
+TyIprr2F7JVlVi_SAGGZW1oahTk.m4a,2024-03-01,Real,,Train
+Tz-tSNNEJ-6CZSiMPO3VfHruouQ.mp3,2024-08-24,Fake,,Train
+Tzfjv3LCaNpK6ex7fMfeeF__Gcw.m4a,2024-03-20,Real,Biden campaign ad,Test
+U-BQb6Tg0t-tlHJ4bxpd2fYZyhc.mp3,2024-10-15,Real,self proclaimed,Test
+U6QHz6MH1C2AAD__AU9H7ZUjYYc.m4a,2024-03-28,Real,,Train
+U7SlwtHquMUkK90H31uIXgZ43s8.mp3,2024-10-25,Real,,Train
+U7b5HlVrtjOuVWFUe6FRtsJhqkg.mp3,2024-08-09,Fake,self proclaimed,Test
+U8fvgs781-pOz3dKbz2A-h6pmt4.mp3,2024-07-24,Real,lip sync is very nuanced,Train
+U8ru4jD6_kNhPRi7hEP8xo9gI7c.mp3,2024-10-30,Fake,obviously biden did not say this,Test
+UAce_RI7BO4uHU5YyySlNyGdY5U.mp3,2024-06-27,Fake,known fake,Test
+UESkql-GopMYfDFR-w0I-a7_FpE.mp3,2024-02-23,Real,,Train
+UEjmZkoz8wXXxjqifwAR0WCZglo.mp3,2024-03-07,Real,,Train
+UKv3Xh5IeKXuzYdgNoTiNIGBPqQ.mp3,2024-11-01,Fake,Obvious because lip sync is off,Train
+ULnv4j2LvMB-OODgMGlnJfVca7E.wav,2024-06-29,Real,,Test
+UMEtLxt7h9kFDDCh5SDb56sQeBM.mp3,2024-03-01,Fake,lip sync off,Train
+UO5KRl6NyeV3QjhW8ya9xE130ys.mp3,2024-08-15,Real,https://www.wbtw.com/video/on-the-campaign-trail-harris-is-pushing-joy-while-trump-paints-a-darker-picture/9946277/,Test
+UOGxyNO2g-IZEJSn0Y1VkSWY8BY.mp3,2024-10-25,Real,,Train
+UOdM0zqEb4eWBdsyyXZgGriGVyw.mp3,2024-10-16,Fake,,Test
+UQWun6VDbblec0zJ8PyybXBcVGA.mp3,2024-10-25,Real,,Train
+UUAxctbCTad7PrHzQiZFtLZRLAs.mp3,2024-11-09,Real,https://www.youtube.com/watch?v=_ohp8SuVur0,Train
+UUaPn-Y_CZ90diG4bDeRQi9x6oE.mp3,2024-05-28,Fake,,Test
+UUwW4DM1e5r0FfzC5BgPq7sDPtU.mp3,2024-07-04,Real,https://www.seattletimes.com/business/boeing-aerospace/alaska-airlines-paid-1500-to-flight-1282-passengers-that-wont-stop-the-lawsuits/,Train
+Ud2F51Wunpbs1jHfmqflX_AkvYQ.mp3,2024-10-25,Real,,Test
+UdrKWP7CQPShOvouqXQKrNZz9N4.m4a,2024-05-07,Fake,self-proclaimed fake,Train
+Ug5Vq7RULpwVxbb2JI89UNkBQwo.mp3,2024-10-17,Real,https://www.cnn.com/2024/10/16/entertainment/video/the-lead-liam-payne-one-direction-music-entertainment-harry-styles-zayn-malik-niall-horan-louis-tomlinson-jake-tapper,Test
+Ui23b6JfIBQ9WhgGRwKMb2V1ayQ.mp3,2024-11-11,Real,,Train
+UimrUZLPMK5TQyZhXb4GhDEnt_w.mp3,2024-10-23,Real,https://www.youtube.com/watch?v=AUf7NWD2b4A,Train
+UlOBK5D4JRla7mIwiex9kQRn0Xg.mp3,2024-07-08,Fake,,Train
+UlS2bsXcfedZEw2tOqJkU-FycLo.mp3,2024-08-14,Real,Original video was real. Nadeem deleted and has produced new one.,Train
+UnbhGkNdvPbm4a4BD9_mVzQ01x4.mp3,2024-10-25,Real,,Test
+UtGucvZggZsI70JM9w9N6KdKCRk.mp3,2024-08-16,Real,,Train
+UuQFtMPkFGNXEjEV9tVukTaz_ps.mp3,2024-11-11,Fake,labeled audio as fake because it contains AI generated content in middle,Train
+Uul4jWh6OhX8Mrjel7HCzTqEdbQ.mp3,2024-09-23,Real,Human impersonator; here's the full skit on Comedy Central: https://www.youtube.com/watch?v=Th5uVIhQ8VY,Test
+UwUsC5oyXIvQ8vb3GC97sD-vA-4.m4a,2024-03-25,Fake,Self proclaimed. Creater indicates AI,Test
+UxeJW5wABXLvPJdEvzop5aFYCMY.mp3,2024-09-19,Fake,"https://www.terra.com.br/noticias/deepfakes-com-lula-moro-e-dilma-alertam-para-risco-nas-eleicoes,45df925253998d289f96a9395c73f2e2mwj3j45u.html. AI face swap, altered voice.",Train
+V3cyA5GWnwK1j-VYlYXjOKTmaKQ.mp3,2024-04-18,Real,,Train
+V6ID7yrrYg1c0-3i_SkQP4mZm0I.mp3,2024-07-18,Fake,,Train
+V8Kp9_s93pbo3uDiz3WReVSB9z8.wav,2024-06-29,Real,,Train
+VAonDUyCuigQz9xoviG-xslDaGM.mp3,2024-10-11,Real,Video is consistent with others available on Worldviewtube.com. NBC clip referenced is real interview between Kristen Welker and Tom Cotton.,Test
+VBLXqS86Gi3R9yIMBaBSLCAXyz8.mp3,2024-06-27,Fake,,Test
+VCAGWCGh8nzsu-AOPhiMDMnu0Sg.mp3,2024-11-07,Real,https://www.c-span.org/video/?c5123735/shots-fired-trump-rally,Train
+VHVUI4o_2H217L3cDP_IQIb16So.mp3,2024-09-11,Fake,,Train
+VHnRPM2DLv-FmAjex1t-PB3Cc8w.mp3,2024-07-03,Fake,https://www.diariodocentrodomundo.com.br/essencial/video-professor-girafales-da-turma-do-chaves-pergunta-a-bolsonaro-por-que-esposa-dele-recebeu-dinheiro-do-queiroz/,Test
+VJ6QcgLLNX6fllFlhR6UVKGbj00.mp3,2024-07-09,Fake,lip sync known financial scam  ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Test
+VJupMdem9P1Ff-pElVkJHB9HvGQ.mp3,2024-07-11,Fake,Well known faked video of state department. Whole thing is ai generated,Train
+VKL2B-Pu_dnDCoTCGXzh4k45S9o.mp3,2024-11-01,Real,The cancer was not caused by cell towers-  https://www.cbsnews.com/sacramento/news/cancer-causing-chemical-school-drinking-fountain/#XrjYppyDUd8twitter,Train
+VKR4o1BFUtaDkk04xpF4gg17YWg.mp3,2024-10-28,Real,Missing context. They were not left off ballot rather did not submit a statement for inclusion. https://www.politifact.com/factchecks/2024/oct/22/instagram-posts/no-donald-trump-and-jd-vance-werent-removed-from-t/,Train
+VN7NU-FV5nlb2ym4RKtDq_Ymvag.mp3,2024-10-17,Real,,Test
+VQAmY9-frpx1-p6o2f2CWkANWTo.mp3,2024-09-30,Real,https://x.com/DaveRamsey/status/1840418756591304866,Train
+VR4rSAoO8-kF7U15ceu3EXTZcuM.m4a,2024-03-13,Real,,Train
+VTUne39mJL-kCLoAGOKyZSOu1-c.mp3,2024-04-05,Real,context: https://www.youtube.com/watch?v=rWIs_YndSJE,Test
+VVTbvGOQvVx73clhMKCAY1tdSt4.mp3,2024-06-16,Fake,,Train
+VWO8Nu_ABpoP65nTUJ68CCugPgs.mp3,2024-06-12,Fake,Twitter flagged as manipulated media,Train
+VWvLj6jgEnX4BRnjVuveRnYqnlE.mp3,2024-10-13,Real,,Train
+VX-T_BTw6Ku3H1JMI-5lgYj-3jo.wav,2024-06-29,Real,,Train
+VbUC2qaDs27V0SS0xVLbqQ1Y77g.mp3,2024-10-24,Real,,Train
+VcVqtsPJXRJWva8tPGTcH7zlqIU.mp3,2024-11-01,Real,"Out of context. Harris was responding to heckler comment ""Lies. Lies. Lies"". Transcript https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/17/remarks-by-vice-president-harris-at-a-campaign-event-la-crosse-wi/#:~:text=%C2%A0%C2%A0%C2%A0%C2%A0%20AUDIENCE%20MEMBER%3A%C2%A0%20Lies.%C2%A0%20Lies.%C2%A0%20That%E2%80%99s%20a%20lie.",Test
+Ve3Oqn2rEzn1VAPA8S1NrwUoX_w.mp3,2024-09-30,Fake,,Train
+VeUeyvHWEBqCtk5mIuNTbKW4lcM.mp3,2024-11-08,Real,26:17 https://www.youtube.com/watch?v=pYdn2O127us,Train
+VfMzNq6pLmy6p8Hi-zpCI56Iwqo.mp3,2024-06-19,Real,Published by account with stated goal of deepfakes.,Train
+Vidhkhpf45pWkiTbWAZt0Z3Y_V4.mp3,2024-10-08,Fake,,Train
+Vio_JY7TTTmKbejjjO19NeGHut0.mp3,2024-11-07,Real,https://www.youtube.com/watch?v=Y2vgymlQwmw,Train
+VjuFkUYwHIiYpuET_-U3Q3OUmFo.mp3,2024-08-30,Real,https://www.usatoday.com/story/news/politics/elections/2024/08/27/donald-trump-nft-digital-trading-cards/74969573007/,Test
+Vo2qOn8XIasuumz3-K5WXWNytBk.mp3,2024-10-18,Fake,lip sync is off,Train
+VpIhYANwpF1lFbpb-gW__k5ovqs.mp3,2024-10-09,Fake,lip sync is off,Train
+Vx3dIYomzv27nX9KBBF4CUEz0TE.mp3,2024-11-10,Real,https://www.thesun.co.uk/video/fabulous/7318290/video-of-14-year-old-meghan-markle-delivering-incredible-speech-at-immaculate-heart-middle-school-graduation-ceremony-in-1995/,Train
+W-sRoMLxhe3qb6zPnVht3pOOhnE.m4a,2024-07-31,Fake,,Test
+W3O9aIqvLYkca7FEXGmfKU8Oyi4.mp3,2024-10-10,Real,https://www.msnbc.com/msnbc/watch/secy-austin-praises-military-efforts-at-hearing-on-afghanistan-withdrawal-122182213596,Train
+W63ZlVTnOuTdB1PEeoGQWOaqjg0.dat,2024-04-10,Real,known fakes,Train
+W7Yqw5WFy2d1EEOyHQRxFGuBwJA.mp3,2024-10-15,Real,,Test
+W8yWbYYFwO87bI9uo4j1oIX1e3Y.mp3,2024-06-19,Real,Published by account with stated goal of deepfakes.,Train
+WA0--Y39pF60DYt_kxqdun27N-U.mp3,2024-05-31,Fake,,Train
+WBg4N1n8tVqp0DydBamUjiGnS-Y.mp3,2024-04-24,Fake,,Test
+WQ-WW6tpd7BpdvU52jsjSIicOpA.mp3,2024-11-01,Real,The screen shows translations of Kamala's talk - https://www.youtube.com/live/XdvHSwQswoI?t=363s,Train
+WQp4NQjcftiBR8HP7FitkaWs9Kw.m4a,2024-04-05,Real,,Train
+WQpCY5u6ztxHau9J_ElV3kAGJIQ.mp3,2024-05-07,Fake,obvious lip sync,Train
+WS-WmdIx9rzT8Y93hUXxZBycgCE.mp3,2024-10-25,Real,,Test
+WWw7TJO0PGHqWX-p6WKxpLA4IwE.mp3,2024-09-24,Real,,Train
+WY-yF056uZUYZLOX0roSp_HI5q0.mp3,2024-06-11,Fake,,Train
+WZOVxrGTC3Wt9l_rwwyA9Mgi39k.mp3,2024-08-16,Real,https://www.youtube.com/watch?v=_L61dSkeCnA,Test
+WaJLZ7l9W2296W6QsA2xBJPWocQ.mp3,2024-10-20,Real,,Train
+We9rhpxTJg_ldBlv5q-G6hhQBxQ.mp3,2024-03-18,Fake,audio is fake,Train
+Wh26q5ifS8lnthkB-U_AfFw1ZJY.mp3,2024-11-11,Fake,Digital manipulation https://factly.in/videos-claiming-that-donald-trump-has-recently-extended-his-support-for-the-release-of-imran-khan-from-jail-are-deepfakes/?fbclid=IwY2xjawGfNvVleHRuA2FlbQIxMAABHWbmUiQSDHZwjFs2UG_kuJZNiTYKuWmUo_D6Hn8EPnwGChwYX9lwWS7i-A_aem_BQhokTaOQWqmHm5F1sG_1w,Train
+WhIWRQJSKn7nQNb1XiTwnTvtIqc.m4a,2024-04-26,Real,,Test
+WjmRb8IxSeH-s_x1DNFUWQRerJM.mp3,2024-10-15,Real,,Test
+WkV0eli4KKi4GEk97LGDkCErL-w.mp3,2024-07-02,Fake,self proclaimed,Train
+Wm81BUpQDCrR-xmih09VoU2gJZY.mp3,2024-11-04,Real,Full speech available here. This clip at 8:05 https://www.istockphoto.com/vector/set-of-cute-broomstick-doodles-collection-of-happy-halloween-related-icons-magic-gm1178495660-329404116 may be missing context,Test
+WngkBTNn7RwhbpCd93nud7PAQ70.mp3,2024-10-18,Fake,,Train
+X-ShHh4CVkp0QSbyjAsNegfTHxc.mp3,2024-11-12,Real,,Test
+X1t2VhZDxwoR33lsWGQLn6H2FkQ.mp3,2024-09-05,Fake,,Test
+X3mRcvRSyye22gaQGf9y69skcLw.mp3,2024-10-02,Real,Deceptively edited interview confirmed here https://www.thewrap.com/fox-business-under-fire-for-edited-nancy-pelosi-video-that-trump-retweeted/,Train
+X3qnhN8UPXVp8OXP9wo5Cuvlkns.mp3,2024-04-24,Fake,,Test
+X5IPSTDpzykjGUtJUGeTfMjSqgs.mp3,2024-06-14,Fake,,Train
+X6LcKIP0oJcavOz69F0zovn9K_A.mp3,2024-05-19,Real,https://www.nbcnews.com/video/biden-you-can-t-be-pro-insurrection-and-pro-american-144757829705,Train
+X6wLhRxH_VHKWg6b92lGlmAgTVY.mp3,2024-10-20,Real,https://www.defense.gov/News/News-Stories/Article/Article/2349408/esper-air-force-space-force-leading-charge-to-new-technologies/,Train
+X9Y0nabm46OHyP0PbAxAikbkcdA.m4a,2024-04-16,Real,,Train
+XBNo1nLg_gO05rE49lTs375WFIM.mp3,2024-06-28,Real,,Train
+XDKOVjhJ1qXGihoyKTQB7f4zNgc.mp3,2024-11-13,Fake,Image looks digitally created,Train
+XFI7LMVfbaMIh2TyF78n2CI_B9Q.mp3,2024-06-28,Real,,Train
+XJVJqe81amJaYjgZv3Ku40jAYzg.mp3,2024-06-03,Real,,Train
+XM-ZSG20KxYNU4kfgKIvA3EB8Q4.mp3,2024-04-22,Fake,april fools prank admitted by original post,Train
+XMAjJ8GL4dX2LoAhHBZUTGxPz1g.mp3,2024-09-09,Real,https://www.cnn.com/2024/09/08/politics/video/harris-embraces-tearful-voter-pittsburgh-digvid,Train
+XN60uQae0djE042FqG_C-v81xQY.mp3,2024-10-17,Real,https://edition.cnn.com/2024/10/17/politics/harris-fox-new-trump-analysis/index.html,Train
+XPlonplSngWFLEPXWvXpntNv6IU.mp3,2024-06-18,Fake,it is known that he didn't say these things - lip sync,Train
+XR2Z8FsuGfS8GrrUDghX2iMLRzY.wav,2024-06-29,Real,,Train
+XXgtgVF1P3ui-Q-71UxcIUBO4w0.mp3,2024-09-30,Fake,Altered video and audio. No name tag appears in original video and audio has been slowed down. https://leadstories.com/hoax-alert/2024/09/fact-check-video-does-not-show-kamala-harris-drunk-its-altered-video.html,Test
+XZEm3DgwR5WB_lJs7-hSQnCd8eM.mp3,2024-10-22,Fake,lip sync is off,Train
+XZJld0I3-OUimiHLcUQTKm77SFA.mp3,2024-03-18,Fake,audio fake,Train
+XZjkNI_O1JjFcO_arW1CgHKTetA.mp3,2024-03-27,Real,,Train
+XaYT4aV3Wp_4qwaYa5SMtsmF11k.mp3,2024-10-28,Real,Misleading because this is Lebanese girl named Lynn Ali Sweidan not Israeli . https://www.elwatannews.com/news/details/7642776#goog_rewarded,Train
+XcAULmZoZ6eYw6lYP29Q7nkWq3Y.mp3,2024-08-01,Real,commentator's words might be misleading - found original footage 1:34 https://www.youtube.com/watch?v=yjN5dvDTeaE,Train
+Xe9i82hZecPA4bWe2WAJrDW9t9Y.mp3,2024-10-21,Fake,lip sync is off,Train
+XfFFMsEwUa0KIZ8l5met_bwuh4w.mp3,2024-11-06,Real,,Train
+XhKj2vIaqkMg8hn91JqTCiFN6VA.mp3,2024-04-04,Real,,Train
+XlFFhRypO1wzmWxfF9QacK6M1Sg.mp3,2024-07-25,Real,audio is music,Train
+Xm4FTfjVbHE4DoBKkzm6I7rz3AA.mp3,2024-06-05,Real,,Train
+XmnX3kNBcxlGms7LndtJwKouDgo.mp3,2024-09-22,Fake,https://www.youtube.com/@DAPCreativeHouse/featured,Test
+XoPcbE8-ntGI5tQqT0OkLznO2Ec.mp3,2024-05-10,Real,from Press Trust of India X account,Test
+XolGu3qiZXYrq3-h0RY6cLMVRgo.mp3,2024-04-08,Real,,Train
+Xs2n891RdmTljgRlYwpv0_CUKS8.mp3,2024-05-16,Fake,lip sync,Train
+Xt5Tw9D72oiQtF_V5t42WT-xXws.mp3,2024-05-22,Real,,Train
+Xu2o_BRA_Pqsrq2Rfb7H93GUQtc.mp3,2024-07-18,Fake,Lip synced video    ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Test
+XvbrJ-qLl_TWoNoySQrAdEQ8m6Y.mp3,2024-03-18,Fake,self proclaimed generated by Arigl.ai,Test
+XwjbunRzdpB-_VePZyFVtYMKbSE.mp3,2024-10-04,Fake,lip sync is off,Train
+Xwnen_kCUP16BTS0jdAMb9BDT1w.m4a,2024-05-31,Fake,,Train
+XyUPRulepz08ym0OzDj93fQ3qus.mp3,2024-07-09,Real,obvious. multiple fact checks cited in post,Test
+XywtLXB9os2z2U6WT-MLYYLy80Y.mp3,2024-10-24,Real,,Train
+XzOuZDw7DEuvW1vZvd1DslXXqg4.mp3,2024-07-04,Fake,self proclaimed,Test
+XzeisJf5ZYntkq-sloBbWCxe4Dc.mp3,2024-10-17,Real,,Test
+Y2gaclNK9WhTNo8i-8ajSdn-HDE.mp3,2024-11-06,Real,Misleading content. https://www.snopes.com/fact-check/musk-robots-human-babies/,Test
+Y3jNhzfjYtB0Pb4_m4QM5AI-xj8.mp3,2024-10-25,Real,debunked: https://www.politifact.com/factchecks/2023/nov/11/instagram-posts/pennsylvania-voting-machine-error-did-not-reveal-e/ and https://www.factcheck.org/2020/12/nine-election-fraud-claims-none-credible/ Original video - minute11:25: https://ia804508.us.archive.org/26/items/11-25-21-gregory-stenstrom-testimony/11-25-21%20-%20Gregory%20Stenstrom%20%22Testimony%22.mp4,Train
+Y4X2SMpPzyABW6C_MLcUB0VDpw0.mp3,2024-08-23,Real,Confirmed against speech transcript https://www.c-span.org/video/?537941-1/robert-f-kennedy-jr-makes-presidential-campaign-announcement,Test
+Y4h-6qoKoAM0tOeno2SiIvWxj6Q.mp3,2024-11-01,Real,The screen shows translations of Kamala's talk - https://www.youtube.com/live/XdvHSwQswoI?t=363s,Test
+Y4y_6ebYBkcoVmZrw_vkJmGePMY.mp3,2024-10-25,Fake,edited - obvious,Train
+Y57E-R5VsVE_3LYmTOU4sQv5xnc.mp3,2024-11-04,Fake,lip sync is off,Test
+Y5Hd392-FICC_FqWArX0lCKGccA.mp3,2024-06-14,Fake,,Test
+Y7KCpQEitDaaDV-sHO9aY50wils.m4a,2024-03-25,Real,,Test
+Y8SjVEyE_qFYbm8uRqePIOAox0k.mp3,2024-10-25,Real,,Test
+YAlTp-7S0IODK6lVFtfaT5Q8Qd0.mp3,2024-11-11,Real,https://x.com/COVIDSelect/status/1797729167980867646,Test
+YBy7OnWBQ3GOQzm53dEEQv3_YBk.mp3,2024-09-29,Real,original https://rollcall.com/factbase/trump/transcript/donald-trump-interview-larry-king-september-2-1987/ timestamp 10:36 real video made black & white,Train
+YHkmtdNQAJkbJJxqx-g-j42o1QE.mp3,2024-02-15,Fake,image is computer generated but audio is fake. Biden robocall,Train
+YIie_iGAzXVkDRZbN35OjgsKdTA.mp3,2024-06-27,Fake,,Train
+YJGNsnHTU4rfvf44EbJ6emEEZY8.mp3,2024-10-10,Real,https://www.cnn.com/2024/10/30/europe/russian-disinformation-harris-walz-us-election-intl/index.html,Test
+YLmWB9l2nG3Y46BvXzEFKM5OeoE.mp3,2024-10-03,Real,https://www.youtube.com/watch?v=4ViqdOMAPOk,Test
+YMtwyjiNiitdBKK4ZjNDivG9CzU.mp3,2024-11-01,Real,https://www.youtube.com/watch?v=UGH63lDATAw,Test
+YNk4HRT1pguN4en-EPz3E5UrrJw.mp3,2024-07-11,Real,movie set,Train
+YOEhxHEej0GyHKR40TwX4T4qtws.mp3,2024-05-29,Fake,lip sync,Train
+YQGQPuZfNANrj3yoBbGtP-mu9BE.mp3,2024-10-28,Fake,crypto scam,Test
+YQOrr-BQIV5armzoUHr4BqJn7Xg.m4a,2024-07-24,Real,https://www.independent.co.uk/tv/news/kamala-harris-speech-biden-sweet-message-b2584626.html?callback=in&code=NZVHNGM1YMUTODM4ZS0ZMDFLLTK0ZTATYJBMMGIYZJC4Y2Y0&state=c628002af605460795a72845bd8522f5,Train
+YS5OQUJLMK2GCbbMJHhFbUCKCMA.mp3,2024-10-02,Real,Star Wars movie clip,Train
+YU0mmOj1G1Hxk5iWYMJu_y5Xdr8.mp3,2024-07-11,Real,https://www.youtube.com/watch?v=oMlhvnMpRU0,Test
+YWv8S-k5o6jVniZhVyX8L8PL06k.mp3,2024-03-05,Real,,Train
+YbIB3i0a7rZ6AzDHWG-zGQdxrus.m4a,2024-11-12,Real,Around minute 1:45 https://www.donaldjtrump.com/agenda47/president-trumps-plan-to-protect-children-from-left-wing-gender-insanity,Train
+YntRCwNSjEsEgkuu-vRmAeFj-pc.mp3,2024-10-20,Fake,lip sync is off,Test
+YoZ78aNjx621-TEIUkP5YlWr9UY.mp3,2024-05-06,Fake,,Train
+Yrr9fsjylXw0MJP_Cg4EohxXf3M.wav,2024-06-29,Real,,Train
+Ys-m7HqTo7ogr2S4Ar-q1E0t1Ic.mp3,2024-10-18,Real,Real video script cropped from the Chinese news broadcast,Train
+YsWmILxWG9c8Ied8T0Bxx4pMIPM.mp3,2024-10-21,Real,,Train
+YvaXaELDflZXvU8y6I2KSDtOM4g.mp3,2024-03-01,Fake,lip sync off - original footage: https://www.youtube.com/watch?v=FagSkMcKUKw,Train
+Z1UWUl-v4ttQpMM-3Q5G_XIz-iM.mp3,2024-11-08,Fake,"Musk's face doesn't move as he speaks, AI generation for his scripted piece.",Test
+Z759ue9XLr9dhpooT8wabyTg4CA.mp3,2024-06-10,Real,tv3_ghana verfied. sync of lips may have deteced as fake,Train
+Z8lqHjPcZN35JShonrM88vbqwB4.mp3,2024-10-13,Fake,,Test
+Z9rBREBwJ17CZ2DHTjqBnC_BHAs.mp3,2024-10-18,Fake,https://www.wired.com/story/indian-elections-ai-deepfakes/,Test
+ZAOEXWib5M1xARyg2FBx9grpz0A.mp3,2024-10-25,Real,,Train
+ZBzJXZ0edobT62uCrPZXeJyHb1c.mp3,2024-06-14,Real,,Test
+ZEdBJxEYCCiv6g_3M5q_uMDSEZo.mp3,2024-09-19,Fake,original: https://www.facebook.com/reel/985578023071999,Train
+ZFBkX1G7li5cxmxm6dcmEnqxs78.mp3,2024-10-17,Real,,Train
+ZHAhtYdwTUFapDYkfA28uMjiDv4.mp3,2024-10-23,Fake,lip sync is off,Train
+ZIFVYN4ZjDZ-u25BtIblk0P5puE.mp3,2024-10-30,Real,Person is looking up: around minute 22:30 https://www.youtube.com/watch?v=GLYhhwf-4yo,Test
+ZIdeEB_XzpukOvUnmiv6fof6Xho.mp3,2024-10-25,Real,,Train
+ZLY6lnsHe4ylv74MhxrdHqCLWF4.mp3,2024-07-17,Real,"some text added, but video is posted on Trudeau's Youtube channel https://www.youtube.com/watch?v=l6sxO4l3XpE",Train
+ZMpM77g8DoKV53ob4SXYTnURF-E.mp3,2024-06-04,Real,https://thehill.com/homenews/senate/4459861-trump-praises-collapse-of-bipartisan-border-deal/,Train
+ZNINTMKs7wxtpaP0iiJLEdiS8QU.mp3,2024-09-16,Real,https://www.bbc.com/news/election-us-2020-54011022,Test
+ZP4MtZ300Hlu9o7w7OXn5ouRaRU.mp3,2024-07-03,Fake,,Test
+ZPkXUlm6zqSog_xdG_O7AOF7jwc.mp3,2024-06-06,Fake,lip sync,Train
+ZU0sJdVMTIHeu6pzPkdKmqRNVxc.wav,2024-06-29,Real,,Test
+ZVRkAHOd2lrWb8Gd72AckWnBATs.mp3,2024-04-05,Real,,Train
+Z_lb0Qm6Sc-2E-dDrBhGVgevF34.mp3,2024-09-09,Fake,lip sync is off,Test
+ZcnO6vXZHUDSdvfRt-qaZfGRXd4.mp3,2024-05-24,Real,self-evident lip sync,Test
+Zdhu9iIpu1gawlxNFmqSOcodQWk.mp3,2024-11-06,Real,https://www.pbs.org/newshour/politics/human-error-forces-recount-of-30000-absentee-ballots-in-milwaukee,Test
+ZfwxwB6eOQWl2RQjvt4SJy8mBig.mp3,2024-06-12,Fake,,Train
+Zh2cXc4bIT6HZDpMX5lmOz-mJEI.mp3,2024-06-14,Real,,Train
+ZhDVCXdtOouKxbNT0iAVWlFrUd0.mp3,2024-08-22,Real,Verfied via transcript @2:36 https://www.rev.com/blog/transcripts/hakeem-jeffries-speaks-at-democratic-national-convention,Test
+ZhLCUqXsft3_lI4EnH1gsDTpm0A.mp3,2024-05-30,Fake,highly edited with false text,Train
+ZijL-wg54NRqz5i9BinL1dpmMCc.mp3,2024-04-17,Fake,https://www.thequint.com/news/webqoof/rahul-gandhi-resigns-from-congress-edited-viral-video-fact-check#read-more,Test
+ZjRGh2XuagCKbz813WMhG9Eyal8.mp3,2024-07-12,Fake,satire,Test
+Zr3iTA9U1jsHXxa0ynKuEztyo5k.m4a,2024-11-12,Real,User proclaimed,Train
+ZrK7OcFM0zCvfVGua-NCfyY57o0.mp3,2024-07-12,Fake,,Test
+ZxN7pptM2MCugdN6Aao7WSnWlXM.mp3,2024-11-03,Fake,Lip sync video,Test
+ZxZM2aUvCYMk_S4jftOMchTjqp8.mp3,2024-07-09,Fake,,Train
+ZzWHSeMyV8ONILA9HBun3oFHZcQ.mp3,2024-08-05,Fake,lip sync,Train
+Zzft69Q5MPwlbObTwxG913HaXHI.mp3,2024-06-03,Fake,,Test
+_-EjUW0R3GZd8-0qsx1GA4n4Iv8.mp3,2024-11-13,Fake,Images look digitally created,Test
+_-v4jJibKTSv-slQIrt8DfnwrRU.mp3,2024-05-26,Real,,Test
+_0DmbzGmmwa5Jv9U3LN-sedmwQ4.mp3,2024-10-03,Real,known tom cruise impersonator,Train
+_2OdL6NwQnJJ4mfZl-4KRpNEv1s.mp3,2024-10-25,Real,,Train
+_3WXFdNlJ_FNF_IkvCNC6RKXrrk.mp3,2024-11-11,Fake,https://factly.in/videos-claiming-that-donald-trump-has-recently-extended-his-support-for-the-release-of-imran-khan-from-jail-are-deepfakes/?fbclid=IwY2xjawGfNvVleHRuA2FlbQIxMAABHWbmUiQSDHZwjFs2UG_kuJZNiTYKuWmUo_D6Hn8EPnwGChwYX9lwWS7i-A_aem_BQhokTaOQWqmHm5F1sG_1w,Test
+_4X_zR_89WlPcuhgTXDS0lQayoQ.mp3,2024-11-14,Real,https://www.youtube.com/watch?v=LlHeI99L9Lw,Train
+_9JXHhdR_J20OHp8e5MZ5joqndI.mp3,2024-09-29,Real,Post miscaptioned Reuters fact check https://www.reuters.com/fact-check/video-shows-kamala-harris-with-in-ear-monitor-not-audio-earrings-2024-10-04/,Train
+_BK3wETzi5lRZlM2TGOLWBYePcw.mp3,2024-08-07,Real,,Train
+_Cb3-ZBKdwyJBrX8ab3u73VnQgc.mp3,2024-10-25,Real,,Test
+_CdHWkpKOTAxyLNufsI_MFrKMu0.mp3,2024-09-20,Real,,Train
+_CjTCZqJvmEDvzYLop6dj2qV6PI.mp3,2024-05-27,Real,commentator note,Train
+_EKnW1ooE4_ilo1w4vAvCZxXmJE.mp3,2024-07-12,Fake,Created with Hoodem AI generator,Test
+_JSOlGcOITaGnTSjjicz9HF5WvE.mp3,2024-08-23,Fake,,Test
+_JaoVJ2FCde5QIVABSrJpZ3JxIY.mp3,2024-05-28,Fake,,Train
+_OE7-0__bcp5k4tfaYJyImcIlco.mp3,2024-05-09,Fake,,Train
+_P7a3lZ7Ma3RCmSmwi7gl-nL-pc.mp3,2024-03-05,Real,,Train
+_QA63mOgVxCxh4-b0Qdej1QhtX0.mp3,2024-10-29,Real,Post miscaptioned Reuters fact check https://www.reuters.com/fact-check/video-shows-kamala-harris-with-in-ear-monitor-not-audio-earrings-2024-10-04/,Train
+_QLIkp7IWLQzeQYavTjZ-WR3-7o.wav,2024-06-29,Real,,Train
+_QjVfLcNN1AzfNRdF7f2mzoRS2g.mp3,2024-03-25,Fake,Fact check AFP: https://factcheck.afp.com/doc.afp.com.34LY8TK fabricated audio with unrelated footage,Train
+_SF2jjyQEZ2CZ6GADk7YegU9IYQ.mp3,2024-10-13,Fake,self proclaimed,Test
+_T1hNQTY3RW2qtijR5Hjtn-6Oyg.mp3,2024-10-12,Real,,Train
+_VPEhkYbdbibYJFjQJXotOXiuVA.mp3,2024-07-12,Real,https://www.nbcnews.com/video/biden-mistakenly-calls-zelenskyy-president-putin-at-nato-event-214693445583,Train
+_cvTwQONX3XrpcPtM3-xlttOgWE.mp3,2024-04-19,Real,,Train
+_dhqyi7suQHud3iTVbQfa_Y7ilM.mp3,2024-10-14,Real,around minute 2 - https://www.youtube.com/watch?v=fCF8I_X1qKI,Test
+_eBVUDK0O4m3z5TtSmDcPb6td-4.mp3,2024-05-07,Fake,obvious fake voice,Test
+_er1aXm4aJJoWJvLD42FiwB45y0.mp3,2024-09-17,Real,https://www.huffpost.com/entry/democrats-walk-out-state-of-the-union_n_5e3a3ceec5b6d032e76bc080,Train
+_hI8xMWzM2jy9f9rhKsNdpAQcv8.mp3,2024-06-05,Real,,Test
+_hZBvDuxnZinge1_tXyvdOTwAuA.mp3,2024-10-17,Fake,https://www.aosfatos.org/noticias/golpe-resgata-brasil-inventa-indenizacao-deepfake-william-bonner/,Test
+_hnHPzEkbRaL_9K0g3Pkq1uQDdQ.mp3,2024-06-02,Fake,based on context here: https://twitter.com/Ambas_Manos/status/1797333732455845931,Test
+_j9WgGKppvQjcIb54QSo89GB_3k.mp3,2024-07-22,Fake,lip sync is off Known financial scam.  https://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Test
+_knX5SHr88VP7FtgksZrrPb7Yp4.mp3,2024-11-05,Real,,Test
+_lFcjbLD7OGaruXF_M9tMnAiDVU.mp3,2024-10-08,Fake,lip sync is off,Test
+_oEzhGJUCrixjofcZTUxKlvE014.mp3,2024-03-07,Real,,Train
+_opfLdHfASqMDYacu6sxiySvYFs.dat,2024-04-26,Fake,,Train
+_qcyRUAw5nDuIwlO5_GWzw7rlSs.mp3,2024-10-17,Real,,Train
+_rUUTnchCS2j-XyJ1GZFQYpnVz8.mp3,2024-03-04,Real,source: https://www.theguardian.com/us-news/2024/feb/26/ai-deepfake-quiz-spot-the-sham-audio-of-trump-and-biden,Test
+_rhGV57y33a3bHb_os_UIE_pO0s.mp3,2024-03-07,Real,,Train
+_xA-ymjONrWxePjH-7RH_-8bHlE.wav,2024-07-08,Real,,Train
+a18tbuhTw-9zoAvx2dXvaICmKOU.mp3,2024-11-02,Real,"Video slowed down. Original here, timestamp 20:00 https://ph.usembassy.gov/vpharrisinph/",Train
+a1mDfa0i085g-ZIQHrVIFiBp--M.mp3,2024-09-18,Fake,lip sync is off,Train
+a4XLY27QH5ul7PpwS0NRvKESD2M.mp3,2024-04-15,Real,,Train
+a9eb5Z7oJ_TPSwV7lxJrsuc3eas.mp3,2024-07-23,Real,,Train
+aBXPIUFc2LyWbf7g28hvAE9WmtM.mp3,2024-10-30,Real,fake due to photoshopped image of trump during audio only portion,Train
+aDsCQIrOpEvIUfzrb3m9sRaKbik.mp3,2024-06-28,Real,,Train
+aTzCUH8PqsExNVZCJB64hqW3DJA.mp3,2024-08-09,Fake,self proclaimed,Test
+abTFpu1mWGtuZcHF0c15UbPcXHs.mp3,2024-05-25,Real,https://t.co/6unh7d0LFD,Train
+acTO-LffUxr20DAh8Y16z4zns0U.mp3,2024-03-25,Fake,Fact source check = Gizmodo,Test
+ad-49S7xctQmTc-ZAVy2tIBEXEY.mp3,2024-08-06,Real,https://www.thewrap.com/trump-demands-babies-stop-being-born-after-nine-months/,Test
+ae4D5OdsMa6df6IgSMOlhFawkJc.mp3,2024-10-17,Fake,self-proclaimed fake,Train
+afYx-bO8sWPPEnK9P83uNnr22RU.mp3,2024-09-05,Real,,Train
+agA4hC3IRdg6l4NYF2IBDOia0UI.mp3,2024-10-30,Real,minute 30:28 - https://www.rev.com/blog/transcripts/former-president-trump-announces-2024-presidential-bid-transcript,Train
+amGVbtble0pMsgvHKETZ3ZPES4s.mp3,2024-06-14,Real,,Train
+amvqpRfedhbyIiJjWqaB8hD1Hjw.mp3,2024-11-05,Real,,Train
+awa2zbdD1Id52Au_vSx4dcOQ4a0.mp3,2024-03-06,Real,Senator Sinema,Train
+azuWfoZxcz4vQvgdREjNbVxHluY.mp3,2024-07-23,Fake,https://factcheck.afp.com/doc.afp.com.364R2N9,Train
+b-Fe1BYTgffihkSHawVbSnDFhag.mp3,2024-05-10,Fake,,Test
+b4s8MdRJsaDRZ2V5DN84j3PmQW8.mp3,2024-07-22,Fake,obvious,Train
+b4yB857aPU8coGX9pLn3GJRBmLY.mp3,2024-09-03,Real,,Train
+b7R4YTMBvi2jBsuNVL1F_ghIigg.mp3,2024-09-04,Real,,Test
+bCIr4BDIOyOdUjA2F7-wSgD9-Gk.mp3,2024-08-15,Fake,https://www.reuters.com/article/fact-check/video-of-kamala-harris-rambling-her-speech-at-howard-university-is-digitally-cre-idUSL1N3712OM/,Train
+bDkJqo5mkdBz48-6gmY81ev65fI.mp3,2024-07-24,Fake,,Train
+bE8lQwuwYYpXISwzG5SsddMPkQ4.mp3,2024-10-10,Real,,Test
+bJzJ7FZuPJ6WmnCqLu6lDhSxcV4.mp3,2024-10-11,Real,,Test
+bLLIhrRrsUMYhyvOeu4z4pX9MKw.mp3,2024-08-08,Fake,lip sync is off,Train
+bLRnYjAB0Z9_QASSuC1XOPAackU.mp3,2024-03-05,Real,,Train
+bNaCRt1M47nWX8flIJLDRekevgs.mp3,2024-10-20,Fake,,Train
+bO7T2V_AoLKBIATsDrIhEe5y4zM.mp3,2024-08-19,Real,https://www.youtube.com/watch?v=JvA4c-cimTI,Test
+bQHuwV0jjvLC2VQmW38Mi6JOKNg.mp3,2024-10-24,Real,,Test
+bTOhZa0Sv3ZLxDlbYdMvgsHalaM.mp3,2024-10-17,Real,,Train
+bUJy2i1kMO2W1P4Lyef97rBG-98.mp3,2024-05-06,Fake,,Train
+bWgLFUmyFq7ivjjgdIaR934k3gM.mp3,2024-09-18,Fake,lip sync is off,Train
+bWza2u9FU8npX6Rh2kGO50qKX3Q.mp3,2024-11-03,Real,lips are clear an nuanced,Test
+bX38gIMgjeWuHoU2VDS6zToaa38.mp3,2024-11-07,Fake,Lip sync is off,Train
+bXqyQXUa7PNq-OfOm5C7KqEYP7A.mp3,2024-03-18,Real,,Train
+bZ6WOLHePV44fpyQ7Q_FIjYpeh0.mp3,2024-07-30,Real,audio only,Train
+bapYwzhMNEFawK6eTk9mI53WBJY.m4a,2024-03-10,Real,,Test
+bbNoQZLRM-vjKPqUfJycrvxk75g.mp3,2024-07-24,Real,,Train
+bbyWSePZkffL4aHZ_ME5IktWnPA.mp3,2024-09-18,Fake,"lip sync is off . Post identifies as deepfake, Musk not affiliated with https://x.com/cb_doge/status/1752674958088777941",Test
+bcQ0nUsD6BIMOCwCPULpkDzjInU.mp3,2024-05-20,Fake,obvious,Test
+bh128GV16IPpav6EV9q1MFDBlxg.mp3,2024-10-29,Real,https://www.skynews.com.au/world-news/united-states/shout-your-own-name-kamala-harris-roasted-for-awkward-rally-moment/video/108b0bcc56cf5a2992df544a6ed1b854,Train
+bpkkWIenFeR0WtGxcqgtaOgFSHI.mp3,2024-10-25,Real,,Test
+byY_psVGeGSuypxYxUIXii7n-v4.wav,2024-06-29,Real,,Train
+bzGIF9QUaaA_H0JCwiwmEv9el70.mp3,2024-09-23,Fake,lip sync is off,Test
+c-BOqbkR9qsEDoSWuTyfbbYcPzE.m4a,2024-07-09,Real,real video with ai gen content,Test
+c14ZWnXCetay1CCu869mPCwhnIs.mp3,2024-03-01,Fake,,Test
+c7DZbDJap01BRPo4reabjUivf6w.mp3,2024-09-06,Real,,Train
+c7skYk7FhLkc3TxYnlA4ViQAmAg.mp3,2024-10-28,Real,cropped from original to be misleading: https://www.boomlive.in/fact-check/fake-news-uddhav-thackeray-says-he-eats-beef-viral-video-cropped-fact-check-26838,Test
+c8sBjTCANhn0Lv_9_mWgqnVgYYI.mp3,2024-10-25,Real,,Test
+cARPH8kuNrEyBmfMe_YEPp-MXSI.mp3,2024-07-29,Real,Verified by multiple media sources,Train
+cDNqcLkxB0vz_7VT6hiJGrvpMxU.mp3,2024-10-17,Fake,lip sync is off,Train
+cFP03pEdSPXMUpiaszOyx0llgNc.mp3,2024-05-07,Fake,,Train
+cHPFelfSBxkMDvXunkrEsbmZbNk.mp3,2024-06-06,Real,known fake,Train
+cHbfYn35ZWLFT4Tv0RXJfGh3Fqg.mp3,2024-07-18,Fake,lip sync off   financial scam,Train
+cK-90mSc-Mqdp7A810AwPf4QSjo.mp3,2024-10-07,Real,,Test
+cMgkllZc82W-cJ0NMR34F52Z-uI.mp3,2024-10-30,Fake,"lip sync is off, here is the original: https://www.youtube.com/watch?app=desktop&v=2KkNElareks",Train
+cOSt5aCwmlTnZ9KUxNyNxjPHZbA.mp3,2024-02-11,Real,context: https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town,Train
+cPqv6eG8DXUsg8e1au-8AIHbYHQ.mp3,2024-10-24,Real,,Test
+cRJE0pfuJqnK3JMq2NyJiu6i_mU.mp3,2024-05-20,Real,,Test
+cVLZx0A7HvfYG7HawBahHTkOE1A.mp3,2024-11-12,Fake,lip sync is off,Train
+cVP9TRgZifY966_tjAZRAqdSDgs.mp3,2024-02-23,Real,,Test
+c_jAKhDbijImLGyaJCbyCh9ObzI.mp3,2024-05-21,Real,This is the supposedly unshortened version of https://detect.truemedia.org/media/analysis?id=ydlRx7uhYKaYPpSZPgDwJKXRVwY.mp4.,Train
+cdCgm3v_hntwVWRq0_PWxDH1ZMQ.mp3,2024-10-25,Real,,Train
+cfNudUzQGgou_2p7vRgWm_gNdGg.mp3,2024-10-29,Real,Post miscaptioned Reuters fact check https://www.reuters.com/fact-check/video-shows-kamala-harris-with-in-ear-monitor-not-audio-earrings-2024-10-04/,Test
+cgPbfx61LUCqoLXRWhCI_Wgtxd0.mp3,2024-03-18,Fake,5fiveby5ive creator of memes and deepfakes,Test
+cgmBsovd4-QPWRThTgiCYzqFGuU.mp3,2024-07-31,Real,The Guardian,Train
+ckghQ2ZW92wcfgECNQ3iV6eTirk.mp3,2024-06-07,Real,https://www.themirror.com/news/world-news/entire-air-canada-boeing-jet-526268,Train
+cmX1ZkDOyhdZM1jF_QXuXu_PgrU.m4a,2024-04-11,Fake,"Fake message by Ron DeSantis dropping out of presidential race.  Debunked by Forbes  in Sept. 23. Said to take art of deepfakes to a ""different level""",Test
+cnIFcrK93JSDcbDdUyY1j5Ol7-U.mp3,2024-10-07,Fake,lip sync is off,Test
+cnwoNavK0HgV50xFsWl4LAJNi-Q.m4a,2024-07-19,Fake,,Train
+ctG3DAKaG7E98F8nP6D7uRjPDYA.mp3,2024-09-29,Real,,Train
+cvoGSTo003MAokhoM4r2OJHmW4c.mp3,2024-09-03,Fake,,Train
+cyVb-gioAWqdE3eUHfzxGrNhu9E.mp3,2024-10-18,Fake,obvious lip sync is off,Test
+d-db4IhAgrVqHpkxvQEjozoAkxU.mp3,2024-10-10,Real,,Train
+d1WqoM1WXo7AAQZxxhH4c2lp4QE.mp3,2024-03-18,Real,,Test
+d31WLIBiZQ6FVAwbi3AoOm-Bj-U.m4a,2024-07-02,Real,https://factcheck.afp.com/doc.afp.com.34NZ2N6,Test
+d9kfFz1pIxQ4QLjjbQkDNaSTIso.mp3,2024-06-12,Fake,,Train
+dB-9wYD6WggVpXmdxOO2ZatDmdE.mp3,2024-09-23,Fake,,Test
+dCotlTmvssXkY9nhiGxy2l1jUgQ.mp3,2024-08-14,Real,Video is real and was replaced with a version without snroing after going viral.,Train
+dF3DnC0Wbfb_c4P6g_mKR-_9g9k.mp3,2024-08-20,Real,https://www.youtube.com/watch?v=ehmgSOPVBZw,Test
+dK25uMxX2QPbRj9JJBftgSLdKVQ.mp3,2024-03-05,Real,,Test
+dMYtklMSQRVWDs_0Vsg52PnNUeU.m4a,2024-07-31,Real,,Train
+dN-Hycz7vwYlNwhFwnAPNO7upME.mp3,2024-10-07,Fake,,Train
+dOEU9jCHocsxQtCbcy5uxCTGYgY.mp3,2024-10-22,Fake,lip sync is off,Train
+dQhbiIYXP-RodCtWRFpWKJMt3Hs.mp3,2024-06-03,Fake,,Train
+dXFiFpDwEhmnizO9rnV_52xtXpQ.mp3,2024-06-28,Real,,Train
+dYZBUujT4WOZyyPEAk08yu5uDeI.mp3,2024-04-03,Fake,,Test
+dgIAWoLkVYjF1MOUhOe37Stt5iA.mp3,2024-07-09,Fake,Russian AI Bot,Test
+dgXEoV0cw3TfsQx9cwNFovEQgPc.mp3,2024-10-25,Real,,Test
+dhOxxdEDZ3GUlbTbvEe0HXgtNCk.mp3,2024-09-11,Fake,,Test
+dmtvise-J-wzgO63OuHzL5gUPN4.mp3,2024-10-21,Real,around minute 6 - https://www.youtube.com/watch?app=desktop&v=k2cA9tYAxMo,Test
+dnatBoFckdhB1-gEFYgiEV4X8Xg.m4a,2024-04-10,Fake,source notes deepfake,Test
+donVqpIWOeu4MH7I29OrrN69ntQ.mp3,2024-07-10,Real,https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/02/press-briefing-by-press-secretary-karine-jean-pierre-july-2-2024/,Test
+drOvdvTKHFqSFvNyODruJO611Q8.mp3,2024-10-03,Fake,obvious,Test
+dt8jiwlwnRyLfs2R1GWyckO2xj4.mp3,2024-10-24,Real,Reuters fact check: video is clipped and stripped of context https://www.reuters.com/fact-check/clip-shows-walz-criticizing-trump-administration-not-biden-harris-2024-10-24/,Train
+dvk0Mgq38VU_toyRD4FtAKA5eIA.mp3,2024-09-25,Fake,,Train
+dwAqiOWVUcab1B1-HQKU40Cbo68.mp3,2024-06-27,Fake,audio only - known fake,Train
+dwaFz2_Z2KFZXnHJvmCLMI82DRA.mp3,2024-06-28,Fake,,Train
+dy9fjOEWwap4O9ClU46sTCKiAMU.mp3,2024-10-23,Real,https://www.c-span.org/video/?c5138147/white-house-president-biden-believes-donald-trump-fascist,Train
+dyk5PHXT5_BwNBcnm9xs9bi1rPg.mp3,2024-08-09,Real,https://www.usatoday.com/videos/news/world/2022/04/19/zelenskyy-vows-we-fight-russia-attacks-donbas-region/7365295001/,Test
+dypZPnbdTEui3jSF7Kp7gV-93j8.mp3,2024-10-10,Fake,lip sync is off,Test
+e17aDo6e-rF7wgZBeBL8X-Rxhw0.mp3,2024-09-10,Real,,Train
+e1ASdsut4A6OM59jI_ZJKFAfwdI.mp3,2024-11-07,Real,https://www.c-span.org/video/?c5123735/shots-fired-trump-rally,Test
+e7JGb4AJXCn7PYCDRLE2KovoAtM.mp3,2024-05-14,Real,https://www.vulture.com/2016/07/mr-robot-obama.html,Train
+e7SPcpfyoejIhf6RhyPiVLCG2XE.mp3,2024-04-22,Real,,Train
+e8rGJuqkCJbrRDQF3T6ORwEtZBs.mp3,2024-08-09,Real,https://timesofindia.indiatimes.com/world/us/old-video-of-kamala-harris-struggling-to-charge-electric-vehicle-viral-this-is-real/articleshow/112411972.cms,Train
+eAENNENtYv_dw4rwJSlSVm2CDbc.mp3,2024-06-18,Fake,lip sync,Test
+eBIBXUGBgbDde921SqVdZKHVTt0.mp3,2024-11-05,Real,,Train
+eCgNUXVTOzkKSnlJLH6Hb_xIWqo.mp3,2024-03-01,Fake,"manipulated audio, video images appear to be real",Train
+eFeqqrfagXMQic6l4vKisPWhwFw.mp3,2024-05-26,Fake,quality too low to confirm if lips are off: commentator note and sss.gov/about/return-t…,Train
+eFh5LcvoejoWk0t1h8S_j5CILTY.mp3,2024-08-13,Real,"audio is a song, which confuses the transcript.",Train
+eHf7IThjyinA4tfCGfyFnehkBNg.mp3,2024-06-03,Fake,lip sync,Test
+eTJ8UsZ-v0fRs5W7PlBtIHdFCSg.mp3,2024-10-18,Real,,Test
+eUzOFmPnQ-8QL5kgZpc_F4XDM_c.mp3,2024-08-12,Fake,,Test
+eWtpNvG8bfcHGsYyHEf9WoMOUuc.mp3,2024-10-28,Fake,lip sync is off,Train
+eXGqC5qkjOk7zerpMWbpAp3TyYw.mp3,2024-10-24,Real,,Train
+eXjoDD5bE1SijQApalFb_TF60_Y.mp3,2024-08-18,Fake,"No known record of Khamenei saying this. The lack of an accent in his speech combined with the contradictory nature of his rhetoric to his known stances on Western affairs indicate that this is a fake, too.",Train
+eaR8kFlZjrt1e9KIw8yE84LX8q4.mp3,2024-09-27,Real,,Train
+eb99RYjtpbElOolNq5AYOoC3OLk.mp3,2024-08-23,Real,Broadcast on Right Side Broadcasting Network,Train
+ectPG9DZdNhzN-vlhKK8TFVib6E.mp3,2024-10-19,Fake,,Train
+edkWeT1BjGznAEFgRfu99nfCdEc.mp3,2024-07-24,Real,https://www.dailymail.co.uk/news/article-13426103/beyonce-tickets-espn-football-game-vice-president-kamala-harris.html,Test
+ee3OPSEp9S-rvzgg68cyHs2f4rw.mp3,2024-10-29,Real,"The video is cut short to omit important context, served with a misleading caption. @ 4:04:19 https://www.youtube.com/live/qoxkKb3Js7g?t=14659s",Test
+efHkPosJFZ0v83GJh7QgYvvfAVo.mp3,2024-08-15,Real,commentator note,Test
+eiwiPcM_K7CF-n-M8a6CA1fO68s.mp3,2024-10-21,Fake,,Train
+ejsoOBK0fYWH-HQzWyQY-rUHnbc.mp3,2024-06-03,Real,,Test
+elTVNnwpcupjFv94XCY2bqOKVS8.mp3,2024-10-30,Fake,"Audio is unnatural and video is stiff, the same avatar has been used here: https://www.youtube.com/watch?v=ZABLI6z9ZtU",Test
+emd5QHvUpQq3mx2R3D1bYnZoKdo.mp3,2024-09-23,Real,,Train
+eoSR7fHO0faF2X0kThOeJTDQvRM.mp3,2024-10-25,Real,,Train
+epvpLeRFIig8Jix6vXmbqq9Z71c.mp3,2024-10-30,Real,https://www.bbc.com/news/videos/cj3me0r0pldo,Test
+ertfVsMY5FjtwacxDPLODYwo8Kc.mp3,2024-10-01,Fake,Digitally altered video based on Community Notes in the X post,Test
+etd8OpE2gGAoFf0og8xRAoQAdSc.mp3,2024-11-13,Fake,Image looks digitally created\,Train
+ewb7IWy0PL2CvgujIPppO5C7hCE.mp3,2024-10-25,Real,,Train
+ewlSccWjq1lX4p_iuD1SqsIl2Nw.mp3,2024-09-16,Fake,,Train
+f-0yYYuDcWvp-sjPvL5AzkLFreU.mp3,2024-11-11,Real,https://www.bbc.com/news/uk-36880847,Test
+f1AMKyMHaIV2_wwYTrdPAMYAUtA.mp3,2024-10-25,Real,,Train
+f1Dyxjvc7mXvyfUVFU19T1KJvro.m4a,2024-05-22,Real,,Train
+f2MvwacUPX5nvsBT4TN-Vu929qU.mp3,2024-09-24,Real,https://www.rev.com/blog/transcripts/trump-rally-in-georgia,Train
+f3kzhzXy-i5zM4nX6OwjC80R9Ek.mp3,2024-10-24,Real,lips are crisp and shadows look true,Train
+f62h_i6rYDmP8yotoMPx65jwMUQ.mp3,2024-03-06,Fake,self proclaimed,Test
+f9uZCX43A6sUUnwTYk14Cc1R77M.mp3,2024-09-22,Fake,,Test
+fEemFbB-CQaJ3ERq9Bvl-vNUC50.mp3,2024-08-09,Fake,https://the-decoder.com/german-government-critics-fall-for-jordan-peterson-deepfake/,Train
+fFSnYtPiPer5m3TfzFK8ykk9xtM.mp3,2024-05-24,Real,,Test
+fGw2nYs3q6Liv10RDX7d2hCOPX0.mp3,2024-06-03,Fake,,Train
+fI_vhE8GUfItaA0ICCKSWASNMLI.mp3,2024-08-06,Real,,Train
+fJACm0L6xf3j6uelMXp0FdKsRHc.m4a,2024-06-28,Real,https://newschecker.in/fact-check/viral-video-of-mukesh-ambani-launching-ai-trading-app-is-deepfake/,Train
+fML4A9T0YC4wtYU0LBh1Isq87co.mp3,2024-08-08,Real,,Train
+fMuOL5kaqpueYynWm2nL7qkMG7Q.mp3,2024-10-25,Real,,Train
+fNkh-9N01iXkQB6ED9G3lmy7r1g.mp3,2024-10-05,Real,,Train
+fUyXPmshpJau85wfQPiwPwAXIJw.mp3,2024-10-02,Fake,Self proclaimed. Voice and image AI generated,Train
+fWDC-D7T1q0sASJPm3Pi_mNUTX0.mp3,2024-07-30,Fake,https://www.dabangasudan.org/ar/all-news/article/%D9%85%D8%A7-%D8%B5%D8%AD%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D9%82%D8%B7%D8%B9-%D8%AD%D9%85%D9%8A%D8%AF%D8%AA%D9%8A-%D9%85%D8%B9-%D8%AE%D8%A7%D9%84%D8%AF-%D8%B3%D9%84%D9%83-%D9%88-%D9%8A,Train
+fXwWYEWiXeDrzPQJ3Hwb_RcRUzY.mp3,2024-10-25,Real,,Test
+f_WoRkomQl92C7cL6bp7Cgokncw.mp3,2024-07-22,Real,"highly edited montage, audio is music",Test
+fbtK-TXMf0vdRbbLKgqCD4JsJKY.m4a,2024-03-27,Real,,Test
+fhGnatg4P0QmjVKcOcRGBsgKXKQ.mp3,2024-08-15,Fake,self proclaimed deepfake,Test
+fi6nAIdTwcJspdUEqQophmV8ubc.mp3,2024-11-07,Fake,https://www.thejournal.ie/readme/surrealing-in-the-years-67-6528898-Nov2024/,Train
+fjdHMy_BJ4JEfC-10OPiUSRiFCw.mp3,2024-10-29,Real,,Test
+fkuL4dWYKGmWF6lkaKsU4NiJtOA.mp3,2024-11-01,Fake,Lip sync is off,Test
+fmA1GCh8iPmYO4YkvoKsc1_zsjo.mp3,2024-03-01,Fake,manipulated audio https://www.tmz.com/watch/2023-05-12-051223-fake-cnn-1614165-331/,Train
+fmRLf8uHBtofk4GsJQoQ4GiuGTs.mp3,2024-10-08,Fake,lip sync is off,Train
+fnGAuF4EzmmT1UhGMMHv2MwrOW8.mp3,2024-02-21,Real,lip sync clear and nuanced of speakera. video montage of images makes reference to AI topics/articles,Train
+foHSLMZJf1mD6uWUdneOsK6nZwk.m4a,2024-07-01,Real,,Test
+fz7LBSJCXiEHSXcEfkDLTvAIRDI.mp3,2024-11-04,Fake,Lip sync is off,Train
+g0X4iIkaiYJpwXE4uFHSuV1yq7k.mp3,2024-06-13,Real,,Test
+g0w0D13t2G-8QUYWNlYInemV7qc.mp3,2024-03-20,Real,,Train
+g6Rcdbej8gXE2rrB9yn7WvUZ8ok.mp3,2024-11-05,Fake,,Train
+g92dIFDmoasKuY3fRgHOFmP5-o4.mp3,2024-09-25,Fake,obvious,Test
+g9QlATLex-_2QkOW_kgcnWoe6NY.mp3,2024-10-25,Real,,Test
+g9nj2DhKo2tNsHPyMhIU6uouIis.m4a,2024-03-25,Real,,Train
+g9qCNMHWiu2AfPlmfd3hmJOumRk.mp3,2024-10-02,Fake,Created by Avatarify song portraits,Test
+gCMd47FgEtzFaaprWMKCh3xIxs8.mp3,2024-10-17,Real,,Train
+gGo6ORdnHqjsa9bDh812vLXBOYo.mp3,2024-10-05,Fake,https://philipptarohiltl.com/meta-movie-gen-ai-revolution-video-creation/,Test
+gHaAwq8NhRFOsoUry-JYECCPv-8.mp3,2024-10-22,Fake,Create by aiartistnepal.com,Train
+gKz5FQwK2ksBS6pLxRmfSswwKC0.mp3,2024-06-17,Fake,,Train
+gNfG4f9C5v8eH62yh_HHiMqCUpg.mp3,2024-06-03,Fake,lip sync,Train
+gPY4Z5TuyizhSYv4EN_5dICnBc8.mp3,2024-10-25,Real,,Train
+gQzPJNwYDAysPTAkGiZCbN5__Qw.mp3,2024-10-28,Real,https://katu.com/news/local/vancouver-ballot-box-seen-smoking-same-morning-as-portland-ballot-box-arson,Train
+gRLjP0ZiNprb_v9eI1h2SDjtUQQ.mp3,2024-11-09,Fake,Lip sync is off,Test
+gRQq47n7lKIbH8XCSZNfh06r1j4.mp3,2024-06-03,Fake,,Test
+gRYZ3txT73R5-HweTbARamRXrmc.mp3,2024-09-10,Real,There are multiple confirmations in major news outlets of this real video: https://www.nbclosangeles.com/news/business/money-report/melania-trump-questions-trump-assassination-attempt-story-we-need-to-uncover-the-truth/3507427/,Train
+gVdnw1I6Fmbtm6duADgVkHKUteI.mp3,2024-10-21,Fake,https://factcheck.afp.com/doc.afp.com.36EH6CJ,Test
+gXn7YhxCfzPdK50yqkOXZLs3dEA.mp3,2024-03-18,Real,,Train
+gdHe1eP-wFDKEiZedcOKZTyOq1s.mp3,2024-03-01,Fake,source: https://www.bbc.com/news/technology-67703018.amp self proclaimed deepfake,Test
+gecEOcO6Vc2geBpsct65PyuM3zI.mp3,2024-06-12,Fake,,Test
+ghtW_FqWnZyoV5aUGay7lj5L-H8.mp4,2024-09-20,Real,https://meidasnews.com/news/fact-check-trump-falsely-claims-kamala-harris-fighting-for-no-merry-christmas,
+gkLwWybdO5qRMkyLYvjz9VXVYH8.mp3,2024-07-11,Real,"unclear if video is real, audio is music so labeled as real",Test
+glQaxuBUkB5x7Aghe_L3MOueXR8.mp3,2024-10-25,Fake,video is too low quality to determine if AI,Train
+go5WGhXpuTA9jjS4axf05mgvRxg.mp3,2024-03-05,Real,not in eval as too long,Train
+goAa75JvGwcjTSsJn8Fx1FPG0gA.mp3,2024-06-12,Fake,,Test
+gzmCGOkIztl4VS026FZDTD6SAAs.m4a,2024-03-26,Real,,Test
+h0ic_4_JTi6ALXtqQ8NWsrhsYPs.mp3,2024-07-22,Fake,fake ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Test
+h29h2A2bPD9qa950n-WBEv91SHU.mp3,2024-05-26,Fake,lip sync,Train
+h2oYY97MHJflLZfOHrUgVzpryII.mp3,2024-09-03,Fake,,Test
+hDhOlAsMgf__DuHEKQ0OFUne344.mp3,2024-09-06,Fake,https://jantaserishta.com/local/tamil-nadu/pro-ltte-group-circulates-deepfake-video-of-slain-leader-prabhakaran-3503416,Train
+hEHjJoiew9dsjJzlPeAGUOBy5D8.mp3,2024-02-27,Real,Video is filmed on a greenscreen,Train
+hG7WLeDsXhz1qjRja-47_vtla3Q.mp3,2024-10-10,Real,,Test
+hM12w3rBDBxefVQCRSrpV32vNuQ.mp3,2024-05-06,Fake,,Train
+hOjd4cUqMq0P0dHYMrbV8Xvti9U.mp3,2024-11-05,Real,,Test
+hQDciYwPxAx_pnP5GNPuCzpdEMI.mp3,2024-10-23,Fake,"lip sync is off when he says the word ""to collect"", zoom in",Train
+hXRCJIUUV_1my5dSLZwefgDdj4A.mp3,2024-05-23,Fake,lip sync,Train
+hYbOq1h0oQx26AP3Lbevs8oZ-7o.mp3,2024-05-15,Fake,Kahn was elected mayor one week ago https://www.youtube.com/watch?v=uomD0CGfVOw,Train
+hed9sMlvYliISS9eecuWtZ6tAXk.mp3,2024-06-14,Real,,Train
+hfKEVwawDuSBGLLx-wzcm55vJ6w.mp3,2024-07-01,Real,,Train
+hfw4bmytblZO5FtWeBg15kTKlLQ.mp3,2024-10-17,Real,,Test
+hgpOmo5_jEJMFeT0oB2DnDdj6u0.mp3,2024-08-08,Real,nuanced mouth,Test
+hgqPSy1v7YYlrXBS5KjL7BFEXtQ.mp3,2024-06-27,Fake,audio only - known fake,Train
+hhpFOpZ8uIFPgLF_sZ19RO2rHa4.m4a,2024-05-22,Real,,Test
+hhq3BkomkHvWLHjdhVLwAuNq0YQ.mp3,2024-07-25,Fake,,Test
+hj3wQGFX6DwKQeVxW_jpLqT3iyM.wav,2024-06-29,Real,,Train
+hlGmMlp9aWvcdIC-w1S_q_dkLxs.mp3,2024-09-21,Real,all crisp lip movements and facial movements match voice,Test
+hnaBaPhNEFxhrdfVc9Yj-qEUxBU.mp3,2024-11-14,Fake,lip sync is off,Train
+hqmY0SLLiQHOi0M0uMUHiSOeNzQ.wav,2024-10-03,Real,Real interview from Euronews https://www.youtube.com/watch?v=bdygnTrrGVI,Train
+hriG3tH7wmB1ZqfErpr9PGcbLdY.mp3,2024-10-25,Real,,Test
+htjxtgZCLLr88FH0kSw75A1KGdo.mp3,2024-08-10,Real,nuanced lip movements. comments were confirmed in multiple media sources,Train
+i0yYwK_9GCyQp2lu-1Kwl8UARdk.mp3,2024-07-08,Fake,https://mashable.com/article/fake-elon-musk-crypto-scam-youtube-livestreams,Train
+i1U0fN8vuhepuzzFu3AnIiULU50.mp3,2024-10-05,Real,"Clip from movie trailer timestamp 1:07 https://www.google.com/search?q=i+give+it+a+year+movie+clip&rlz=1C1UEAD_enUS967US967&oq=i+give+it+a+year+movie+clip&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIMzgyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:95b39df1,vid:m-bYVgasw4A,st:0",Train
+i1fbfIDGbnVm7i_0DQF61ZBvGII.mp3,2024-03-07,Fake,Created by ParrotAI,Train
+i2Gl4hjzmIDSVoc7M3DYuZV-xs8.mp3,2024-07-05,Fake,,Test
+i2yMvLdkEFIILkx8eU8nFoFWd3U.mp3,2024-11-01,Real,The vide is trimmed and cropped together. The lady fights back after being used in this video - https://www.nbcnews.com/now/video/harris-supporter-fights-back-after-she-was-featured-in-pro-trump-ad-without-consent-222629445969,Train
+i7W9fcEVvtBjTKn6vZUEFrELDK0.mp3,2024-05-22,Fake,https://www.nytimes.com/2024/05/16/technology/ai-voice-clone-lawsuit.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb,Train
+i9S6X6PSvafyRR7-ctEWMNaQYMk.mp3,2024-02-23,Real,duplicate and other copy is better qual,Train
+iDLhIJrkp923PbK8yh6Kl39_xto.mp3,2024-09-30,Real,https://www.tiktok.com/@cbssundaymorning/video/7420081032575175966,Train
+iKQVFCc_qq_1tGTY2OYfRDFEnmY.mp3,2024-09-06,Real,Taken out of context: https://leadstories.com/hoax-alert/2024/09/fact-check-kamala-harris-did-not-say-elon-musk-has-lost-his-privileges-to-speak-freely-she-was-talking-about-trump.html,Test
+iKexCezSLgzrxT7K4eld2ia3pS0.mp3,2024-04-08,Real,https://www.newsweek.com/biden-thanksgiving-event-virginia-child-girl-1845138?utm_source=chatgpt.com,Train
+iLPc4NkSiOjg3ppt_V96sOOm3Is.mp3,2024-06-05,Fake,,Train
+iO3m6X8xjhOFX6lJIlNRVOoIvj4.mp3,2024-09-04,Real,https://pesacheck.org/fake-these-images-of-elon-musk-with-robot-wives-are-ai-generated-6e182fe88089,Test
+iP-9rjjYtBUJI7C8JpDQBFIk108.mp3,2024-10-28,Real,https://www.youtube.com/watch?v=U2wd26lzYUw,Train
+iPGQZRhAdJ_J5ud5sAQWeB_Byqw.mp3,2024-10-08,Real,,Test
+iQSEfJG1zcdoFA4DlnNjls46o1M.mp3,2024-09-12,Real,,Test
+iTQmlBYD9zRX6dSuwFqmF45HMCk.mp3,2024-11-13,Fake,Musk would not open up his private account to all tik tok users,Train
+iVt4FTySySYyGWyjnJdaukChxr8.mp3,2024-08-13,Fake,self proclaimed generated by Argil.ai,Train
+iXdluY2nHIS9pRNFuEt_Gx9BG_k.mp3,2024-02-27,Real,,Train
+iZrA57o6QUnsXQNqaOinPHLkThA.mp3,2024-09-28,Real,https://www.youtube.com/watch?v=xtwT8wIXmo0,Test
+ia61WW8SZcc0ZWF5Vc6FtsPw_ds.mp3,2024-05-27,Fake,,Train
+iacsD48a4oRLQhvySb1V5JwKSBg.mp3,2024-11-09,Real,https://www.facebook.com/watch/?v=1109741919693056,Test
+ie9M450YlUoog4zEf2K0gaLq7CE.mp3,2024-06-28,Real,,Test
+ieXGtQmJVSrDmwmWUYiQN734Xlw.mp3,2024-10-31,Fake,Photos of Karol G pregnant or with child are fake,Train
+ig2KVDbTYyIdgEgoII1sgzQF9mQ.mp3,2024-06-12,Fake,self proclaimed fake,Test
+iiJe0By6rXhwNs9_SIGKYK50uIQ.mp3,2024-10-17,Fake,lip sync is off,Train
+ij6zEiq4UboeAjPaR1RtTtE2QzU.mp3,2024-05-26,Real,https://www.bbc.com/news/world-australia-69006713,Train
+inAyrP0mzwX9fPvFgS541r3JVUU.mp3,2024-10-13,Real,,Test
+irgjvneYUm1Wifx_-lWKZa0h3eo.mp3,2024-10-20,Real,https://www.reuters.com/world/us/elon-musk-promises-award-1-mln-each-day-signer-his-petition-2024-10-20/ / https://www.bbc.com/news/articles/ced0d1g5zyno,Test
+irz8BmTR75GkB5cAKlG1KBi5JIw.mp3,2024-09-24,Fake,Self-proclaimed,Train
+is3ZagG1sr11WzU6zeSIjnbxZjM.mp3,2024-11-07,Real,https://www.tiktok.com/@cbsmornings/video/7433831454070607135,Train
+ivSQkDuA5CJINHrHdbl5d9aXSaY.mp3,2024-10-08,Real,,Test
+j1or5rQu4hw5SMGPOWb846O8uBg.m4a,2024-06-02,Real,cbs,Train
+j2-QkEP3RFruTiEtdd0TnoJhnoc.mp3,2024-10-25,Real,,Test
+j2HSEPmHKYvFPTGmGZbZiSO4ZKE.mp3,2024-02-28,Real,,Train
+j5nGmAW0zsAMRXotf6r4CdB65C0.mp3,2024-07-24,Fake,AI generated. Watermark indicates created with HyGen AI video generator,Train
+j5u8x7VEzAfG5tOpGfRVpbtA0yM.mp3,2024-07-11,Fake,lip sync,Train
+j8ua18kVR9hxhZ4jLAGW5aAtVjY.mp3,2024-10-21,Real,,Test
+jBj3uM9aJU_N2Q6Lafb3BJS_S6g.mp3,2024-11-14,Real,https://www.youtube.com/watch?v=LlHeI99L9Lw,Train
+jCSx62mMEIBNx1koG3hcmX9DO8E.mp3,2024-06-02,Real,,Test
+jGYnSuXUjdStf_-VywHAOSn0hHg.mp3,2024-11-05,Fake,,Train
+jGeLFaiO4k-vjZ_M6ke98q3ZFDE.mp3,2024-07-22,Fake,Verified PBS did not condone altering of their news video. BOOM live confirmed fake and used TM as proof point,Train
+jJ1hIhzqWOfpqp-QYwk2SDjE10A.m4a,2024-06-11,Real,Verified source,Test
+jN2GFJB44yYoEfZlL3jRNDG4om0.m4a,2024-04-19,Fake,duplicate source confirmed ai,Train
+jNZmdjOD3odNoaHw8ERQqpgtIio.mp3,2024-09-21,Real,,Test
+jNoOkhW7dkxPROd0fDJuxzdC0E4.mp3,2024-02-27,Real,,Train
+jNvTFpATw60veNZZfmyTqVrDbe8.mp3,2024-04-19,Real,The video is edited. Here's the full video link - https://www.youtube.com/live/Ioa2UsmFzA4?si=uyBiFO6VVwcqCniP&t=12778,Train
+jRyYacvNUveOlRqOfLtiolxXRzY.mp3,2024-10-17,Fake,lip sync is off,Train
+jS9tXHvv9wIxiJWzWejEt-2RfXA.mp3,2024-07-02,Fake,,Train
+jShQSYa6ps0XSh5o0RRXqv0vZiQ.mp3,2024-10-17,Real,,Test
+jXmSdotzyv27B2CbM0ybiCIfwT8.mp3,2024-03-01,Real,,Train
+jZXqkHxLR1ib3lKHSXaau0LPzlg.mp3,2024-07-08,Fake,"Created by Systaime, visual artist Deepfake Creater Community",Train
+jbO-E9SiMgAgVvsFl8wMyPxDQEo.mp3,2024-07-18,Real,,Train
+jgMi2mNncv-0vbAgMpHMNoxplR8.mp3,2024-10-02,Real,https://www.facebook.com/ChampionsLeague/reels/,Test
+jiKy4qS4CElDbekascHxUj-YV70.mp3,2024-09-17,Fake,lip sync is off,Train
+jiLgdJyPD1yLe4onb7jlmbYtgco.mp3,2024-09-11,Real,https://www.npr.org/2024/09/06/nx-s1-5103933/gaza-palestinian-girl-roller-skates-photo,Train
+jjRMl_ZJdNThd0DW4vsIBnNNEmY.mp3,2024-10-23,Real,,Train
+jjnXSXl50dVrD8F_zhblyodn_oE.mp3,2024-10-03,Fake,,Train
+jkShire4CkWiKmcE69LRP3u_fO8.mp3,2024-10-24,Real,,Test
+jkpQQ972_bmexJTt3bKW3GwO5Bo.m4a,2024-05-21,Fake,Trailer for film with AI-generated Putin premiering in September 2024,Test
+jnBHP9akH_8jfNrSm07UgZKJ1Qg.mp3,2024-05-23,Real,https://www.nbcnews.com/now/video/new-oct-7-video-appears-to-show-hamas-abducting-israeli-women-211414597882,Test
+jncTr-OKCoFd0k1KjOF0iuaBJ4M.wav,2024-06-29,Real,,Test
+jnddCo-HbMMly8E8ADYNNr6tZ0U.mp3,2024-06-14,Real,,Test
+jr7ZthZWUMVVIkJb-wyfL7yF7sY.mp3,2024-06-03,Fake,,Train
+jsgU2g8VbwNxC3ZFLe8kcPI0uN8.mp3,2024-08-01,Real,https://m.cbs12.com/news/nation-world/vp-harris-mocked-for-saying-ncaa-womens-basketball-excluded-from-brackets-until-2022-vice-president-kamala-harris-march-madness-tournament-final-four-championships-iowa-lsu-uconn-nc-state,Test
+jyAn-UV714Ne6kSvi7GuvBXnkBo.mp3,2024-06-06,Real,obvious mixing of biden and obama voices,Test
+jzcz0L7PqkqAm5aLFXRuExnaStc.mp3,2024-10-07,Real,,Train
+jzw4St5SnG296TXPr_jiZMNcsi4.mp3,2024-09-27,Real,https://www.cnn.com/2024/03/22/uk/full-transcript-princess-of-wales-cancer-announcement-intl-gbr/index.html,Test
+k2qM0ArioUi3gUgV3_W8jUIAAVE.mp3,2024-07-01,Real,https://x.com/UN_News_Centre/status/1807791280195547212,Train
+k2vXXwUrO3hzWjcslRbbGxeyzEU.mp3,2024-07-27,Real,taken out of context and misleading but real video,Test
+k4AJJ5yNhHt3hUqmMVnUWcRgrXY.mp3,2024-11-06,Fake,Obvious because lip sync is off. Known AI generated video https://ars.electronica.art/center/en/obama-deep-fake/,Train
+kAXKQgBFdycqJybDZnTFSchMHYc.mp3,2024-08-06,Real,,Train
+kAaNHcuBnFPnxe4tspbxc_muFTw.mp3,2024-11-05,Real,Fake based on X community notes -https://www.newsweek.com/2018/02/02/james-okeefe-project-veritas-american-pravda-fake-news-781964.html,Train
+kDdbGY9PlZQUPJh2Ewoys8PBk_M.mp3,2024-08-17,Real,https://www.youtube.com/watch?v=klRb0_BAX9g - skip to 40:15 to see this part of the video,Train
+kDjvdgm2oq0H485zdzRbIInorIo.mp3,2024-05-15,Real,"the individual clips appear to be real, but the overall editing to meant to mislead. https://www.c-span.org/video/?323601-1/senate-ceremonial-swearing",Test
+kGFu8qJkzxoApp2E_xJ7T_DpcpE.mp3,2024-03-18,Fake,audio is fake created with CP3meme,Train
+kIZg7-jZ1Y5EvUYztxPkI_oTzIs.m4a,2024-04-23,Fake,dupe,Train
+kJhnoS51wGqg8uD64dCtj_aWWZw.mp3,2024-10-25,Real,,Train
+kKvtLUuacNwijtZ1H1x0qn65O10.mp3,2024-06-16,Fake,,Train
+kNEcqrYSgfoyf4lDmB4wDjTm3Ic.mp3,2024-11-01,Real,https://www.youtube.com/watch?v=UGH63lDATAw,Train
+kQSrJWfpKDnA6Ibzcqsm9GadWOA.mp3,2024-10-23,Fake,AI generated based on X community notes,Train
+kQgoXwlr19g0fQ_F040mjOn8s3c.mp3,2024-07-24,Real,,Test
+kQsoU9jLAvnmY8x7v4As0cG9g1c.mp3,2024-05-03,Fake,obvious out of sync voice,Train
+kR0t917C34y8z7gcsQUYVa6zpxs.mp3,2024-11-06,Fake,Lip sync is off,Test
+kTYTTzDaNnbqy_EoqyMU9KhfVtw.mp3,2024-04-30,Fake,,Test
+kX7fNBPDsizlqp4SKaFr693R7CM.mp3,2024-10-07,Real,https://www.abc.es/espana/donald-trump-deja-mensaje-tumba-rabino-schneerson-20241007232117-vi.html,Train
+kX7jTRNb6iHvR90Lypw9cBc1Kpk.mp3,2024-05-06,Fake,,Train
+kY1ygdsFp2h_ln-262KJsEL-E6E.mp3,2024-09-28,Fake,lip sync is off,Train
+k_aCMSdRp3FqONpwH2sd7v5I-VE.mp3,2024-10-25,Fake,"Face swapped video, https://www.tiktok.com/@geomfilms",Train
+k_e_6q2N1kG4pqCWZgNUkqCSaAk.m4a,2024-05-10,Fake,self-proclaimed,Train
+k_hi5GcY-z1hZK6ajNjWcGvBuJo.mp3,2024-08-06,Real,"noise, not a speech.  transcript error.",Test
+kcMTYmXcEFWzyQTUSHv2UaGVSGY.mp3,2024-10-17,Real,,Train
+keRJ9BKvux2TxtTmVPxKjzUppVQ.mp3,2024-10-18,Fake,,Train
+kfeHuJkOXBZT6Nyk8jJ37sl19oo.mp3,2024-10-17,Fake,lip sync is off. original video: https://www.c-span.org/video/?539264-1/ethel-kennedy-memorial-service,Train
+kht4J6DWwM3RudPaDlTTjjQLxrI.mp3,2024-10-22,Real,Around minute 16:45 https://www.foxnews.com/video/6363352689112,Test
+kiuaxEn9qpF8h4WbN064opCsPN4.mp3,2024-10-25,Real,,Test
+kjiisZC7tQGOuvIWYYSlhKxMC-E.mp3,2024-11-03,Fake,Lip sync is off,Train
+kkLDCRfUhBTJja6Fwuux3d148BA.mp3,2024-03-25,Fake,Self proclaimed. AI generated commercial,Test
+klOBszZEg7gkwPmQckOtDOBSdtM.mp3,2024-11-05,Real,,Test
+kpuTg3v87doLh_ZbrtBWkNszZqw.wav,2024-06-24,Real,,Train
+kq2m09JHMkUstQI12VRrp2e-WkA.mp3,2024-10-02,Fake,self proclaimed deep fake with voice over by joe gaudet: https://www.facebook.com/reel/3940192696218072,Train
+kqRyAtOmnmpMtP5_z8oz17rMWZE.mp3,2024-10-19,Fake,,Test
+krSr8gXbViqdzs2X_QGCw1SWq1E.mp3,2024-09-03,Fake,lip sync is off,Train
+kugkpfPmho0M6Ytpb0lXR1KXqpw.mp3,2024-11-05,Fake,Lip sync is off,Train
+kwSbm77s7xgMEgs7QjfBaFUMBFo.mp3,2024-10-25,Real,,Train
+kwjNt99Bye8lUbi1HzRdAaZVAl8.mp3,2024-06-19,Real,Published by account with stated goal of deepfakes. these are known fakes,Test
+kyAFusmXBUnYpWC8tc5Io_YGG7I.mp3,2024-09-08,Fake,lip sync is off,Train
+kyZxU50G3bQO3YhZv2NLccPrMao.mp3,2024-05-07,Real,"Kicked out of theater, not congress. Text overlays are misleading.",Train
+l4HAcefHlXPFpGiWmPOgT1sCIbM.mp3,2024-06-16,Fake,lip sync is off,Train
+l5ltNinm5UAro67MlqdVBxBNu00.mp3,2024-08-09,Real,"no evidence of AI manipulation or lip syncing anywhere. Appears a normal video of macron walking around, and don't see any questionable part of the video. Hence, marked as real",Train
+l7T0eD_sbXamC26cGv3LnqvMCPE.mp3,2024-05-06,Fake,,Train
+l7mnBcwDrU4jRwHyCQrANMBz0X4.mp3,2024-05-03,Fake,athletic director was arrested for making this deepfake audio clip,Train
+lA2oYboBuLR9n-Fh18ZdHrX2J9c.mp3,2024-10-10,Real,Around minute 1:17:00 https://podbay.fm/p/1288641267/e/1728477081,Train
+lC1UbpzbmoOvWZGCqxro3dpoltk.mp3,2024-03-07,Real,,Test
+lCMDWgxXW17Xe4Zktz2igY83E_U.mp3,2024-10-17,Fake,,Train
+lDG0RZKRDJMBe3XOBAelN4G2vD4.mp3,2024-11-11,Fake,Created by @levelsio as noted in this post https://x.com/tonyszko/status/1849039845835866203,Train
+lEgAtP16HPdGXl_HbPpgLpPZZsw.mp3,2024-10-17,Real,,Train
+lEwFU-mC0qOKXatMQ4muXyZqJcs.mp3,2024-02-21,Fake,Video making fun of Senate for grift,Test
+lFYVQTJNt4_lbW0un2NwUKxw-Bc.m4a,2024-11-04,Real,https://www.thedailybeast.com/listen-to-the-jeffrey-epstein-tapes-i-was-donald-trumps-closest-friend/,Test
+lIQxBcZMpoElxqHpinQSMyZ-7e0.mp3,2024-10-18,Fake,lipsync video,Test
+lLTpIBPYKQT4oCIvG9HycPlx9Ls.mp3,2024-10-31,Real,,Train
+lNjrixW0A-0wRtJvpW5avmFUddo.mp3,2024-09-26,Fake,https://deadline.com/2020/12/queen-elizabeth-deepfake-message-jabs-harry-meghan-prince-andrew-1234661642/,Train
+lOEAEzZkJExduj6J0vsWOv1-E4E.mp3,2024-10-13,Fake,lip sync is off,Train
+lOLKBMYHz7MzXcj5NMY8XcYKCRY.mp3,2024-11-06,Real,Lip sync is off. updated: Biden clip is real https://www.usatoday.com/story/news/politics/elections/2019/11/22/joe-biden-tells-immigration-activist-you-should-vote-trump/4273814002/,Test
+lT2zKTtheFvvMQ8zMON8A_ccSyA.mp3,2024-07-02,Fake,https://www.politifact.com/factchecks/2024/jun/07/tiktok-posts/joe-biden-robert-hur-interview-audio-wasnt-leaked/,Train
+lU99WmzzXXRzHDO9wXQA_NKwHRA.mp3,2024-08-10,Fake,features multiple instances of AI generated content,Test
+lViW0vwgvF3JtRW6J9sUM3sk7rQ.mp3,2024-04-04,Real,,Test
+lW9LOcRLByC956HqerbzXNdojMs.mp3,2024-06-17,Fake,,Test
+lY087aZ7tyvZGUsqNYuTbAejXFs.wav,2024-06-24,Real,,Train
+lZAag4fBAZeLKfhK1VC-572ry8c.mp3,2024-10-18,Real,"Out of context, biden being sarcastic: https://www.politifact.com/factchecks/2022/nov/17/instagram-posts/bidens-theres-no-climate-problem-comment-was-a-jok/",Train
+l_tahT3CjtXd9dUyeZPPt9CfonE.mp3,2024-10-13,Real,,Train
+lcWTVrjUgtlF9agZDkwBvL6NRm4.mp3,2024-09-26,Real,around minute 7 - https://www.ccn.com/news/technology/elon-musk-predicts-no-job-universal-high-income/,Test
+ld8dx3olAfZeDMaeEhSP4XQVeXk.mp3,2024-05-27,Fake,https://www.the-sun.com/news/10869302/russian-tv-deepfake-ukraine-moscow-attack/,Train
+lhzpU7s1qoH3JTR4E1C0L6y5Zbo.mp3,2024-10-15,Real,Clip from recent town hall that turned into musicfest https://www.nytimes.com/2024/10/14/us/politics/trump-town-hall-dj-music.html,Train
+lipmPM7Ph0wLdZQ4fc5g2OzM-30.mp3,2024-06-14,Fake,,Train
+lpvjAAbHCNiu0Y2zTDhPUN_j9g4.mp3,2024-10-17,Real,https://www.msnbc.com/all-in/watch/maddow-s-bombshell-reporting-trump-trying-to-pay-stormy-daniels-to-be-quiet-again-221947973843,Train
+lttSg9AKkYIUPRJTG6_Ek7rH3DA.mp3,2024-10-11,Real,Aligns with real clips and interviews given by JJ Carrell on Worldviewtube.com,Train
+lwf0nbH97hWa6zRYnkyRtIvynzQ.mp3,2024-05-26,Real,"https://www.newsweek.com/fact-check-did-robert-deniro-scream-pro-palestinian-protesters-netflix-zero-day-1896215 Real video, misleading text",Train
+lz8uVguaXbGWtfSrEcsqYUpNU_4.mp3,2024-07-09,Fake,Russian AI Bot. Real video footage: https://www.youtube.com/watch?v=22dVTt92VD4,Test
+m0aoK0omPqDtOpaC0V3OfRrOQNE.mp3,2024-09-08,Real,,Train
+m1UCHlbMSBgGhkj9ndGAJk06GSM.mp3,2024-08-08,Fake,lip sync is off,Train
+m2JrYuys6edGmPPzd3jGPpG4Syc.mp3,2024-10-25,Real,,Train
+m5fJCskFWilbjeLwASM6MVw4O1g.mp3,2024-09-05,Fake,lip sync is off,Train
+mA-0niJnJIcRjDAauZ_iGLfIt8c.mp3,2024-04-26,Fake,deepfake posted in a nyt article to show example of ai deepfake,Train
+mEXxOz-wBKWDYVyNnD_oOxJM98o.mp4,2024-08-06,Real,TikTok account which posts deepfakes of tom cruise,
+mEebysZI_Huv8wAw7zHqw5uNoZY.mp3,2024-08-27,Fake,,Test
+mGZKBMoyJQ-LuRPQVSIhTUMNLNA.mp3,2024-10-16,Real,,Train
+mIC6E8hiHJwPrNpsfyIHNskNYmo.mp3,2024-11-08,Fake,lip sync is off,Train
+mIgTcj5ZT1P7_v_F7jS4cwCIPi4.mp3,2024-11-03,Real,Fake from https://humanaigc.github.io/emote-portrait-alive/,Test
+mJRN7e-ZO7KiaUNRj_AQs3sytEM.mp3,2024-10-14,Fake,,Test
+mKn1Tt2q8uzbZGN5JSwZqt-fLQY.mp3,2024-10-24,Real,,Test
+mLGQHdfxyCS6QWmtUN3sBeOREiQ.mp3,2024-08-09,Real,Labeled real for same reasons as the other one of Macron. No evidence of foul play,Test
+mLwVjkliGG0xyYuG2hYUmyydgtw.mp3,2024-08-16,Real,,Train
+mMZRa_dGL85JDnJ4CmML4_JEyls.mp3,2024-10-10,Real,,Train
+mMmcc2wxueqi-FWTr38KQa6mmpA.mp3,2024-06-30,Fake,https://www.forbes.com/sites/mattnovak/2023/01/31/25-elon-musk-impersonator-scams-on-social-media-people-actually-fell-for/  Post note deepfake livestream,Train
+mO7sfKOei7WxiclOkR2O8seyqiQ.mp3,2024-11-01,Real,The screen shows translations of Kamala's talk - https://www.youtube.com/live/XdvHSwQswoI?t=363s,Test
+mOHMKXQIpS8My6RoP54QXA6ExQk.mp3,2024-05-27,Fake,commentator note,Test
+mUFAX5j79Qf45-TicCBKhjHuXxQ.mp3,2024-05-16,Fake,https://www.youtube.com/watch?v=dFRW2RB1s0s https://www.indexoncensorship.org/2024/05/how-artificial-intelligence-is-influencing-elections-in-india/,Test
+mYAEiw5zDl2oRCcVVZQn8DlTyaw.mp3,2024-10-24,Real,,Train
+m_-9urIe590jTQ5r0TfnVgUqI9I.m4a,2024-07-10,Real,self proclaimed. Real advertisement includes demos of Intel's deepfake detection tool,Train
+ma9sQj40l8XCrdhjb0SH0ufWljI.mp3,2024-10-31,Real,https://www.cbsnews.com/colorado/news/stephen-matthews-sentenced-158-years-drugging-sexually-assaulting-women-met-dating-apps-cardiologist/,Test
+maeAog9Zqn_svGwDxqP7jh1968s.mp3,2024-11-05,Real,,Test
+mifUHHyIwdGdjm7AY2nkAVBrtJc.mp3,2024-11-12,Fake,,Train
+mjbj6Rwtzql7lsNVj_K5TMThi8Q.mp3,2024-03-31,Real,,Train
+mkXAYD3l-890U5BBkgGAIG-92Bw.mp3,2024-05-26,Real,Original video: https://www.youtube.com/watch?v=_lxoPrKyfH0,Train
+mlkZTPbNz_xHrDtZhsHFVuxC1tQ.mp3,2024-10-24,Real,,Test
+mmRDEXj_Gz3jZ218piTlI9joPh8.mp3,2024-07-25,Real,https://www.cnn.com/2024/07/23/politics/video/trump-vance-fox-interview-sot-cnc-ldn-digvid,Train
+mmS80jXJkQ0vPNPCqXeup4mwm7Q.mp3,2024-08-28,Real,,Train
+mnVIkXalc-7FfTWjx7_lNBG4xaQ.mp3,2024-11-03,Real,Fake from https://humanaigc.github.io/emote-portrait-alive/,Train
+mp9fHqC4QaoZCdIy-aJE98lTWAE.mp3,2024-07-22,Fake,lip sync is off . Known financial scam video https://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Train
+mpCjECJDCWdPPd_D7huQwyhGEEc.mp3,2024-10-25,Real,,Test
+mqGaGu2IcxfDVo8HnYOoCmeZb3Y.mp3,2024-10-26,Real,https://www.youtube.com/watch?v=bOAuImgHGOk,Test
+mrPgboYfQKCeeRJu8sb-sZhX4ks.mp3,2024-09-09,Fake,bitcoin scam; lip-sync is off,Test
+msAElydUNWUvZ7Zwa9-a_xp1_Mo.mp3,2024-08-22,Real,lip sync is off,Train
+msnZkIwQJqBdszocsHVezR5o3LQ.mp3,2024-05-23,Fake,lip sync,Train
+muBeuaID8euRbljH-3uV3OkNyIA.mp3,2024-07-14,Real,Video is real footage from assasination attempt,Test
+n0uhVY2Dhf8GSW1BNad5XBveBUQ.mp3,2024-07-08,Fake,,Test
+n2Mizrp0C0UrkF20bSj-ixyLsj4.mp3,2024-07-08,Real,,Train
+n3nTHUFWmJQ-zLX93HGdIiy6jV4.mp3,2024-06-19,Real,Published by account with stated goal of deepfakes.,Train
+n9JYgElibqUeVGNO0CJTizdl7JE.mp3,2024-07-11,Real,music in background,Train
+nBTzxMh9yMS7Q514eBUOSx-_GtI.mp3,2024-08-17,Fake,Deepfake switches on and off in the middle of video,Train
+nCCxrdV7vGJsMsfIbxz7Ux_cCno.mp3,2024-06-03,Fake,context obviously fake,Train
+nFWJYf_8eHfJl07OEozNA_h2cH4.mp3,2024-07-11,Real,"https://www.google.com/search?q=biden+wanders+off+g7&oq=biden+wanders+off+g7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEIMzg1MmowajSoAgCwAgE&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:b974bc66,vid:pKtudwc9Y-0,st:0",Train
+nGRdPRPR2yBBMK83XIcJKewJJ4M.mp3,2024-10-03,Fake,obvious,Test
+nKIvPqxIwps4rrAI-cE8a4fpLPo.mp3,2024-10-17,Real,https://edition.cnn.com/2024/10/17/politics/harris-fox-new-trump-analysis/index.html,Test
+nMJGOA584pAbiKIVjOi8kc5Tv5o.mp3,2024-06-20,Real,,Train
+nNW9UCQdtxbg9cEYPEmkUzDz0A4.mp3,2024-07-11,Real,taken out of context but authentic video,Test
+nOLtVMp19WOeFhZSIC69E1xTHfA.mp3,2024-05-07,Fake,fake content,Train
+nPdB7LTnuUSycjRy8nZmRdDCcic.mp3,2024-05-06,Fake,,Train
+nQJt6lYhIf5DBOtBDUlpRP_XFAU.mp3,2024-06-29,Real,https://www.msnbc.com/msnbc/watch/-you-don-t-turn-your-back-newsom-defiantly-pushes-back-on-calls-for-biden-to-step-down-213864517612,Train
+nQd1TPdU3h0keZe4MD8KLXuan_c.mp3,2024-10-23,Real,minute 24:40  - https://www.youtube.com/watch?v=8qkd6wti4lo,Test
+nRdDTDM-QnUHp5wvEISAGDrCFWM.mp3,2024-05-05,Real,,Train
+nRzDrqv9kHOZPBXbCe2-KFTO63g.mp3,2024-07-02,Fake,https://www.nbcnews.com/news/amp/rcna159674,Train
+nTpY-DqzQmw1k9-GJUHiXpBtad8.mp3,2024-10-25,Real,,Train
+nVkgsUrr0_6UwWLaaJBdBHSKIkk.mp3,2024-10-24,Fake,self proclaimed,Test
+nWybYWtUiXWpSlzO07SW0sU2tKE.mp3,2024-10-09,Fake,Video truth is fake due to artwork,Train
+n_Aozy9M79AEbF6LkmNTI5Sbg0E.mp3,2024-06-17,Fake,,Test
+nanU4k6y_DHtqqeZvc-O6N6xxjE.mp3,2024-09-10,Real,confirmed on major news outlets,Train
+nbSu6tmck7q2-PzlmIxY0_9vGM8.mp3,2024-06-14,Real,,Train
+ncBufLv3RSjogh66Iecf8xvLDuw.mp3,2024-10-28,Real,"Lips and mouth are crisp, clear, nuanced, and match sound perfectly.",Train
+ndUSOKxdaJdxH0Zo4IJ_XHHOEpc.mp3,2024-09-30,Real,,Test
+nefJI_4TbHarNctRfXP_pXxf4fg.mp3,2024-09-20,Real,"The video of Harris is real, but the background and credits were superimposed, so we labeled the video as Fake. Here's the original full video: https://www.youtube.com/watch?v=7kQBkhKFBto minute 1:19",Train
+nhpuYKfjPZW6eC3ZjoNfDWYrO98.m4a,2024-03-19,Real,,Test
+niztOTAVU3kz9Wto8M3A-uME04A.mp3,2024-07-02,Fake,,Train
+nk_9nOSjt_Cj3jtqtyHm-U2uLEY.mp3,2024-06-19,Real,Published by account with stated goal of deepfakes.,Train
+nmBgtQiIVllCEhJOtZ-YCVk0gTQ.mp3,2024-08-13,Fake,lip sync is off,Test
+nnSBEv0Xn6DTXIyfoj9gcsjz9SI.mp3,2024-02-11,Real,context: https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town,Train
+nsS7wptu45kX8G98R99T7eh3A1c.mp3,2024-10-16,Real,,Train
+nuBL9RDNM4_ur94wPzLbFd7Ccdo.mp3,2024-10-29,Real,Post miscaptioned Reuters fact check https://www.reuters.com/fact-check/video-shows-kamala-harris-with-in-ear-monitor-not-audio-earrings-2024-10-04/,Train
+nz-Pdv3EmyHxemZvDcdKaks2AyE.mp3,2024-10-17,Real,,Train
+nzAQYrJgUMUsu_IqW-jaX4TCr8A.mp3,2024-05-18,Fake,lip sync,Test
+o-htCnR-tzIG6tcruZOqWQ9TEhA.mp3,2024-09-27,Fake,lip sync is off,Test
+o0JoxoyprA-7NTqUMd6RreCCOe8.mp3,2024-04-26,Real,,Train
+o3MtIQ4B4yRVQIv-OMSGxLEq0yg.mp3,2024-02-03,Fake,lip sync off,Test
+o3ctFUY_wlgBKNBGCRhOiFxtpVg.mp3,2024-07-04,Fake,,Train
+o4JEwPyDOtMi-0L2V8fuTG9bM3o.mp3,2024-11-09,Real,,Test
+o4aIwW8Q6-wEeNtM1Pr_ukJyJss.mp3,2024-10-29,Real,"Lips and mouth are crisp, clear, nuanced, and match sound perfectly.",Train
+o6zSxLhNmHLHo7P8zEzjT35lqKo.m4a,2024-05-31,Fake,https://www.youtube.com/@reidhoffman,Train
+o9lfvhZzq54RuIDphO6nM2-g83A.mp3,2024-05-21,Real,,Train
+oAHdUOMaw211u8U2pKjBuEN4Kw4.mp3,2024-05-03,Fake,lip sync off,Train
+oBXe3D_71lxtGUUsqICjiBRq8pc.m4a,2024-05-14,Fake,lip sync is off,Train
+oBZpjdSmdDXGDozpjAn1Vtl2VYo.mp3,2024-11-05,Real,,Train
+oC4JHM0WaCNlcZjn2Q01sHQPPmo.mp3,2024-07-27,Real,can't verify all videos but audio real because music,Train
+oCCx7e8TVWg4anfKY_tfOX6bTRA.mp3,2024-10-25,Real,,Train
+oDaizwdh94rEbvGeHldiO4IcunQ.mp3,2024-08-13,Real,,Train
+oDdCw2vgVjCpjNTMjGYXcYeq330.m4a,2024-05-10,Fake,lip syn,Train
+oK6GzjFyukWvm5C3jCkyBy0do_Q.mp3,2024-08-16,Fake,,Test
+oLN2F6frBWsPb4vmnGglgjaKytQ.mp3,2024-10-25,Real,,Test
+oMNQtNXKvHozW_KsCrg2EX-V21s.mp3,2024-07-18,Real,"Appears that audio is taken from another video and placed onto this, and that the face has been edited to match.",Train
+oTxKG34DsQcRR1AYFI7LFCVunZQ.mp3,2024-09-09,Real,Segment taken out of context. https://genius.com/George-carlin-the-planet-is-fine-annotated,Test
+oWaWaqyuXM3XjerZxa63esoNwgk.mp3,2024-06-30,Real,https://x.com/visegrad24/status/1763112845888172089,Test
+ocWsr4tf8_duIcr0793K73nrNZ4.mp3,2024-10-21,Fake,https://factly.in/deceptive-ai-videos-show-doctors-endorsing-miracle-cures-for-critical-illnesses-like-glaucoma-hypertension-and-vision-loss/,Test
+odWU2c8LGjh-CtvhXOTGNsMewgI.mp3,2024-06-11,Fake,,Train
+ofaDP6_fSAgheuV9j4qu-Bn2-tY.mp3,2024-08-06,Fake,,Test
+ohWSBKTQbJ9xN1UXFziboXIf1vw.mp3,2024-08-10,Real,crisp mouth movements: https://www.youtube.com/watch?v=P9bNsvH0VDE,Test
+ohfOBE3HX2SIIo-hNU0O3LcrNvs.m4a,2024-10-16,Real,Real interview. Verified by Washington Post.,Train
+oizyD7dpsWBc_0-KXUiimvYExg4.mp3,2024-10-31,Fake,Images of musk in embraces with robots are fake,Train
+okJHUfDueCAWBgYK4VedE872Nng.mp3,2024-10-25,Real,,Train
+oqIHW202HPAiC8ExMr_gkaqbOlw.mp3,2024-09-13,Real,searchthispagefor https://cpj.org/2024/09/attacks-arrests-threats-censorship-the-high-risks-of-reporting-the-israel-hamas-war/,Train
+oqdGQ5oERo15r4OLk7gYmGWionY.mp3,2024-03-02,Real,,Train
+orC9GOQyjdxx2ItaZTwj2x-jv08.mp3,2024-09-05,Real,,Test
+otOFYptsU4ZZqETszN_4u294WnE.mp3,2024-08-13,Fake,self proclaimed Argil.ai,Train
+ouPx2fwuDkq_8q37oCO_EiO4EkY.mp3,2024-05-13,Fake,self-proclaimed fake,Test
+ovCZfPi_ubmSeQCeZP9V62BwNLE.mp3,2024-11-10,Real,https://www.cbsnews.com/news/possible-shots-fired-at-trump-rally-in-butler-pennsylvania/,Train
+p-IWMRVnj7ov0PayjOUDTNNbSgE.mp3,2024-02-20,Fake,Biden holding press conf that US mil found UFOs,Train
+p-WbwBQ202RnScOzRrUzMgWLUHE.m4a,2024-04-17,Fake,parrott.ai,Train
+p2FS98YGHjuymMe12mNiYI-HKjU.mp3,2024-10-29,Real,Post miscaptioned Reuters fact check https://www.reuters.com/fact-check/video-shows-kamala-harris-with-in-ear-monitor-not-audio-earrings-2024-10-04/,Test
+p55DgK7d4LKB7EAw1stKm2xvCRE.mp3,2024-11-13,Fake,Looks like a cartoon and doesn't sound like Trump,Train
+p59IwPazortrsCTP3E8t9zqSxbo.mp3,2024-08-29,Real,https://www.facebook.com/watch/?v=1444858849555839,Train
+p8BV88_XRXvF3_iBVXuA1Ww0w0Y.mp3,2024-10-15,Real,,Test
+p93b8rUiRNF3v_sYix8S9Jbmwpg.mp3,2024-10-09,Fake,obvious,Train
+p9RDKv_dhJ0zvb_c8rJAd-NMKHI.mp3,2024-10-28,Real,"Lips and mouth are crisp, clear, nuanced, and match sound perfectly.",Train
+p9zt_ZofNZCWWyQ9SgTPU7prkUQ.mp3,2024-07-18,Real,Posted by a politician - video of himself,Test
+pCdKJwX9NH9Mw8Tz6ULXar9q0nU.mp3,2024-03-19,Real,context: https://www.cnn.com/2018/06/15/politics/trump-north-korea-kim-jong-un/index.html,Test
+pGXfD0jifBh-ro8O0mYGbtQWJmI.mp3,2024-04-24,Real,error based on RD errors.,Test
+pH0vVMDR60UQ20oICXIQmVX891Y.mp3,2024-07-27,Real,,Train
+pIR1NSHS1Lf-f8MTyoD-Jy5VSvU.mp3,2024-07-11,Real,audio labeled as real because it is music,Train
+pKdfAdctDZ3qSfAxvkSlwQ0biPc.mp3,2024-07-27,Real,,Train
+pL2h0I4E3K1BC9NQvUG3hsEpW3k.mp3,2024-08-09,Fake,https://apnews.com/article/fact-checking-823776145667,Train
+pLCx3MdVnmqU2ZVY-ZOkjGNGRzg.mp3,2024-09-27,Fake,https://hindi.boomlive.in/fact-check/virat-kohli-criticizing-ramgiri-maharaj-viral-video-is-ai-generated-26595 and  lip sync is off,Test
+pMZ4SvFs8V7-fwpDQEHBypeIz9E.mp3,2024-11-06,Fake,Known fake video. Crypto scam,Test
+pMcZeQ4eu_FYIX9OERGA-xPQCCw.mp3,2024-05-26,Real,,Train
+pNpPy-eTzA1w1zax2PqLK5JgX2E.mp3,2024-06-03,Fake,,Train
+pOFlpauvmmCn6QzrlIaKSXV_ZHw.mp3,2024-10-25,Real,,Train
+pQHK2qZ4rPi8u5G_6MpYDlTduM8.wav,2024-06-29,Real,,Test
+pQK2yGTk5Rp7kz8OBrft_yK8CpA.mp3,2024-06-06,Real,,Train
+pSAyN9ZjB2IL_DyWjLR-o0hyDg8.mp3,2024-09-17,Fake,,Test
+pXMqB8XWDWQX49Td7VMZ5d_gfUo.mp3,2024-02-28,Real,,Test
+p_D-fWGyrj3OkzB91HuBLOyVEGo.mp3,2024-07-02,Fake,self proclaimed,Train
+pa2zdpjEZqOiQK1v0Wrwrq3Urwk.mp3,2024-09-23,Real,https://khqa.com/news/nation-world/resurfaced-video-shows-harris-cheering-down-with-deportation-at-2018-parade-border-immigration-illegal-immigrant-kamala-vice-president-donald-trump-election-november-2024-doug-emhoff-kingdom-day,Train
+paf7ACdwzlIAG_oDcE9pibA8rBs.mp3,2024-03-07,Real,,Test
+pdQtHCangKxw9AiVqod3uNnaDhQ.mp3,2024-09-24,Real,https://www.newsweek.com/donald-trump-gives-mom-100-dollars-grocery-store-1958297,Test
+pdtC1NE5MfpL4I8lmLsi6wlTepY.mp3,2024-05-06,Fake,,Train
+pf17u2W29hcgGaHJX-C8DktB7uQ.mp3,2024-11-07,Real,https://www.donaldjtrump.com/agenda47/president-trumps-plan-to-protect-children-from-left-wing-gender-insanity,Train
+piOi9DUpFpkarcly58x4_B43aZc.mp3,2024-07-09,Real,https://www.bbc.com/news/uk-england-london-68887800,Train
+pirXRIYQcugr1r2Z_or7KYc9QRA.mp3,2024-06-03,Fake,lip sync,Train
+pmoHGcEiSJgZEUs7eDq9MJSLVSA.mp3,2024-11-09,Real,https://www.youtube.com/watch?v=k1GOkRieUW8,Train
+poILt5ODGH16WQvBzoK6p7iP53o.mp3,2024-10-29,Fake,lip sync is off and edited,Test
+prXOcknTVOKh5q3pBWMAcQbHdZo.mp3,2024-10-17,Real,,Train
+pvNecbUUHodHeuzWO5sz8JkqhlY.mp3,2024-05-25,Fake,lip sync is off,Train
+pyUhmnALaXHUb3twcsVsfN0Swek.mp3,2024-06-30,Real,,Test
+q0uY5osP6jlobwbKVER772ecM4I.mp3,2024-10-28,Real,"staged fake evidence, but not AI",Test
+q1KFsxon0GjjjjB8cjnrSGIWZPQ.mp3,2024-10-05,Fake,lip sync is off. Here is the real video source https://www.youtube.com/watch?v=2AUUnLixsFQ,Train
+qAPHPcbI5tDae4NABRPWZx15mag.mp3,2024-10-03,Fake,self proclaim made with Parrot.ai,Test
+qAxMdxja6ITEeO4SPmhEQp1n1Qc.mp3,2024-08-15,Real,"no evidence of foul play, video seems benign",Train
+qBdCBtFL8aqEgXVPMKdpn-EIfMw.mp3,2024-07-02,Fake,interesting,Test
+qC_-_mIxNk9nQSlwmYvubadv8Mg.mp3,2024-10-22,Real,Student interviews Amherst College,Test
+qKWfxR2it86K8e7KgxvQg99nAHI.mp3,2024-05-20,Real,,Train
+qLKW-fortYsuCsIQ16ItfzOrVLM.mp3,2024-09-03,Fake,,Test
+qMbQ_Keste9g31Wriz0W1npxMBI.mp3,2024-06-19,Real,Published by account with stated goal of deepfakes.,Test
+qP6cVwywVHGJbJSHryOD5UG5xYs.wav,2024-05-30,Real,,Test
+qQ8q_n99mnVYXB8kMwJDsWDPayc.mp3,2024-10-18,Fake,,Test
+qRM-iVURM7d6kWIwki8LGr7lmBU.mp3,2024-10-15,Real,,Test
+qS3WHYM9Le_g-3cgEUyKDGQT0Cw.mp3,2024-10-16,Real,https://www.youtube.com/watch?v=59KMB3QL08k,Train
+qT-zFTz57m7XTPugxlaodiFgvCc.mp3,2024-10-25,Real,,Train
+qXCkOZQ_z48F4WM0tooDbh4J9PU.mp3,2024-10-28,Real,Post states this was 2020 elections. Video is from 2022 midterm election showing a standard process https://www.reuters.com/fact-check/video-does-not-show-maricopa-county-officials-deleting-2020-election-results-2024-10-28/,Train
+qYD7LTVSf4gOFb7X0r-4kGtfOtk.mp3,2024-09-02,Fake,,Test
+qZ94iijJM997FJXA6LMczrB6Qz0.mp3,2024-11-03,Fake,Fake from https://humanaigc.github.io/emote-portrait-alive/,Train
+qad6etk4AjhClf5jnFwrH6bIyvs.mp3,2024-10-25,Real,,Train
+qbQcKeU4YokwObdggJtVmlV2O_U.mp3,2024-06-03,Fake,,Test
+qcgE4TYc3oTTei7926cKPjyDkpA.mp3,2024-10-25,Fake,,Train
+qfG8lcZ_Bey5eiLOjdlQaAjM8lQ.mp3,2024-03-29,Real,source: https://www.youtube.com/watch?v=eakJIBykzkc,Train
+qfwrpMtUYqR80i0GtCod6ysMQNo.mp3,2024-07-09,Fake,Russian AI Bot,Train
+qgho-RxB8mdFd50m7QaXjmAWJMU.mp3,2024-10-16,Fake,,Train
+qhtjYEPYaUmKVRrFBj_eADhY2PY.mp3,2024-03-05,Real,,Test
+qoZdFoGXhw0tMOZw9jIv7LvuSaA.mp3,2024-11-05,Real,,Test
+qpD1inGFBP0tP5cYfzC8DF6ASe8.mp3,2024-07-08,Fake,,Train
+qqdOo3_vQsR1eOau-_mz6Ab9JcA.mp3,2024-08-23,Fake,,Train
+qr2YB8FlRZBRcZ0OBZc6QYwMh5U.m4a,2024-11-04,Real,https://www.thedailybeast.com/listen-to-the-jeffrey-epstein-tapes-i-was-donald-trumps-closest-friend/,Test
+qtusd7VLnWcHTJtQjmVjTednP3c.mp3,2024-05-26,Real,real video of fake information,Train
+qvlcHHsJoxtRzxuD2YwH5uboqaY.mp3,2024-09-21,Fake,,Test
+qwYTLTTgJ0VASkxEnVEQ6YS3zZ8.mp3,2024-09-17,Real,https://www.yahoo.com/news/11-old-arrested-mass-school-223703305.html,Test
+qxB1xKXlggwcp-uWiJEUVWqfX3s.mp3,2024-06-04,Real,"obvious and known fake, lip sync",Train
+r-H04gOwE5rja6Yrpw0ZsLrY1U0.mp3,2024-10-18,Fake,lip sync video,Train
+r2gbpWWnflqlXspm9JYbEmnM_M8.mp3,2024-04-20,Real,,Test
+r3cXSXQxxxdQYZVYG1PuUk_f4gU.mp3,2024-05-24,Real,,Train
+rEiYRIrGgHnnk_5gYrlIzfSDz_k.mp3,2024-05-10,Fake,,Test
+rGK__9I7tGQtH4ObTAvAAVulfHk.mp3,2024-10-25,Real,,Test
+rHMo0zVMBz_cphi0Yq7STPBkYek.mp3,2024-10-31,Real,second 0:20 https://www.youtube.com/watch?v=dDLLd16L6ZQ,Test
+rMtq36Aw6kGSqxNDM-mWX6N9CcQ.mp3,2024-07-11,Real,legitimate video of a south american legislature,Train
+rN7AySTzGxCHYrDYJcrqqN9ybNc.mp3,2024-09-30,Real,"due to video techniques used, video marked fake. Original video: https://lincolnproject.us/choose-change-sam-elliott-ad/ Photo overlay not in original subtitles not in original, content is real.",Train
+rT0oEkAyPS5j1iUdSBYV3ZLXtOM.mp3,2024-10-28,Real,This is an old video of Israel bombing Yemen - https://www.bbc.com/news/videos/c4g5z05gwn8o,Test
+rU7axhjfNAXnu-ZySgRYG8dpywc.mp3,2024-04-15,Real,source claims real audio,Test
+rUOKIgAAde94urL6IUZ5CEGDT8A.mp3,2024-10-24,Real,,Test
+rVwwJMCTg-IRtsuCpLYAIXCeYX8.mp3,2024-05-27,Fake,,Train
+rXaXpiNpDzMiCESnUeVyiU2l_3s.m4a,2024-06-24,Real,posted on The Economist youtube channel,Train
+rZVI0fAD5u2XzsvPID5PWug05cM.mp3,2024-10-01,Fake,,Train
+rZzKGnPIv28tRVFK8W6K77rC0Cg.mp3,2024-08-13,Fake,lip sync is off,Train
+r_Z_6x0rJLNcsVNr7WabNdKeu9s.mp3,2024-10-11,Fake,,Train
+r_jq2TgEjHrt8mFJ3iqDnbFP20A.mp3,2024-09-10,Real,,Train
+raaWMYAKdRgMx_w5n660sd28-bE.mp3,2024-05-06,Fake,obviously manipulated voice,Train
+rkh1ElZNyZCRj8lOgvKgQXTKS80.mp3,2024-07-29,Real,text over video. Verfied on Kamala Harris twitter account,Train
+rmwhvQbUUqh6DU3CHW1GzT7n6HQ.mp3,2024-03-29,Real,source: https://www.youtube.com/watch?v=wCuBnvaquL8,Train
+roOEyBMNDdjO7hhc0FdVtoP2q0g.mp3,2024-08-23,Fake,,Test
+ryDKey__lRWwvU5rNdakrlhs-WM.mp3,2024-10-24,Real,"staged fake evidence, but not AI",Test
+s1scw6WyDE2YeyPpi9jENkZ9uqI.mp3,2024-09-23,Real,,Train
+s312lhVvTjHx1RWpe5dgP24Meo8.mp3,2024-09-04,Real,https://www.youtube.com/watch?v=ZM8Xc3yZolc,Train
+s3YtUkweCGb8HADQ1sbmb8S6Syk.mp3,2024-11-03,Real,https://www.npr.org/2019/09/23/763452863/transcript-greta-thunbergs-speech-at-the-u-n-climate-action-summit,Test
+s9cj6S05ZDlvdHfUO2q_7sEsYNE.mp3,2024-02-27,Real,real interview,Train
+sDVVD1V5hXv6_fYXYAgCu_q3ACg.mp3,2024-09-24,Real,https://www.youtube.com/shorts/RRtv74fbbtk?app=desktop,Train
+sEXGho6Q11_phHQed14cRc8MzUw.mp3,2024-10-31,Fake,actual video of karolg talking about mental health: https://www.youtube.com/watch?v=WpVYMX8-Srk Voice is fake,Test
+sHMOol8aLRAimkNEQ3n0UBJa-pY.mp3,2024-08-09,Fake,Surprising we got this one wrong notable,Test
+sIaedt45AyU0lWRsMLyFDqdiyLM.mp3,2024-10-17,Real,,Train
+sK_Uyz_sEqu0TEW4wOrs_0hFd88.mp3,2024-05-06,Fake,Confirmed by The Decoder: https://the-decoder.com/deep-fake-activism-campaign-uses-ai-to-target-germanys-far-right-party/#google_vignette,Train
+sOtabpMa3MojMIVxc6w2szXsPiM.mp3,2024-11-06,Real,AI generated,Train
+sRFPd70Nr_dAakHinw8P4L_zNNk.mp3,2024-09-18,Real,,Test
+sT2LIImfV7aYEmulrKQRmWhYn9w.m4a,2024-05-31,Fake,https://www.youtube.com/@reidhoffman,Test
+sU5pm5v8Kg4Hq-2-DvQ1htETgyM.mp3,2024-10-25,Real,,Test
+sYZCCfTezhR66vZ0p4byGptKsG4.mp3,2024-09-25,Real,,Test
+saaYu2-i-0le_mzDan_W_x_BH1o.mp3,2024-05-26,Real,"Nov 2022 video is posted all over, including fox news https://www.foxnews.com/video/6315687463112",Test
+sd4DZ59n3MJLbLWXosoLmxQasBQ.mp3,2024-11-08,Real,speech: https://www.youtube.com/watch?v=NcMVdh915AE original video was edited from a speech to be dramatized: https://www.newsweek.com/trump-dismantle-deep-state-truth-reconciliation-commission-1789374,Train
+sjuyguuSNPBP109SgcorGqO1ZfA.mp3,2024-09-20,Real,minute 25:30 - https://www.cbsnews.com/video/kamala-harris-speaks-to-national-association-of-black-journalists/,Train
+skNhHbmqt_pfuIA-v-jkoGi8m_g.mp3,2024-09-12,Real,,Train
+slC5iP64KBwgYGLEYjhDtndzfEQ.m4a,2024-07-02,Real,,Test
+soDMBDWYgGqqBHhOX-EYFz0PsH8.m4a,2024-03-19,Real,,Train
+srFmETZLQy91HMMrxieXS0M0opM.m4a,2024-03-25,Real,,Train
+su5YWOehUQ-WKSr89dOI02-WAAA.m4a,2024-06-22,Real,,Test
+svlk0wELw7lNvjVg5XlfCORwaBw.mp3,2024-05-06,Fake,,Train
+swoLg8E76aMOsZQVY9u1FnML_S0.mp3,2024-08-15,Real,video from Harris campaign,Test
+sz1kI47xnyztcyIWnI8pYvVvr_4.mp3,2024-10-28,Real,Misleading claim on opponent cutting Medicare https://www.politifact.com/factchecks/2024/oct/22/bob-casey/pennsylvania-sen-bob-casey-misleads-in-ad-claiming/,Test
+t3M625cEDoh740avzGyML0P_x6w.mp3,2024-10-25,Real,,Train
+t7D1kVp5FyQesKYVMgqhHVcEOcU.mp3,2024-08-28,Fake,,Train
+t8ev_tFGBrdh-GJVfWXJ78eBZRA.mp3,2024-10-22,Real,,Test
+t9rsrhxYOZTyZG7XMugLnOI-B2M.mp3,2024-03-07,Real,,Test
+tETe7edpjtQ3IC9VaRxup0JroR8.mp3,2024-09-28,Fake,lip sync is off,Test
+tG78Iq_aVHuU_uJWUvrQiwwDiRE.mp3,2024-07-08,Fake,Known deepfake. VIdeo from 2022 holiday address https://www.youtube.com/watch?v=22dVTt92VD4,Train
+tGz_InUFVTpKgkSmA3Qhx5cwxmE.mp3,2024-09-24,Real,Posted by NBC profile: https://www.instagram.com/p/DAP57lZxKcN/,Test
+tKR0TQ_Zo79NsSTWn_yX77tcFYc.mp3,2024-06-12,Fake,,Train
+tKyI9nCwW0jPoWyM1doHo_8T92k.mp3,2024-09-25,Fake,lip sync is off,Train
+tLMsM8t7PmPy4x8DtmnT9zkBe7A.mp3,2024-04-06,Fake,,Train
+tML8mSzOXobGegLVoHTKONiIJH4.mp3,2024-10-25,Real,,Train
+tMZRLQlh4tgT49AIODi_H44tHTA.mp3,2024-05-27,Real,real clips out of context: https://www.indiatoday.in/fact-check/story/modi-did-not-accuse-karnataka-people-of-committing-sin-viral-clip-was-cut-out-of-context-2533036-2024-04-29,Train
+tQYVpTccbvxjTTsLUtcHpXz7X8E.mp3,2024-08-09,Real,deepfake comparison left vs right,Train
+tTQdN5uzFCob-mZRNqPoD7Wm9DI.m4a,2024-03-25,Real,Assumed real video with live voice over,Train
+tTSiZ6oKreyJKJFDNkUXzgV6YlU.m4a,2024-03-18,Real,,Test
+tWt8ubQDPtFZI8eqiwJnG1yYZPw.mp3,2024-10-08,Fake,,Test
+t_5E5Q-Mi_-OWP333h-JX8txJQg.m4a,2024-05-22,Fake,,Train
+tcTr_lybhVzzaesordWcTj3nZdI.mp3,2024-09-23,Fake,lips are indistinct and lip sync is off. Watermark on video notes fakeAI.io,Train
+tdtfGseg1qSrBnvNnCVHtWlXxgk.mp3,2024-10-08,Fake,lip sync is off,Train
+teNR1O04Ni6J8pvc_ia10EtlYo4.mp3,2024-02-22,Real,"Supercut of Trump saying he knows everything about various topics, running back years. NowThis is a social media news outlet.",Train
+tnSDQpxfoOal7i_1-Cd8XVxFCUg.mp3,2024-09-19,Fake,,Train
+tpWRxmA0bBcPPj1SsoZMVR3NfCE.mp3,2024-10-29,Real,25:02 https://www.youtube.com/watch?v=7quxn-39XZk,Train
+tpuyL4oMECmXxFpT-OJbL1Lja8w.mp3,2024-04-30,Real,https://www.youtube.com/watch?v=F4G6GNFz0O8,Test
+tqzmCr6KUZYyD6ESehOVENoVyXQ.mp3,2024-11-02,Fake,This AI-generated video is from the TikTok account @9thdiocese.,Train
+tsE7J_BJPfDknmU3PcN9UvGVNf8.mp3,2024-06-05,Fake,lips jump,
+tsG5pcmu3r5uaQqsCYiFOVQcIh8.mp3,2024-10-09,Real,https://www.youtube.com/watch?v=xtwT8wIXmo0 and https://www.cnn.com/2024/09/26/politics/kids-politics-trump-harris-what-matters/index.html,Train
+tssLYUCbDVRCDMI9jzYDa1AUEQs.mp3,2024-06-28,Fake,,Train
+tw2D2T5AIcHwFOt9O8VmduZyRco.mp3,2024-10-21,Real,https://www.cbsnews.com/philadelphia/news/donald-trump-town-hall-lancaster-kamala-harris-pennsylvania/,Train
+tzEiU3iNVrgUfH7hhPIZ4Cyc8lc.mp3,2024-07-25,Real,clearly real,Test
+u3aBPTvr5ENfh5izxsq6DPjPmbE.mp3,2024-05-25,Real,https://thedispatch.com/article/fact-check-a-video-claiming-to-show/,Test
+u86cZ2gl0MayqvdkdKAuTPct0z0.mp3,2024-05-14,Fake,lip sync,Train
+u9qfGEYauXoeWyIVmg5CYKB9HmM.m4a,2024-04-10,Real,,Test
+uA76JLHPD8tjURjySbrufGB5f3o.mp3,2024-06-25,Fake,self proclaimed fake,Train
+uATvEAAHQy3bR5nayaM3CQhPRK0.mp3,2024-09-12,Real,https://www.yahoo.com/entertainment/tom-holland-robert-downey-jr-221717784.html,Train
+uBX34evW6Xc96d3dwAkiR-aYCj0.mp3,2024-07-22,Fake,fake lip sync off ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Train
+uBYP5Bgeixk3s-xnjFX_qfraP6M.mp3,2024-07-26,Real,https://www.c-span.org/video/?537366-101/vice-president-harris-speaks-reporters-meeting-pm-netanyahu,Test
+uF5Fw4GymIgOkibkA8Nv-DSfFgI.mp3,2024-11-13,Fake,Images look digitally manipulated or phtoshopped,Train
+uHbWPDu3GeJyFQPVFYO228F2W4A.mp3,2024-10-17,Real,,Test
+uL8eJEJBh_Va_YfaiOTKEK6O-Ew.mp3,2024-06-16,Real,it's just music.  the models are wrong.,Train
+uLj5wq6RSRX---4KiLjiv9LF_04.mp3,2024-09-14,Real,,Train
+uQ2rsg6Xhmkq5NloxpzhvVxPS2k.mp3,2024-11-04,Real,"Lips and mouth are crisp, clear, nuanced, and match sound perfectly.",Train
+uTFiw89IKnG-gN9fL1Xer5y5vXk.mp3,2024-09-05,Fake,lip sync is off,Test
+uYiwHTyU0WMX3NEXieyuNY17zng.mp3,2024-09-18,Real,crisp mouth and lips,Test
+uYwBJvy8tEAbPZ3g-fipqwC55Pw.mp3,2024-06-12,Fake,,Train
+ucQfTBDid1s16mjDT9uw6Xe4Uj0.mp3,2024-06-01,Real,,Test
+ueBkBx7uIEdz2xnadT27yRQ8knU.mp3,2024-08-09,Real,"Benign video, not evidence of manipulation",Train
+ufkiTF2t__TRyu_9-oP9aa9p6J4.mp3,2024-10-29,Real,"Edited - In this particular statement, Kamala is referring to Adolf Hitler not Donald Trump. Here's the link - https://www.youtube.com/watch?v=6CwccBTtwpw",Train
+ugYn8eGIQG0kGbqSUAOoR2SI3Wo.mp3,2024-11-04,Fake,Lip sync off,Test
+uiWwGXwHOSZ1KZ-unqJZKHSiViQ.mp3,2024-06-22,Real,,Test
+uj1zq-BLYwqnIKZk3gVJ42EohM0.mp3,2024-09-13,Fake,,Train
+up-vFD8G6RN5XS1QZL-FDkaol6E.mp3,2024-07-29,Real,,Train
+ur_XGuvtRPpt2ue1IM-ww9J2qNk.mp3,2024-06-06,Real,,Train
+uwYgrtxLDeuscUSiMfJJ2FkhiAQ.mp3,2024-11-07,Real,https://www.vishvasnews.com/english/world/fact-check-prince-charles-did-not-unveil-a-portrait-labelling-netanyahu-as-terrorist-edited-video-goes-viral/,Train
+v0qp1docmubh0adPw7VbqIsodCI.mp3,2024-10-31,Fake,Karol G has not announced any pregnancy and photos of her being pregnant are fake,Train
+v0tftQceFM-D16S7qpPm5e9xlFA.mp3,2024-11-03,Fake,,Train
+v4XcfsrInnCRNKxAssI3-PYkYWc.mp3,2024-06-30,Real,https://www.msn.com/en-us/news/politics/biden-and-first-lady-jill-make-late-night-beach-trip/vi-BB1ozHir?ocid=edgsp,Train
+v50p7yw_1L3KglBqs88XzG4glWc.mp3,2024-06-28,Real,https://www.cnn.com/2024/06/27/politics/video/sucker-loser-biden-trump-cnn-debate-digvid,Test
+v6lHkbU1zeh9dyNnyJ5LVN3IEzE.mp3,2024-09-26,Fake,,Train
+vAr_gpudYhu4Ewmk_UHSurCobTI.mp3,2024-10-21,Real,around minute 6:10 - https://www.cnn.com/2024/10/20/politics/video/sotu-tapper-johnson-testy-interview-trump-rhetoric,Train
+vBPsjmupAX5vBwMggTmrfhnDvaM.mp3,2024-06-19,Real,Published by account with stated goal of deepfakes.,Train
+vHvhMwg4aN8FeIb6g2VKo1cMtQA.mp3,2024-05-06,Fake,coalter.palmer@newsguardtech.com,Train
+vIBD8PZbgJtrBFeCV2Y7AKe-UiQ.mp3,2024-05-14,Fake,lip sync,Train
+vIaeoC-Tot7n1ATF0dcHcpOiTCQ.mp3,2024-07-25,Real,"audio is music, cannot verify newspaper",Test
+vK4uFL-qudIJ4yha2s79005P4So.mp3,2024-11-03,Fake,,Test
+vWvNvUnffUCUX8vqSuXhakKgbyY.mp3,2024-10-22,Real,Overlays are satire. Video clip is real. https://www.politifact.com/factchecks/2024/aug/22/viral-image/no-this-video-doesnt-show-former-president-donald/#sources,Train
+vX5m94qpOya7MkotJC4XSuUEshE.mp3,2024-04-09,Real,source: https://www.foxnews.com/video/6345020689112,Test
+vYIEx4hUcybb6P3KW3ok27ZmHTw.wav,2024-06-29,Real,,Test
+vYRtjnG1saCETIdrV3VI6v7bVoQ.mp3,2024-10-24,Real,,Train
+v_MkwP5FeN_UtWnlo6qxEspegI0.mp3,2024-09-03,Real,"here's the original, full interview: https://www.c-span.org/video/?464013-4/jeanine-pirro-radicals-resistance-revenge (see 38:13-39:31)",Test
+v_ZfrevlFLoUEWyjx1UAuRN_Q9M.mp3,2024-05-20,Real,,Train
+vaXwKr7DeIamzGy3xccB3-2P6es.mp3,2024-10-17,Fake,,Train
+vcAyDBlTYIY_IMEDGG6Gga-bO9A.mp3,2024-10-04,Fake,https://www.aosfatos.org/noticias/deepfakes-william-bonner-voto-candidatos-vereador/,Train
+vduKoNma9Nd8NHFHyx7yC0dCZ2M.mp3,2024-02-11,Real,context: https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town,Train
+vdvAGDrMbcxBlSO6KGUetKwJDPI.mp3,2024-03-18,Fake,"Face swap, fake audil created by C3PMeme",Test
+ve3m1Q_yuovyfssECmPRzr0069o.mp3,2024-10-29,Real,Lips are crisp and matches the voices perfectly - https://www.australianjewishnews.com/un-school-students-taught-kill-jews/,Train
+veNRNgaI8P0zmQMcm0WqnQiygrc.mp3,2024-10-31,Real,"Lip sync is off.  https://factcheck.afp.com/doc.afp.com.36KE2QZ individual impersonating someone else, use of AI inconclusive.",Train
+vefe4yzy5seOjzqEyv3rm9o0hVI.mp3,2024-04-17,Fake,,Train
+vegd3upTOmgopaO_3Tgac9gHCZ0.mp3,2024-02-21,Fake,,Train
+vetYIsG1VG19G4LUVVwmHYZ34BQ.mp3,2024-06-11,Fake,,Test
+vhohvHhWbGY6AaPb-op8YfNYH0w.mp3,2024-08-07,Real,Snopes - real,Train
+vilmozXUFX_inlHr1lEz8DC9bko.mp3,2024-10-02,Fake,Ai generated news clip.,Train
+vj6ho2bBjdaZdUZB11lv3wys0FE.mp3,2024-08-27,Real,,Train
+vkw3sXjl0HsZJPWHTgWDcf81VG8.mp3,2024-03-07,Real,,Train
+voBEKsjhvnbr7-1Dii8p4G7qDwo.mp3,2024-08-17,Fake,https://dfrac.org/en/2023/11/01/is-jordan-standing-with-israel/,Train
+vq9orS7NHhqBGmUnFI1Jn9myRLs.mp3,2024-07-11,Real,"https://www.knack.be/factcheck/factcheck-deze-beelden-tonen-niet-de-israelische-ambassadeur-in-belgie-maar-de-burgemeester-van-ukkel/  Widely shared video of a protest across social media. No evidence of lip syncing, and the audio seems to match the video context. Hence, labeled as real.",Train
+vt2D354hUFLS-jOUaDaCY8AA_gw.mp3,2024-09-24,Fake,,Train
+vtvOrrHk0_3zxFg2Xeba2YIN4Rw.mp3,2024-10-21,Real,https://www.youtube.com/watch?v=bxDgViFOBYQ,Test
+vuC3uB3KGjaoH-qlupCvOCcC3q8.mp3,2024-10-08,Fake,lip sync is off,Test
+vv7qk4tg8Lj8qa5StEjNWS0kvPM.dat,2024-04-24,Real,,Test
+vwklHHF29MSTV6aeOaoUaqRELTU.mp3,2024-05-30,Fake,lip sync,Test
+vzbYQCeVQNeEzxOo9dECrfBriMo.mp3,2024-10-09,Real,https://officechai.com/stories/im-proud-that-one-of-my-students-fired-sam-altman-nobel-prize-winner-geoffrey-hinton/,Test
+w-0Plqc84R-6TMDq4xPVktjPO3s.mp3,2024-03-29,Real,,Train
+w-W4LOOarFyJMpU9At8eD4C33Kg.mp3,2024-09-23,Real,Posted on Inside Edition's youtube channel: https://www.youtube.com/watch?v=e8iZw2yWb7M,Test
+w39mW5sguBNuP7kgOCPJBTxFRkk.mp3,2024-10-02,Fake,obvious https://www.newsmobile.in/nm-fact-checker/fact-check-deepfake-video-of-sundar-pichai-promoting-invest-platform-surfaces/?fbclid=IwY2xjawGuCUtleHRuA2FlbQIxMAABHfMRffHG-9Ue_m8VYif3FNLAxhUhwhHxvnpAyIo0K96XcW74btROckzJ-A_aem_MN9auY9TQlL-ZqeHIyiXAQ,Test
+w463vIyNpF7ysP8POJj-EGYKoYY.m4a,2024-05-31,Fake,https://www.youtube.com/@reidhoffman,Test
+w5dbvNlrQC8OxqrkoToEzZ80BME.mp3,2024-08-12,Real,lips are nuanced,Train
+w5ewXK5KtdNNDZLhcx6kF9pJLAk.mp3,2024-07-11,Real,"video appears to be of a government meeting. No evidence of doctoring or of lip syncing, so both marked as real.",Train
+w5vmUy5kJjtyIxEO-0FpmVA4cto.m4a,2024-08-16,Real,,Test
+w9NA9ZLamcNC7V0-2aa9JWZJS8I.mp3,2024-09-23,Fake,lip sync is off,Train
+wBJW94OCS2iQe6LygG4BSe_VZxI.mp3,2024-10-19,Real,Freeman's voice is imitated by Boet Schouwink,Test
+wBlAkKDl_i3P54HcfueN7agZM2c.mp3,2024-09-26,Real,https://www.msnbc.com/11th-hour/watch/kamala-harris-first-solo-network-interview-as-2024-candidate-i-msnbc-exclusive-220163653802,Test
+wJOrFfVefvzJUiwQsazjAPnlECE.mp3,2024-07-17,Real,,Train
+wJZOScNbyrSBUjKGKNmySyxgA08.m4a,2024-05-22,Real,,Train
+wJmgwCx9nmYVfpq-IA7Wp9OwXFg.mp3,2024-06-27,Fake,Known fake,Test
+wLUPwSJk30FfpU_jHV1o2KWLucg.mp3,2024-11-06,Fake,,Test
+wM9JxZL8lrm_CvMurOHra9DZYJA.mp3,2024-10-17,Real,,Train
+wMnoVUOjZkpAFpMvAB5D0EiljxI.mp3,2024-07-19,Fake,Self proclaimed AI generated,Train
+wOZolj2IFyBnG8dbw5XqNuPyHLM.mp3,2024-06-03,Fake,lip sync,Train
+wOr4ZmRuoTJzs4YMnY_u5fx-LBw.mp3,2024-06-11,Fake,,Test
+wOweAWEbNB7uwEwXUnZe2GZS6Ls.mp3,2024-07-22,Fake,lip sync. Quanum.ai is known scam,Train
+wTUD9q68yqs-dOQWT5fqbxsGJ8A.mp3,2024-10-22,Fake,AI created song https://www.tiktok.com/@aiartistnepal/video/7322808172719246600,Train
+wV96CTo7uG829QY19dnwR99y5ao.mp3,2024-10-25,Real,,Train
+wWBVUgaZeN2aO9q-0pZyTSgqyeY.mp3,2024-07-12,Real,https://www.yahoo.com/news/california-nudists-rescue-tourist-pirate-160200712.html,Test
+wWahe0A7Oat-xFTdrBE_3TTHWQE.mp3,2024-10-02,Fake,Self proclaimed. Created by Ctrl Shift Face and AI voice by stable voices,Test
+wZ8v6l9QuszxNeDgP2j8K2Xg4W4.mp3,2024-03-04,Real,source: https://www.theguardian.com/us-news/2024/feb/26/ai-deepfake-quiz-spot-the-sham-audio-of-trump-and-biden,Test
+wZLyYOPBFSw0WqZndvTKhifk8B8.mp3,2024-10-21,Fake,Known fake,Train
+waAPysSubFKpro1iVWURbp1gSnI.mp3,2024-07-11,Real,cannot verify video but is almost certainly false. Music audio so I labeled the audio as real,Train
+wac5L5bYS_PSOBW2-tNTZGJzasQ.mp3,2024-11-05,Real,,Train
+wexez9xf5IH9VOTG56ZjzpdlG1g.mp3,2024-10-15,Real,https://edition.cnn.com/videos/politics/2024/03/28/larry-david-trump-chris-wallace-wtcw-lcl-cprog-vpx.cnn,Train
+whZxlnvYgx_Fz1KygeRAvy2BlZ8.mp3,2024-09-10,Real,Snopes confirmed misleading https://www.snopes.com/fact-check/trump-very-fine-people/,Train
+wiW_wfJWUGtSaIVRjyK3AigSmHo.mp3,2024-10-04,Fake,Lip sync is off. not sure if AI or traditional editing. voices are AI,Test
+wiuoS_s-auVgHwyd3F-ZBUSfLj8.mp3,2024-07-08,Real,https://www.deviantart.com/bliaha/art/Anne-Hathaway-ripped-abs-flexing-947205905,Train
+wjEz-V_f2O2hZg_VFaLNCfdaim0.mp4,2024-06-26,Real,fox news,
+wjG4B0huXptIkbBpC4UdOjdEkpQ.mp3,2024-10-21,Fake,,Test
+wqVyxeGt61YNRwqw8ZxeXTYedRY.m4a,2024-05-31,Fake,https://www.youtube.com/@reidhoffman,Test
+wrR_ltNUaVC3W529xD7RqPNBoME.mp3,2024-10-25,Real,,Test
+wsnT30AF_2lyqVziMH4ryMEe9uI.m4a,2024-08-03,Real,nuanced mouth. but has a photoshopped image in the upper left,Train
+wtJ0c0fQ8O3rAPD4e6xRpzk1rz4.mp3,2024-05-24,Real,,Test
+wuwtxuMrwhxcBgeDmTCCEvanqtE.mp3,2024-09-23,Fake,the mouth face and body are obviously AI generated.,Train
+wwzmKZkRxsoJgNRgqoEYoFcVwww.mp3,2024-08-09,Real,song causes transcript error,Train
+wxBuv4Est1HX-g3pr3jTvmCTI7s.mp3,2024-10-29,Fake,Obvious because lip sync is off and video clips are edited together,Test
+wyEQJSuLOHiOxDk-EKNxoQXoc3k.mp3,2024-06-28,Real,,Test
+wyu8OQS8ssZjCrRcEf8mzBr1mfU.mp3,2024-08-19,Real,https://www.youtube.com/watch?v=K3qYJoSV0lI,Test
+x0AKAJCNSjIZ2RatIpCAZqtuREo.m4a,2024-07-10,Real,,Train
+x1dOTnV4tYcPM1xVb-kz4CqAPEg.mp3,2024-06-12,Real,,Train
+x2ZOHnMMXD9FZ3JHJCoMPWKVUkI.mp3,2024-11-01,Real,The screen shows translations of Kamala's talk - https://www.youtube.com/live/XdvHSwQswoI?t=363s,Test
+x4e_guehwyfC5OhlAofT65Uih6E.mp3,2024-09-24,Fake,,Test
+x9H5gGgWE6Hs_vZq_X2Y7U5dH3E.mp3,2024-09-23,Real,,Train
+xAyoap17gaORoFMIXp7fEV_7U2s.mp3,2024-05-26,Fake,,Train
+xChVUYpGPSd5zukNoaSd8q02L4c.mp3,2024-08-06,Real,,Test
+xLRR-LQ1ny_dOejb8fuQFfAlCSA.mp3,2024-08-15,Fake,Clear evidence of deepfakes and lipsyncing. There are known examples circulating of similarly high-profile news anchors and public figures endorsing a MrBeast casino that doesn't exist.,Test
+xLo0BGfRoyYdFUhyQfRm9mlEWv4.mp3,2024-07-05,Fake,,Test
+xOGOrjMLMeYiRM702MmCyKIPwM0.mp3,2024-05-21,Fake,lip sync,Test
+xQV2SBY80Ip7JqVJ1mkMOaNnaxk.mp3,2024-10-06,Real,https://www.c-span.org/video/?530219-1/presidential-remarks-hurricane-idalia-live-oak-florida,Train
+xQjNHFtQlZ3ByMvmsYsOP0fWbpc.m4a,2024-06-12,Real,video is real posted on obama.org. initial picture in this frame is real but appears to be added to front of the video https://www.pinterest.com/pin/467741111281219394/,Train
+xQr5Pb2-svnmlxfZ61KxjXI1F3Q.mp3,2024-07-16,Fake,ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Test
+xTmYcD-EDQv8vGO9VmyGc7Pr6k4.mp3,2024-11-07,Fake,Lip sync is off,Train
+xYcmBsrk8SL3ubdouk15BqupRlw.mp3,2024-07-22,Fake,obvious lip sync off ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Train
+xd6H8355t63BO-Hqd_uJ2zAfKLQ.mp3,2024-10-18,Real,out of context and misleading: https://www.newsweek.com/did-mike-pence-endorse-kamala-harris-viral-clip-fact-check-1969134,Train
+xfKWla1or08R8Z2_qqu7YNMnCoY.mp3,2024-08-15,Real,,Train
+xj17VCL-uePIstzu6IKU2OMJ1S8.mp3,2024-11-05,Real,"real clip, but eyes have been edited https://www.youtube.com/watch?v=fCF8I_X1qKI",Test
+xk3Ii0A7irydqPS8LToylRIvpXE.mp3,2024-09-28,Fake,lip sync is off. satire,Test
+xoNPIEyL5lRLTKcnfF5YOKc4TZc.mp3,2024-07-18,Fake,https://www.banklesstimes.com/robots/quantum-ai/  Ryan Reynolds not associated with Quantum AI https://techbullion.com/quantum-ai-trading-canada-ryan-reynolds-review-is-it-a-scam/,Train
+xrcVl3lx5Tj8WwBCbNK5jxCwjV8.mp3,2024-10-24,Real,https://www.youtube.com/watch?v=yVEGcBW7gHA,Train
+xrdO0V29y8Lmmg28GIgbTXNG61s.mp3,2024-06-03,Fake,,Train
+xs75ctSZknQue4UfDYE4DrS-5-4.mp3,2024-08-21,Real,https://www.msnbc.com/deadline-white-house/watch/trump-allies-prepare-draconian-project-2025-214101573829,Train
+xsiev3qTnPc-9L73tH4mHsuq3Ag.mp3,2024-10-14,Fake,"lip sync is off, Bakir Izetbegović was never interviewed by welch obviously",Test
+xtqzUi0s8Y5PwCWDIS-5WxBouus.mp3,2024-03-07,Real,source: https://www.americanrhetoric.com/speeches/adamschiffcongressrussianactivemeasures.htm,Train
+xunwnRVF46LjtyKivy48CmmZyhU.mp3,2024-09-10,Real,crisp mouth/face movements,Train
+xuvcrU3PUW7SKnY-mf516bpFF4Y.mp3,2024-11-14,Fake,Ambani and MIttal have not launched an earning platform together,Test
+xwHXzTZl5YCLLyqtFeCD8ktzIFw.mp3,2024-07-09,Real,,Train
+y7o_Wi18u7facMNC2US56HPjTFs.mp3,2024-09-16,Fake,lip sync is off,Test
+yCCWEnssssmXqM6kc4zQAKhrBLo.mp3,2024-10-29,Fake,obvious because the lip sync is off and edited,Test
+yEUss4C4UVv6SpAnRLfx5nm-ah8.mp3,2024-04-24,Fake,voice overdub,Train
+yHLPQMlCJoL7vkS4CPffxdXvoMo.mp3,2024-07-03,Fake,obvious,Test
+yIMBXw6B83c2sNzLYE1mNrOufq0.mp3,2024-10-17,Real,"crisp, nuanced mouth movements",Test
+yMXmqnCP9oh9F6CqE2YtLJozDeI.mp3,2024-09-17,Real,https://www.yahoo.com/news/tim-walz-advises-men-listen-001707756.html,Train
+yPC63OKRVgIrJeApZWp8epOUEIs.mp3,2024-02-16,Fake,,Train
+yS1ozyj6fuopO8Ze8t3_M9LtSdw.mp3,2024-09-24,Real,https://www.washingtonpost.com/video/world/dashcam-video-shows-rocket-falling-on-israeli-highway/2024/09/24/399c7615-26a2-4d85-a0e1-2a5fe0692041_video.html,Test
+ySuVi6Sd7KkbTVSCKBe07WZUDZY.mp3,2024-08-05,Fake,,Train
+yT8bhbVP84FomVTtCHmOLoOePn4.mp3,2024-03-05,Real,,Train
+yaM_JsaoMosBQmp8hrV70AD4-Ys.mp3,2024-06-16,Fake,,Train
+ydlRx7uhYKaYPpSZPgDwJKXRVwY.mp3,2024-05-21,Real,This is a real clip that is just shortened and taken out of context. This may be the real clip: https://x.com/i/status/1321154794703052800,Test
+yeCz7c0vYHtzUHzKaBUU8UBrcVE.mp3,2024-10-25,Real,,Test
+yg_Lsly0YYTw-7O0JSKzfhyfTqE.mp3,2024-10-31,Real,"Lips and mouth are crisp, clear, nuanced, and match sound perfectly.",Train
+yiJV3yH5y-hh_7PtyDR0zcY9zf4.mp3,2024-10-02,Fake,Self proclaimed. Clip created by AI. canny.ai,Test
+yjZeP2Z2ZYxYjWztQIQXDHjlgU8.mp3,2024-10-02,Fake,lip sync is off. Altered audio https://mythdetector.ge/ru/rasprostranyaetsya-ocherednoj-fejkovyj-post-o-sokar-s-fabrikatsiej-video-zurabishvili/?utm_source=facebook&utm_medium=see-why&utm_campaign=mythdetector-factchecking&fbclid=IwY2xjawGuB3FleHRuA2FlbQIxMAABHWp_BNcqAfVDme70WAFGwGUz3k9hJdG9mI85tkt_bt7_yTftX3SdTuk7tg_aem_LfBMpttzqZjTVxE2jDNkfA,Train
+ykxzrE7gaEaTGOJKU1Ez6Fz26jE.mp3,2024-06-28,Real,,Test
+ylFA2i4b-ZLf47pzEcCf8GRu3Xg.mp3,2024-10-30,Real,https://www.thedailybeast.com/biden-seemingly-calls-trump-supporters-garbage-during-cnn-interview/,Train
+ylUxctRpgu_Aqya7Mg268MLaf5M.mp3,2024-05-21,Real,"spliced real video to make a fake robocall, but it doesn't use AI",Train
+ymNd1yGuB8DlkO0YfLg-YtfSxMU.mp3,2024-05-22,Real,https://www.nytimes.com/2024/05/16/technology/ai-voice-clone-lawsuit.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb,Train
+ypk0lAaNi6P4H13_E5MHK3gTATU.mp3,2024-05-06,Fake,,Test
+yr0vklr8v7byzBG6DwsjylRIgyU.mp3,2024-09-25,Fake,lip sync is off,Train
+yrrk3L2A4JXoPY-GfL6ZxjMcTaE.mp3,2024-03-13,Real,known fakes deepfake tom cruise,Train
+ys31q75Z-21UiZyJ-7jQ69w2f84.mp3,2024-06-28,Real,,Train
+yuF9UBWZZpaqcFQN1swK_rT6sSo.m4a,2024-06-06,Fake,lip sync,Test
+yvX_6-vlvYfDSbo8vK0OZN9Tepc.mp3,2024-10-01,Fake,Erik ten Hag has never spoken about anything but his commitment to his team publicly. Cannot find a verifiable source saying otherwise. All models indicate this is a fake voice. Made with clonos.io,Train
+yzFYJ2NIuQ1W2lozxpkJUqv4epY.mp3,2024-09-06,Real,"Movie Pipps, singer Ishaan Khattar https://www.youtube.com/watch?v=we_U_WNM4Zk",Test
+yzTS9Tpiz94gsYDSl4hycmhMy0k.mp3,2024-11-13,Real,The clip was edited: https://www.politifact.com/factchecks/2023/feb/28/viral-image/video-misleads-on-the-single-word-president-joe-bi/#sources,Train
+yzrM5-qS4ShD-7p2JDQSJdXsG78.mp3,2024-05-28,Fake,,Train
+z-QLoz_RmrkkjKVEmcazPeBYE_Q.mp3,2024-07-22,Fake,fake ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Test
+z0N6hk8lltTW6lIXwBIevrluKys.mp3,2024-11-04,Real,"Lips and mouth are crisp, clear, nuanced, and match sound perfectly.",Test
+z2AuUugw5aEW63Icgj0L6aM_BjA.mp3,2024-02-20,Fake,self proclaimed. End of video states footage is not real,Test
+z3-O3S0V_oWWUvTmjMtA7mMXXcM.mp3,2024-06-14,Real,,Test
+z47zsyZnXcxOIuDE2vVfqTM7xtg.m4a,2024-03-27,Real,,Test
+z4Af5DTZtRFXwoRe-79hdz2o6S0.mp3,2024-10-25,Real,,Train
+z7hMwSPfQqej1Md78XEG87Yrruo.mp3,2024-10-26,Real,https://www.yahoo.com/news/viral-video-shows-woman-yelling-035339799.html,Train
+z8Qc36hHmPahq_7WgtrKT4_wSSQ.mp3,2024-10-17,Fake,lip sync is off,Train
+zBRi3wsAJ6Cpm5CUZjCqxXbWZ4Y.mp3,2024-06-07,Fake,lip sync,Train
+zE20smzK57tAjzYVyygUsh7ilKc.mp3,2024-10-10,Real,https://abcnews.go.com/US/wireStory/view-hosts-swinging-donald-trump-day-after-insulted-114691026,Test
+zJvFR4YrUefyM2MlEKGlPVNyc50.mp3,2024-11-01,Fake,Known financial scam video,Test
+zKp_JooJlF9GjQS33PmDQ1zq0E8.mp3,2024-06-14,Real,,Test
+zLVVJ-CKJ0l5JdBCR2ZXzVDY3IA.mp3,2024-07-02,Fake,"The movie the dictator did not use AI in its production, the voices are dubbed over and fake",Train
+zPeOLNbMzAYW-3ObzGcZcLHd5IM.mp3,2024-10-05,Real,,Test
+zPfC4LH_oIm_XOlfAxSDed8VIW4.mp3,2024-11-14,Real,https://www.thequint.com/neon/social-buzz/barack-obama-fake-content-internet,Train
+zPq_oGihC4AbO-HMwux7girMHcs.mp3,2024-09-03,Fake,https://pesacheck.org/fake-these-images-of-elon-musk-with-robot-wives-are-ai-generated-6e182fe88089,Train
+zR-4y1fnfy84Cyw203sxTcNUpks.mp3,2024-09-25,Fake,https://www.thequint.com/news/webqoof/sudha-murthy-promoting-investing-app-deepfake-video-fact-check,Train
+zR_K6ky8JMv8Qn9qgYrFkwTEDNc.mp3,2024-02-21,Real,Wesley Clark and Action for Democracy conspiracy theory - potentially fake by not sure,Train
+zU8uwYPheej1RFyqd5vnZxNV5_Q.mp3,2024-10-25,Real,,Train
+zU_OgDYrjRvyF-xIGyViNLM7ens.mp3,2024-11-01,Real,The screen shows translations of Kamala's talk - https://www.youtube.com/live/XdvHSwQswoI?t=363s,Test
+zXy7336ZlDJX8p48RcVbGx2cQ-o.mp3,2024-07-22,Fake,https://detect.truemedia.org/media/analysis?id=Pnv27_178BzT4K8IE5zRdLQtR8k.mp4  ttps://www.rmit.edu.au/news/factlab-meta/elon-musk-used-in-fake-ai-videos-to-promote-financial-scam,Train
+zYW7HYbK88ij0kYsKVeEi7vJhlw.mp3,2024-10-23,Fake,lip sync off,Train
+zabUHLhYPU0YbXHCfpj7OLsxLPU.wav,2024-06-29,Real,,Test
+zbCUD7rMAFaQuSxUajjq91H4TWY.mp3,2024-07-11,Real,https://www.reuters.com/article/idUSKBN25S62P/,Train
+zeV5T8V1gtEwKrSnNFNwtIdr55Q.mp3,2024-09-26,Real,https://abcnews.go.com/Politics/video/video-shows-moment-assassination-attempt-trump-rally-111922815,Train
+zhqlyRAWKyhykb9xmn47qP9Fpz0.mp3,2024-06-16,Fake,,Train
+zij8mCgOdL32klEJ4LQ8T9iVtlI.mp3,2024-08-14,Fake,confirmed AI generated https://www.youtube.com/watch?v=qSewd6Iaj6I,Test
+zojVjkbQ71p7m81PAFgIUgABSVQ.mp3,2024-08-17,Fake,Clear evidence of lipsyncing suggesting a deepfake,Test
+zpTN-eNSz0xzGg72JrmoDCBoEcY.mp3,2024-10-13,Real,,Test
+zpVZG1fcNOM3K1f7uqNPaW8JwQA.mp3,2024-10-26,Fake,obvious because her face is distorted,Test
+zpXAMHONaofP2WkdYAZTPV1lU1s.mp3,2024-05-23,Fake,lip sync,Train
+zpnzkVpeO0edNuibzBJM9ryWPYk.mp3,2024-05-10,Real,about a deepfake video,Train
+zs6EvmTdLIo5i2JL3HOkFnokM3o.wav,2024-11-05,Real,False claim on voting protocol: https://www.yahoo.com/news/south-carolina-officials-refute-election-174440308.html,Test
+ztV6cynSGBFroKeEJ-szr7UglUk.mp3,2024-08-13,Fake,lip sync is off,Train
+zwLX6_X7DsthjxicVV5a9VphKy4.mp3,2024-10-12,Fake,Created by WarConflictAI https://www.tiktok.com/@warconflictai,Train
+zyL_YzpJLyD5udgyoHJCWDyvZPI.mp3,2024-07-12,Fake,lip sync  AI generated video from real image created by Runway AI,Train
+zyjuN3w-JK-sY8Opirpnq4eScdI.mp3,2024-10-11,Fake,lip sync is off,Test
